@@ -4,13 +4,13 @@ Welcome to the Data Warehouse and Analytical Modelling Project.
 
 In this project, I take a single source dataset and transform it into three distinct schema designs:  
 Star Schema, Snowflake Schema, and One Big Table (OBT). 
-Each model represents a different approach to organizing data for analytics—designed with clarity, efficiency, and real-world use cases in mind.
+Each model represents a different approach to organizing data for analytics designed with clarity, efficiency, and real-world use cases in mind.
 
  What You'll Learn
 
 - 🔹 How to build a **Star Schema** that’s simple, fast, and BI-friendly  
-- 🔹 How to normalize dimensions into a Snowflake Schema to reduce redundancy  
-- 🔹 How to denormalize everything into a One Big Table for simplicity and flat reporting  
+- 🔹 How to normalize dimensions into a **Snowflake Schema** to reduce redundancy  
+- 🔹 How to denormalize everything into a **One Big Table** for simplicity and flat reporting  
 - 🔹 The impact of each model on query performance, storage, and data integrity  
 - 🔹 How to document models with draw.io diagrams and structure your project like a pro  
 
