@@ -1,0 +1,2001 @@
+order_id,customer_id,order_date,product_category,product_name,quantity,price_per_unit,discount_applied,delivery_status
+ORD-00001,CUST-126,2022-12-31,Books,History Book,1,316.12,0.20,Returned
+ORD-00002,CUST-171,2023-07-14,Home Goods,Blender,3,81.15,0.00,Cancelled
+ORD-00003,CUST-140,2023-02-17,Clothing,Dress,1,227.48,0.00,Pending
+ORD-00004,CUST-390,2023-08-01,Electronics,Headphones,5,169.12,0.00,Delivered
+ORD-00005,CUST-311,2023-08-07,Food & Beverage,Protein Bar,1,380.31,0.00,Shipped
+ORD-00006,CUST-739,2023-12-24,Books,History Book,1,372.40,0.00,Cancelled
+ORD-00007,CUST-982,2023-11-06,Electronics,Tablet,3,169.06,0.19,Shipped
+ORD-00008,CUST-931,2023-01-01,Food & Beverage,Energy Drink,5,377.48,0.16,Shipped
+ORD-00009,CUST-64,2023-08-21,Electronics,Laptop,2,374.06,0.00,Delivered
+ORD-00010,CUST-579,2023-10-25,Clothing,Dress,1,361.40,0.00,Shipped
+ORD-00011,CUST-249,2023-12-22,Electronics,Tablet,1,18.27,0.00,Delivered
+ORD-00012,CUST-302,2023-04-03,Home Goods,Blender,5,96.48,0.00,Shipped
+ORD-00013,CUST-106,2023-04-05,Books,History Book,2,242.41,0.00,Cancelled
+ORD-00014,CUST-302,2023-01-10,Electronics,Tablet,5,443.43,0.00,Returned
+ORD-00015,CUST-137,2023-12-14,Food & Beverage,Energy Drink,5,188.08,0.00,Shipped
+ORD-00016,CUST-479,2023-12-08,Clothing,T-Shirt,2,18.56,0.00,Cancelled
+ORD-00017,CUST-807,2023-10-11,Food & Beverage,Protein Bar,5,194.34,0.00,Cancelled
+ORD-00018,CUST-969,2023-06-30,Electronics,Smartphone,1,470.73,0.00,Shipped
+ORD-00019,CUST-211,2023-10-14,Home Goods,Toaster,4,339.01,0.00,Delivered
+ORD-00020,CUST-392,2023-12-06,Clothing,Jeans,4,176.50,0.00,Shipped
+ORD-00021,CUST-473,2023-03-15,Food & Beverage,Organic Tea,2,440.15,0.16,Shipped
+ORD-00022,CUST-534,2023-09-25,Books,Fiction Novel,3,27.47,0.00,Delivered
+ORD-00023,CUST-667,2023-05-17,Home Goods,Toaster,2,33.80,0.00,Pending
+ORD-00024,CUST-677,2023-07-26,Home Goods,Toaster,1,112.70,0.00,Returned
+ORD-00025,CUST-424,2023-02-17,Food & Beverage,Organic Tea,3,100.53,0.00,Delivered
+ORD-00026,CUST-566,2023-07-17,Home Goods,Toaster,1,337.18,0.15,Pending
+ORD-00027,CUST-739,2023-06-07,Clothing,Jeans,5,202.75,0.00,Pending
+ORD-00028,CUST-994,2023-02-01,Clothing,Dress,4,139.72,0.00,Shipped
+ORD-00029,CUST-792,2023-06-18,Books,Science Book,2,211.62,0.06,Delivered
+ORD-00030,CUST-999,2023-02-18,Clothing,Jacket,1,62.25,0.19,Returned
+ORD-00031,CUST-447,2023-10-23,Electronics,Laptop,1,238.06,0.00,Returned
+ORD-00032,CUST-200,2023-06-04,Books,Biography,3,78.93,0.20,Delivered
+ORD-00033,CUST-880,2023-02-10,Clothing,Sneakers,4,148.04,0.07,Pending
+ORD-00034,CUST-75,2023-08-11,Clothing,Sneakers,1,13.08,0.04,Cancelled
+ORD-00035,CUST-958,2023-03-25,Home Goods,Vacuum Cleaner,2,397.17,0.00,Returned
+ORD-00036,CUST-945,2023-10-31,Food & Beverage,Energy Drink,2,196.26,0.00,Shipped
+ORD-00037,CUST-813,2023-09-02,Clothing,Jacket,5,197.56,0.00,Pending
+ORD-00038,CUST-18,2023-05-16,Books,Cookbook,3,130.13,0.17,Pending
+ORD-00039,CUST-533,2023-01-06,Electronics,Laptop,5,306.20,0.00,Delivered
+ORD-00040,CUST-315,2023-01-19,Electronics,Laptop,4,287.99,0.00,Cancelled
+ORD-00041,CUST-107,2023-01-02,Clothing,Sneakers,3,140.00,0.00,Returned
+ORD-00042,CUST-463,2023-04-30,Electronics,Laptop,5,286.37,0.20,Shipped
+ORD-00043,CUST-488,2023-03-03,Electronics,Headphones,5,266.88,0.00,Shipped
+ORD-00044,CUST-462,2023-05-05,Electronics,Laptop,5,450.36,0.00,Shipped
+ORD-00045,CUST-189,2023-10-26,Clothing,Jacket,5,40.65,0.00,Shipped
+ORD-00046,CUST-307,2023-04-05,Electronics,Smartphone,2,399.86,0.00,Pending
+ORD-00047,CUST-933,2023-10-31,Electronics,Smartphone,3,148.19,0.00,Returned
+ORD-00048,CUST-79,2023-06-15,Electronics,Laptop,4,341.30,0.13,Cancelled
+ORD-00049,CUST-579,2023-04-16,Books,Biography,5,233.64,0.00,Shipped
+ORD-00050,CUST-873,2023-11-12,Food & Beverage,Organic Tea,1,221.44,0.00,Pending
+ORD-00051,CUST-209,2023-04-27,Electronics,Laptop,1,75.04,0.12,Cancelled
+ORD-00052,CUST-723,2023-10-01,Home Goods,Coffee Maker,4,289.87,0.00,Cancelled
+ORD-00053,CUST-459,2023-05-08,Books,Biography,5,309.19,0.00,Pending
+ORD-00054,CUST-301,2023-06-16,Home Goods,Blender,1,263.07,0.00,Shipped
+ORD-00055,CUST-540,2023-03-21,Clothing,Jeans,4,470.89,0.00,Pending
+ORD-00056,CUST-265,2023-09-27,Clothing,Jacket,2,200.83,0.12,Pending
+ORD-00057,CUST-43,2023-03-06,Home Goods,Blender,4,406.55,0.00,Delivered
+ORD-00058,CUST-952,2023-06-15,Home Goods,Coffee Maker,5,223.42,0.03,Pending
+ORD-00059,CUST-310,2023-12-15,Food & Beverage,Protein Bar,1,13.90,0.00,Cancelled
+ORD-00060,CUST-629,2023-07-03,Food & Beverage,Energy Drink,3,89.39,0.09,Cancelled
+ORD-00061,CUST-186,2023-01-15,Books,Biography,1,218.09,0.02,Shipped
+ORD-00062,CUST-489,2023-01-25,Books,History Book,2,61.28,0.06,Cancelled
+ORD-00063,CUST-495,2023-11-08,Food & Beverage,Energy Drink,5,208.33,0.06,Returned
+ORD-00064,CUST-320,2023-12-17,Clothing,Dress,2,121.03,0.00,Cancelled
+ORD-00065,CUST-544,2023-04-12,Clothing,Sneakers,3,102.77,0.01,Shipped
+ORD-00066,CUST-814,2023-11-20,Clothing,Jacket,5,130.71,0.00,Cancelled
+ORD-00067,CUST-952,2023-11-26,Food & Beverage,Coffee Beans,3,187.16,0.00,Delivered
+ORD-00068,CUST-413,2023-02-07,Home Goods,Toaster,1,436.86,0.00,Returned
+ORD-00069,CUST-898,2023-11-06,Electronics,Smartphone,5,375.54,0.00,Returned
+ORD-00070,CUST-600,2023-06-23,Home Goods,Air Fryer,2,58.31,0.00,Pending
+ORD-00071,CUST-123,2023-05-25,Electronics,Smartphone,5,379.08,0.00,Returned
+ORD-00072,CUST-687,2023-08-25,Food & Beverage,Organic Tea,2,235.94,0.00,Pending
+ORD-00073,CUST-812,2023-06-15,Electronics,Smartphone,5,229.40,0.00,Delivered
+ORD-00074,CUST-815,2023-11-26,Clothing,T-Shirt,3,496.28,0.05,Returned
+ORD-00075,CUST-535,2023-03-24,Electronics,Laptop,4,323.90,0.07,Pending
+ORD-00076,CUST-897,2023-01-23,Books,History Book,4,175.61,0.00,Pending
+ORD-00077,CUST-826,2023-11-30,Electronics,Smartwatch,4,264.19,0.05,Cancelled
+ORD-00078,CUST-15,2023-04-20,Books,Biography,2,221.53,0.11,Delivered
+ORD-00079,CUST-295,2023-08-25,Food & Beverage,Energy Drink,5,167.38,0.00,Cancelled
+ORD-00080,CUST-685,2023-04-18,Electronics,Tablet,1,183.89,0.00,Cancelled
+ORD-00081,CUST-100,2023-10-16,Books,History Book,3,467.15,0.00,Returned
+ORD-00082,CUST-488,2023-01-05,Clothing,Jeans,5,83.44,0.00,Shipped
+ORD-00083,CUST-653,2023-03-02,Clothing,Dress,3,313.05,0.00,Cancelled
+ORD-00084,CUST-47,2023-03-23,Electronics,Headphones,5,498.10,0.00,Returned
+ORD-00085,CUST-489,2023-06-03,Electronics,Laptop,5,136.39,0.00,Pending
+ORD-00086,CUST-905,2023-07-22,Books,Science Book,2,471.61,0.09,Pending
+ORD-00087,CUST-230,2023-10-27,Electronics,Tablet,1,31.16,0.09,Delivered
+ORD-00088,CUST-372,2023-12-19,Electronics,Tablet,2,427.59,0.00,Delivered
+ORD-00089,CUST-254,2023-01-18,Home Goods,Blender,1,65.62,0.00,Delivered
+ORD-00090,CUST-101,2023-09-05,Electronics,Laptop,5,201.83,0.14,Shipped
+ORD-00091,CUST-598,2023-11-12,Food & Beverage,Organic Tea,3,262.01,0.13,Shipped
+ORD-00092,CUST-415,2023-02-08,Home Goods,Toaster,2,403.74,0.00,Pending
+ORD-00093,CUST-886,2023-05-18,Food & Beverage,Protein Bar,1,63.10,0.00,Cancelled
+ORD-00094,CUST-161,2023-02-17,Clothing,Jacket,4,68.80,0.00,Pending
+ORD-00095,CUST-684,2023-02-07,Clothing,T-Shirt,3,453.61,0.00,Shipped
+ORD-00096,CUST-428,2023-11-05,Food & Beverage,Snack Pack,3,54.32,0.09,Returned
+ORD-00097,CUST-614,2023-12-19,Clothing,Jeans,2,420.41,0.16,Delivered
+ORD-00098,CUST-899,2023-10-23,Food & Beverage,Energy Drink,5,441.72,0.00,Delivered
+ORD-00099,CUST-74,2023-11-21,Books,Biography,3,483.43,0.00,Shipped
+ORD-00100,CUST-959,2023-06-02,Books,Science Book,1,242.17,0.00,Returned
+ORD-00101,CUST-131,2023-08-24,Clothing,T-Shirt,1,295.09,0.03,Cancelled
+ORD-00102,CUST-408,2023-07-10,Books,Science Book,1,432.08,0.00,Cancelled
+ORD-00103,CUST-894,2023-02-08,Electronics,Smartphone,4,364.68,0.07,Delivered
+ORD-00104,CUST-717,2023-06-14,Home Goods,Toaster,4,188.96,0.00,Returned
+ORD-00105,CUST-399,2023-07-24,Electronics,Tablet,4,490.71,0.00,Shipped
+ORD-00106,CUST-758,2023-11-15,Books,Fiction Novel,5,339.66,0.00,Delivered
+ORD-00107,CUST-146,2023-02-14,Books,Biography,1,475.10,0.00,Cancelled
+ORD-00108,CUST-176,2023-03-03,Food & Beverage,Coffee Beans,3,481.32,0.00,Returned
+ORD-00109,CUST-384,2023-04-08,Electronics,Headphones,5,292.64,0.08,Pending
+ORD-00110,CUST-858,2023-12-12,Clothing,T-Shirt,5,279.57,0.00,Pending
+ORD-00111,CUST-979,2023-09-06,Home Goods,Air Fryer,5,403.17,0.00,Shipped
+ORD-00112,CUST-393,2023-09-16,Electronics,Tablet,1,314.13,0.18,Delivered
+ORD-00113,CUST-655,2023-09-12,Food & Beverage,Snack Pack,4,326.30,0.03,Cancelled
+ORD-00114,CUST-801,2023-03-31,Food & Beverage,Organic Tea,4,326.19,0.00,Shipped
+ORD-00115,CUST-905,2023-04-06,Food & Beverage,Snack Pack,2,331.27,0.00,Delivered
+ORD-00116,CUST-674,2023-09-27,Books,Cookbook,5,402.45,0.00,Returned
+ORD-00117,CUST-901,2023-05-13,Food & Beverage,Energy Drink,5,244.62,0.00,Shipped
+ORD-00118,CUST-604,2023-01-31,Food & Beverage,Coffee Beans,2,87.86,0.00,Returned
+ORD-00119,CUST-40,2023-07-08,Electronics,Smartwatch,5,215.26,0.00,Shipped
+ORD-00120,CUST-737,2023-02-28,Electronics,Smartwatch,1,250.17,0.00,Pending
+ORD-00121,CUST-514,2023-07-17,Home Goods,Air Fryer,4,464.53,0.00,Shipped
+ORD-00122,CUST-904,2023-04-19,Books,Cookbook,5,381.17,0.00,Pending
+ORD-00123,CUST-797,2023-12-17,Books,Fiction Novel,5,470.16,0.00,Delivered
+ORD-00124,CUST-387,2023-11-25,Electronics,Headphones,2,168.95,0.10,Delivered
+ORD-00125,CUST-956,2023-10-05,Electronics,Laptop,3,475.77,0.01,Pending
+ORD-00126,CUST-425,2023-06-03,Clothing,Jacket,4,299.16,0.06,Shipped
+ORD-00127,CUST-721,2023-11-26,Clothing,Jeans,1,228.31,0.14,Shipped
+ORD-00128,CUST-310,2023-09-06,Food & Beverage,Energy Drink,3,496.32,0.00,Delivered
+ORD-00129,CUST-516,2023-10-02,Clothing,Sneakers,3,452.41,0.00,Pending
+ORD-00130,CUST-818,2023-11-23,Books,History Book,4,454.93,0.00,Pending
+ORD-00131,CUST-221,2023-09-04,Books,Fiction Novel,4,217.84,0.00,Delivered
+ORD-00132,CUST-213,2022-12-31,Home Goods,Toaster,3,251.57,0.00,Shipped
+ORD-00133,CUST-971,2023-11-11,Books,Biography,5,167.14,0.16,Cancelled
+ORD-00134,CUST-858,2023-05-21,Clothing,T-Shirt,4,466.18,0.00,Pending
+ORD-00135,CUST-996,2023-07-11,Books,Fiction Novel,3,141.24,0.00,Cancelled
+ORD-00136,CUST-226,2023-01-27,Books,Biography,1,479.97,0.00,Shipped
+ORD-00137,CUST-152,2023-08-23,Home Goods,Blender,2,274.59,0.00,Delivered
+ORD-00138,CUST-58,2023-09-04,Food & Beverage,Energy Drink,5,295.09,0.18,Cancelled
+ORD-00139,CUST-485,2023-04-22,Home Goods,Coffee Maker,2,343.56,0.18,Cancelled
+ORD-00140,CUST-860,2023-03-16,Clothing,Jeans,4,421.69,0.12,Shipped
+ORD-00141,CUST-473,2023-11-19,Food & Beverage,Coffee Beans,1,482.35,0.12,Cancelled
+ORD-00142,CUST-723,2023-07-26,Home Goods,Blender,2,352.20,0.00,Cancelled
+ORD-00143,CUST-173,2023-02-06,Home Goods,Blender,3,217.14,0.00,Delivered
+ORD-00144,CUST-864,2023-03-08,Clothing,T-Shirt,2,330.27,0.00,Delivered
+ORD-00145,CUST-621,2023-02-18,Books,Fiction Novel,5,389.47,0.05,Delivered
+ORD-00146,CUST-913,2023-09-21,Books,Cookbook,3,56.74,0.11,Cancelled
+ORD-00147,CUST-955,2023-01-09,Food & Beverage,Protein Bar,1,468.43,0.00,Shipped
+ORD-00148,CUST-733,2023-11-07,Electronics,Smartwatch,3,322.31,0.00,Delivered
+ORD-00149,CUST-484,2023-03-26,Food & Beverage,Protein Bar,1,112.17,0.00,Pending
+ORD-00150,CUST-831,2023-10-20,Home Goods,Blender,3,146.90,0.09,Returned
+ORD-00151,CUST-731,2023-04-12,Clothing,Dress,1,50.91,0.00,Pending
+ORD-00152,CUST-268,2023-08-05,Electronics,Headphones,2,476.10,0.08,Shipped
+ORD-00153,CUST-688,2023-06-25,Books,Science Book,3,279.88,0.00,Returned
+ORD-00154,CUST-215,2023-06-20,Electronics,Tablet,1,129.71,0.00,Shipped
+ORD-00155,CUST-46,2023-12-25,Clothing,Jacket,5,168.10,0.17,Returned
+ORD-00156,CUST-996,2023-01-05,Books,Biography,5,192.93,0.15,Returned
+ORD-00157,CUST-882,2023-01-02,Food & Beverage,Snack Pack,3,335.19,0.00,Returned
+ORD-00158,CUST-30,2023-09-17,Food & Beverage,Coffee Beans,4,286.46,0.10,Shipped
+ORD-00159,CUST-968,2023-04-26,Food & Beverage,Energy Drink,5,178.89,0.00,Cancelled
+ORD-00160,CUST-939,2023-04-13,Books,Cookbook,5,27.45,0.00,Returned
+ORD-00161,CUST-659,2023-08-14,Home Goods,Coffee Maker,5,316.98,0.18,Delivered
+ORD-00162,CUST-718,2023-08-31,Clothing,Jeans,2,158.68,0.00,Delivered
+ORD-00163,CUST-287,2023-01-23,Food & Beverage,Organic Tea,5,140.09,0.00,Returned
+ORD-00164,CUST-348,2023-11-03,Books,Biography,3,156.25,0.13,Shipped
+ORD-00165,CUST-637,2023-08-07,Electronics,Tablet,2,12.22,0.00,Delivered
+ORD-00166,CUST-143,2023-12-09,Clothing,T-Shirt,1,180.50,0.00,Cancelled
+ORD-00167,CUST-784,2023-03-20,Books,History Book,5,344.24,0.00,Cancelled
+ORD-00168,CUST-240,2023-04-06,Food & Beverage,Energy Drink,2,10.51,0.00,Delivered
+ORD-00169,CUST-629,2023-02-27,Clothing,Jacket,1,88.28,0.00,Returned
+ORD-00170,CUST-833,2023-12-20,Electronics,Laptop,1,250.66,0.00,Pending
+ORD-00171,CUST-354,2023-09-17,Home Goods,Toaster,1,19.12,0.00,Delivered
+ORD-00172,CUST-26,2023-01-06,Electronics,Laptop,2,264.84,0.00,Cancelled
+ORD-00173,CUST-610,2023-05-23,Books,History Book,5,429.52,0.00,Delivered
+ORD-00174,CUST-536,2023-06-12,Books,History Book,2,46.11,0.00,Returned
+ORD-00175,CUST-968,2023-11-30,Electronics,Smartwatch,4,262.97,0.00,Delivered
+ORD-00176,CUST-916,2023-06-05,Books,History Book,1,186.12,0.19,Delivered
+ORD-00177,CUST-862,2023-12-08,Home Goods,Toaster,1,151.52,0.00,Returned
+ORD-00178,CUST-483,2023-03-17,Clothing,Jeans,4,155.27,0.00,Shipped
+ORD-00179,CUST-250,2023-03-25,Electronics,Tablet,4,493.50,0.15,Delivered
+ORD-00180,CUST-515,2023-01-19,Clothing,Jacket,5,330.20,0.09,Delivered
+ORD-00181,CUST-919,2023-05-12,Electronics,Smartphone,2,385.24,0.00,Pending
+ORD-00182,CUST-26,2023-02-16,Books,History Book,4,318.11,0.01,Shipped
+ORD-00183,CUST-862,2023-03-01,Food & Beverage,Organic Tea,5,112.46,0.09,Cancelled
+ORD-00184,CUST-831,2023-01-19,Food & Beverage,Snack Pack,2,15.01,0.00,Shipped
+ORD-00185,CUST-923,2023-07-04,Clothing,Dress,5,469.78,0.05,Delivered
+ORD-00186,CUST-89,2023-11-07,Food & Beverage,Coffee Beans,3,279.86,0.00,Cancelled
+ORD-00187,CUST-147,2023-06-02,Food & Beverage,Protein Bar,5,384.95,0.00,Shipped
+ORD-00188,CUST-878,2023-08-26,Clothing,T-Shirt,5,317.15,0.00,Delivered
+ORD-00189,CUST-136,2023-11-06,Food & Beverage,Protein Bar,5,261.32,0.00,Cancelled
+ORD-00190,CUST-494,2023-11-06,Home Goods,Air Fryer,4,57.19,0.00,Delivered
+ORD-00191,CUST-551,2023-11-20,Clothing,Jeans,5,483.87,0.00,Returned
+ORD-00192,CUST-255,2023-05-17,Books,Science Book,3,282.76,0.15,Delivered
+ORD-00193,CUST-753,2023-08-02,Electronics,Tablet,3,292.60,0.11,Returned
+ORD-00194,CUST-817,2023-10-21,Clothing,Sneakers,5,139.61,0.00,Shipped
+ORD-00195,CUST-907,2023-06-15,Food & Beverage,Energy Drink,1,249.58,0.08,Delivered
+ORD-00196,CUST-427,2023-11-30,Food & Beverage,Protein Bar,3,134.94,0.00,Shipped
+ORD-00197,CUST-462,2023-03-07,Clothing,Jacket,4,96.14,0.00,Pending
+ORD-00198,CUST-266,2023-10-08,Books,Cookbook,1,35.23,0.00,Shipped
+ORD-00199,CUST-291,2023-11-22,Electronics,Smartwatch,3,147.92,0.15,Cancelled
+ORD-00200,CUST-431,2023-07-19,Electronics,Smartwatch,5,17.26,0.00,Shipped
+ORD-00201,CUST-109,2023-05-31,Books,History Book,5,155.22,0.00,Delivered
+ORD-00202,CUST-800,2023-09-09,Clothing,Dress,3,309.11,0.12,Returned
+ORD-00203,CUST-542,2023-12-15,Clothing,Jacket,1,169.50,0.13,Shipped
+ORD-00204,CUST-187,2023-08-12,Food & Beverage,Snack Pack,1,481.18,0.00,Cancelled
+ORD-00205,CUST-825,2023-05-16,Books,Biography,5,466.92,0.19,Pending
+ORD-00206,CUST-532,2022-12-31,Food & Beverage,Organic Tea,5,446.40,0.00,Returned
+ORD-00207,CUST-727,2023-08-25,Clothing,Sneakers,4,349.25,0.12,Shipped
+ORD-00208,CUST-338,2023-09-19,Home Goods,Blender,4,82.34,0.00,Pending
+ORD-00209,CUST-880,2023-06-08,Clothing,Jacket,2,276.00,0.00,Delivered
+ORD-00210,CUST-770,2023-09-08,Electronics,Smartphone,3,307.59,0.00,Cancelled
+ORD-00211,CUST-447,2023-08-08,Books,History Book,2,306.69,0.00,Pending
+ORD-00212,CUST-234,2023-11-24,Food & Beverage,Protein Bar,4,393.68,0.00,Delivered
+ORD-00213,CUST-324,2023-03-02,Food & Beverage,Organic Tea,1,234.39,0.00,Pending
+ORD-00214,CUST-57,2023-01-07,Home Goods,Vacuum Cleaner,4,423.90,0.00,Shipped
+ORD-00215,CUST-914,2023-12-07,Books,Cookbook,5,126.26,0.00,Delivered
+ORD-00216,CUST-689,2023-12-07,Food & Beverage,Snack Pack,5,403.14,0.00,Returned
+ORD-00217,CUST-375,2023-06-27,Home Goods,Blender,3,320.11,0.00,Cancelled
+ORD-00218,CUST-803,2023-07-08,Food & Beverage,Organic Tea,4,92.04,0.00,Pending
+ORD-00219,CUST-195,2023-07-11,Food & Beverage,Energy Drink,5,311.04,0.19,Returned
+ORD-00220,CUST-474,2023-02-14,Electronics,Smartwatch,4,20.16,0.00,Pending
+ORD-00221,CUST-39,2023-02-06,Books,Science Book,2,335.48,0.00,Shipped
+ORD-00222,CUST-847,2023-08-23,Home Goods,Coffee Maker,5,119.74,0.05,Shipped
+ORD-00223,CUST-694,2023-01-02,Clothing,T-Shirt,4,417.57,0.00,Cancelled
+ORD-00224,CUST-321,2023-12-06,Food & Beverage,Protein Bar,2,279.99,0.17,Shipped
+ORD-00225,CUST-706,2023-06-18,Clothing,Jacket,5,241.26,0.00,Pending
+ORD-00226,CUST-254,2023-03-01,Books,Cookbook,3,175.40,0.00,Returned
+ORD-00227,CUST-544,2023-02-16,Books,Science Book,3,28.36,0.12,Cancelled
+ORD-00228,CUST-691,2023-10-13,Electronics,Tablet,4,210.72,0.00,Delivered
+ORD-00229,CUST-424,2023-07-25,Electronics,Tablet,3,128.24,0.00,Delivered
+ORD-00230,CUST-45,2023-05-10,Books,Fiction Novel,2,431.02,0.07,Shipped
+ORD-00231,CUST-274,2023-04-16,Electronics,Headphones,3,240.16,0.00,Shipped
+ORD-00232,CUST-468,2023-09-11,Home Goods,Toaster,4,79.05,0.00,Shipped
+ORD-00233,CUST-293,2023-06-16,Electronics,Headphones,5,62.65,0.00,Cancelled
+ORD-00234,CUST-343,2023-05-04,Home Goods,Coffee Maker,4,258.93,0.00,Returned
+ORD-00235,CUST-197,2023-10-14,Home Goods,Vacuum Cleaner,3,337.39,0.00,Pending
+ORD-00236,CUST-959,2023-01-27,Clothing,Jeans,2,135.10,0.00,Cancelled
+ORD-00237,CUST-187,2023-04-09,Food & Beverage,Protein Bar,4,297.86,0.00,Delivered
+ORD-00238,CUST-365,2023-01-08,Electronics,Headphones,1,285.25,0.00,Delivered
+ORD-00239,CUST-687,2023-02-08,Home Goods,Vacuum Cleaner,4,204.15,0.12,Pending
+ORD-00240,CUST-747,2023-11-18,Books,History Book,1,216.53,0.00,Returned
+ORD-00241,CUST-340,2023-05-12,Books,Fiction Novel,3,71.66,0.00,Returned
+ORD-00242,CUST-574,2023-04-25,Food & Beverage,Protein Bar,1,339.09,0.00,Shipped
+ORD-00243,CUST-434,2023-11-01,Food & Beverage,Energy Drink,1,168.95,0.00,Pending
+ORD-00244,CUST-445,2023-02-23,Food & Beverage,Coffee Beans,2,438.23,0.13,Cancelled
+ORD-00245,CUST-271,2023-05-02,Electronics,Headphones,3,136.21,0.00,Returned
+ORD-00246,CUST-636,2023-08-12,Clothing,Dress,5,30.54,0.00,Pending
+ORD-00247,CUST-520,2023-03-18,Electronics,Smartphone,1,122.11,0.00,Shipped
+ORD-00248,CUST-997,2023-04-20,Clothing,T-Shirt,5,205.70,0.00,Pending
+ORD-00249,CUST-48,2023-05-19,Food & Beverage,Coffee Beans,2,63.95,0.01,Cancelled
+ORD-00250,CUST-955,2023-05-11,Food & Beverage,Energy Drink,2,470.06,0.00,Shipped
+ORD-00251,CUST-189,2023-11-06,Home Goods,Toaster,2,99.44,0.00,Delivered
+ORD-00252,CUST-278,2023-11-15,Books,Science Book,3,39.38,0.00,Cancelled
+ORD-00253,CUST-216,2023-10-08,Clothing,Jacket,1,263.88,0.00,Pending
+ORD-00254,CUST-337,2023-12-07,Food & Beverage,Energy Drink,1,273.67,0.00,Pending
+ORD-00255,CUST-140,2023-04-27,Books,Fiction Novel,4,187.70,0.04,Pending
+ORD-00256,CUST-60,2023-03-22,Food & Beverage,Protein Bar,3,192.78,0.00,Returned
+ORD-00257,CUST-962,2023-12-08,Books,History Book,4,266.93,0.00,Cancelled
+ORD-00258,CUST-116,2023-03-13,Books,Science Book,3,227.11,0.00,Shipped
+ORD-00259,CUST-587,2023-02-11,Books,History Book,5,263.01,0.00,Shipped
+ORD-00260,CUST-614,2023-07-25,Books,History Book,3,468.65,0.00,Shipped
+ORD-00261,CUST-191,2023-08-17,Electronics,Smartwatch,5,245.46,0.11,Shipped
+ORD-00262,CUST-176,2023-05-04,Home Goods,Air Fryer,2,407.26,0.00,Delivered
+ORD-00263,CUST-122,2023-08-14,Books,History Book,5,49.09,0.00,Shipped
+ORD-00264,CUST-584,2023-04-03,Food & Beverage,Coffee Beans,1,347.53,0.02,Returned
+ORD-00265,CUST-856,2023-08-05,Electronics,Laptop,4,340.06,0.01,Returned
+ORD-00266,CUST-391,2023-06-12,Clothing,Jacket,4,50.39,0.00,Delivered
+ORD-00267,CUST-819,2023-04-01,Clothing,Jacket,4,58.33,0.00,Pending
+ORD-00268,CUST-673,2023-05-19,Books,History Book,4,24.17,0.00,Shipped
+ORD-00269,CUST-532,2023-07-01,Books,Biography,3,436.27,0.00,Delivered
+ORD-00270,CUST-423,2023-02-12,Electronics,Tablet,5,333.20,0.00,Cancelled
+ORD-00271,CUST-898,2023-06-12,Home Goods,Vacuum Cleaner,4,83.72,0.00,Pending
+ORD-00272,CUST-463,2023-10-26,Books,History Book,3,463.43,0.00,Pending
+ORD-00273,CUST-357,2023-12-07,Food & Beverage,Coffee Beans,3,27.31,0.00,Returned
+ORD-00274,CUST-159,2023-04-07,Electronics,Laptop,2,216.15,0.00,Pending
+ORD-00275,CUST-625,2023-09-25,Electronics,Tablet,4,61.70,0.00,Shipped
+ORD-00276,CUST-308,2023-03-24,Books,Fiction Novel,5,23.72,0.18,Returned
+ORD-00277,CUST-529,2023-05-13,Home Goods,Vacuum Cleaner,1,33.12,0.20,Cancelled
+ORD-00278,CUST-640,2023-09-23,Food & Beverage,Protein Bar,1,431.24,0.00,Pending
+ORD-00279,CUST-884,2023-03-31,Clothing,Dress,1,120.13,0.00,Pending
+ORD-00280,CUST-570,2023-01-25,Home Goods,Blender,1,149.02,0.00,Delivered
+ORD-00281,CUST-630,2022-12-31,Electronics,Smartphone,5,384.95,0.00,Returned
+ORD-00282,CUST-960,2023-09-07,Books,Biography,4,383.74,0.03,Returned
+ORD-00283,CUST-46,2023-10-16,Home Goods,Toaster,3,410.03,0.18,Cancelled
+ORD-00284,CUST-671,2023-07-11,Home Goods,Air Fryer,5,149.62,0.00,Pending
+ORD-00285,CUST-166,2023-09-15,Clothing,Jeans,3,229.66,0.00,Returned
+ORD-00286,CUST-430,2023-10-17,Books,Cookbook,1,22.97,0.11,Returned
+ORD-00287,CUST-416,2023-12-10,Books,Biography,4,276.95,0.00,Pending
+ORD-00288,CUST-361,2023-04-04,Food & Beverage,Coffee Beans,4,292.04,0.00,Pending
+ORD-00289,CUST-403,2023-07-26,Food & Beverage,Organic Tea,2,26.59,0.00,Delivered
+ORD-00290,CUST-818,2023-02-10,Electronics,Smartphone,1,88.52,0.04,Cancelled
+ORD-00291,CUST-570,2023-08-20,Electronics,Smartwatch,2,221.14,0.00,Delivered
+ORD-00292,CUST-451,2023-08-21,Electronics,Tablet,3,40.81,0.00,Delivered
+ORD-00293,CUST-203,2023-07-09,Home Goods,Vacuum Cleaner,4,129.85,0.00,Returned
+ORD-00294,CUST-725,2023-04-16,Food & Beverage,Snack Pack,3,74.27,0.14,Pending
+ORD-00295,CUST-987,2023-12-03,Clothing,Jacket,3,49.31,0.02,Shipped
+ORD-00296,CUST-770,2023-05-04,Clothing,T-Shirt,3,206.70,0.18,Shipped
+ORD-00297,CUST-953,2023-07-01,Clothing,Jacket,2,126.78,0.00,Returned
+ORD-00298,CUST-342,2023-03-22,Home Goods,Blender,4,258.45,0.00,Shipped
+ORD-00299,CUST-160,2023-03-21,Electronics,Tablet,2,70.39,0.00,Delivered
+ORD-00300,CUST-32,2023-09-18,Electronics,Smartwatch,2,322.93,0.00,Pending
+ORD-00301,CUST-206,2023-08-27,Home Goods,Toaster,3,36.49,0.00,Cancelled
+ORD-00302,CUST-784,2023-11-01,Books,Cookbook,5,100.95,0.00,Returned
+ORD-00303,CUST-927,2023-01-22,Books,Cookbook,3,155.61,0.00,Pending
+ORD-00304,CUST-535,2023-08-15,Clothing,Jeans,3,381.83,0.04,Returned
+ORD-00305,CUST-756,2023-08-20,Electronics,Laptop,2,110.85,0.00,Cancelled
+ORD-00306,CUST-701,2023-06-04,Home Goods,Vacuum Cleaner,2,151.90,0.00,Returned
+ORD-00307,CUST-265,2023-01-09,Clothing,T-Shirt,1,95.10,0.00,Cancelled
+ORD-00308,CUST-422,2023-12-21,Clothing,Sneakers,4,212.02,0.00,Shipped
+ORD-00309,CUST-279,2023-09-08,Clothing,Jacket,2,453.73,0.00,Cancelled
+ORD-00310,CUST-715,2023-02-24,Books,History Book,3,384.97,0.00,Cancelled
+ORD-00311,CUST-672,2023-02-03,Electronics,Smartwatch,1,225.13,0.00,Pending
+ORD-00312,CUST-127,2023-02-28,Electronics,Headphones,3,337.37,0.00,Returned
+ORD-00313,CUST-846,2023-12-04,Books,History Book,2,292.72,0.00,Shipped
+ORD-00314,CUST-270,2023-03-23,Electronics,Tablet,2,323.66,0.00,Pending
+ORD-00315,CUST-567,2023-03-15,Books,Science Book,5,194.29,0.09,Delivered
+ORD-00316,CUST-674,2023-04-07,Books,Cookbook,1,263.02,0.20,Pending
+ORD-00317,CUST-196,2023-04-24,Food & Beverage,Protein Bar,2,321.69,0.00,Cancelled
+ORD-00318,CUST-118,2023-10-18,Food & Beverage,Organic Tea,3,407.42,0.00,Returned
+ORD-00319,CUST-132,2023-07-17,Home Goods,Toaster,3,221.06,0.00,Returned
+ORD-00320,CUST-371,2023-05-06,Electronics,Headphones,2,183.42,0.00,Pending
+ORD-00321,CUST-72,2023-04-08,Home Goods,Toaster,5,460.04,0.00,Returned
+ORD-00322,CUST-261,2023-08-05,Food & Beverage,Coffee Beans,5,55.19,0.17,Delivered
+ORD-00323,CUST-510,2023-01-23,Clothing,Jeans,5,457.23,0.00,Pending
+ORD-00324,CUST-509,2023-12-27,Books,Biography,5,247.31,0.11,Shipped
+ORD-00325,CUST-338,2023-06-11,Electronics,Laptop,5,243.95,0.00,Pending
+ORD-00326,CUST-24,2023-02-09,Food & Beverage,Energy Drink,4,495.54,0.00,Returned
+ORD-00327,CUST-354,2023-10-25,Books,Biography,1,428.41,0.00,Delivered
+ORD-00328,CUST-601,2023-11-10,Books,History Book,2,64.66,0.00,Delivered
+ORD-00329,CUST-479,2023-06-18,Home Goods,Toaster,5,486.07,0.00,Shipped
+ORD-00330,CUST-461,2023-09-12,Clothing,Dress,5,353.67,0.00,Delivered
+ORD-00331,CUST-904,2023-11-03,Electronics,Tablet,3,342.92,0.19,Pending
+ORD-00332,CUST-661,2023-01-13,Books,Fiction Novel,1,257.82,0.00,Returned
+ORD-00333,CUST-832,2023-02-20,Books,Science Book,2,266.94,0.00,Pending
+ORD-00334,CUST-471,2023-06-09,Books,Biography,2,53.91,0.08,Shipped
+ORD-00335,CUST-676,2023-01-11,Electronics,Tablet,3,326.28,0.00,Cancelled
+ORD-00336,CUST-618,2023-11-27,Clothing,Dress,1,338.37,0.00,Pending
+ORD-00337,CUST-242,2023-07-09,Clothing,T-Shirt,1,166.77,0.19,Shipped
+ORD-00338,CUST-867,2023-09-03,Food & Beverage,Coffee Beans,3,11.76,0.00,Pending
+ORD-00339,CUST-40,2023-09-05,Clothing,Jeans,3,376.04,0.00,Pending
+ORD-00340,CUST-702,2023-10-25,Home Goods,Vacuum Cleaner,4,201.40,0.00,Cancelled
+ORD-00341,CUST-343,2023-07-07,Food & Beverage,Protein Bar,1,51.27,0.13,Pending
+ORD-00342,CUST-393,2023-03-27,Electronics,Laptop,5,78.41,0.00,Cancelled
+ORD-00343,CUST-969,2023-05-23,Clothing,T-Shirt,3,353.21,0.00,Pending
+ORD-00344,CUST-495,2023-09-10,Food & Beverage,Organic Tea,3,308.62,0.00,Shipped
+ORD-00345,CUST-845,2023-11-10,Books,History Book,5,206.08,0.00,Cancelled
+ORD-00346,CUST-837,2023-04-27,Electronics,Headphones,5,189.64,0.08,Cancelled
+ORD-00347,CUST-543,2023-04-06,Food & Beverage,Energy Drink,3,450.95,0.00,Cancelled
+ORD-00348,CUST-10,2023-11-14,Food & Beverage,Protein Bar,2,77.55,0.00,Shipped
+ORD-00349,CUST-249,2023-01-09,Home Goods,Coffee Maker,2,482.54,0.13,Pending
+ORD-00350,CUST-522,2023-04-25,Clothing,T-Shirt,4,73.47,0.00,Returned
+ORD-00351,CUST-978,2023-07-07,Books,Biography,1,283.37,0.00,Pending
+ORD-00352,CUST-232,2023-09-18,Electronics,Smartwatch,5,28.91,0.00,Cancelled
+ORD-00353,CUST-955,2023-05-26,Home Goods,Blender,3,71.12,0.00,Shipped
+ORD-00354,CUST-22,2023-09-22,Electronics,Tablet,5,119.66,0.00,Cancelled
+ORD-00355,CUST-933,2023-01-06,Home Goods,Vacuum Cleaner,2,438.61,0.00,Shipped
+ORD-00356,CUST-767,2023-08-01,Books,Science Book,1,455.78,0.04,Pending
+ORD-00357,CUST-6,2023-01-23,Clothing,T-Shirt,1,60.44,0.20,Returned
+ORD-00358,CUST-180,2023-10-17,Home Goods,Coffee Maker,5,376.88,0.00,Returned
+ORD-00359,CUST-702,2023-11-13,Books,Science Book,3,486.71,0.00,Returned
+ORD-00360,CUST-276,2023-10-17,Books,Cookbook,4,362.43,0.00,Delivered
+ORD-00361,CUST-310,2023-12-17,Books,Cookbook,4,24.51,0.00,Delivered
+ORD-00362,CUST-322,2023-10-14,Books,History Book,4,105.24,0.13,Pending
+ORD-00363,CUST-971,2023-03-27,Food & Beverage,Snack Pack,2,261.12,0.20,Returned
+ORD-00364,CUST-32,2023-08-08,Books,Science Book,2,288.06,0.08,Delivered
+ORD-00365,CUST-501,2023-11-19,Electronics,Tablet,2,345.53,0.00,Shipped
+ORD-00366,CUST-693,2023-10-05,Clothing,Jacket,1,470.08,0.00,Returned
+ORD-00367,CUST-364,2023-07-12,Food & Beverage,Coffee Beans,3,391.15,0.00,Delivered
+ORD-00368,CUST-807,2023-05-31,Home Goods,Blender,4,76.49,0.11,Pending
+ORD-00369,CUST-56,2023-09-03,Food & Beverage,Energy Drink,2,366.17,0.00,Cancelled
+ORD-00370,CUST-673,2023-11-12,Electronics,Headphones,1,102.18,0.00,Shipped
+ORD-00371,CUST-900,2023-01-09,Electronics,Smartphone,2,238.50,0.00,Pending
+ORD-00372,CUST-78,2023-02-09,Books,Science Book,1,369.30,0.14,Shipped
+ORD-00373,CUST-281,2023-09-23,Books,History Book,4,224.65,0.00,Pending
+ORD-00374,CUST-918,2023-06-26,Electronics,Smartphone,5,154.80,0.00,Delivered
+ORD-00375,CUST-389,2023-04-20,Books,Science Book,2,359.36,0.00,Shipped
+ORD-00376,CUST-987,2023-10-20,Electronics,Smartphone,2,240.63,0.00,Returned
+ORD-00377,CUST-900,2023-03-10,Electronics,Headphones,4,54.33,0.00,Pending
+ORD-00378,CUST-541,2023-03-31,Clothing,Jacket,1,241.23,0.00,Pending
+ORD-00379,CUST-826,2023-11-07,Home Goods,Coffee Maker,4,70.42,0.00,Cancelled
+ORD-00380,CUST-51,2023-06-13,Books,Biography,1,281.44,0.00,Returned
+ORD-00381,CUST-46,2023-08-23,Books,Biography,5,299.96,0.00,Delivered
+ORD-00382,CUST-93,2023-11-14,Electronics,Tablet,5,206.09,0.00,Returned
+ORD-00383,CUST-687,2023-04-22,Electronics,Smartwatch,1,271.84,0.00,Pending
+ORD-00384,CUST-899,2023-06-01,Electronics,Tablet,2,363.81,0.17,Pending
+ORD-00385,CUST-853,2023-02-10,Home Goods,Toaster,2,203.82,0.00,Cancelled
+ORD-00386,CUST-121,2023-08-13,Books,Science Book,2,94.59,0.00,Returned
+ORD-00387,CUST-612,2023-01-14,Clothing,Dress,1,247.77,0.00,Pending
+ORD-00388,CUST-102,2023-02-14,Food & Beverage,Snack Pack,3,304.65,0.00,Delivered
+ORD-00389,CUST-187,2023-06-23,Electronics,Smartwatch,4,481.41,0.00,Shipped
+ORD-00390,CUST-820,2023-01-03,Home Goods,Vacuum Cleaner,3,441.63,0.00,Delivered
+ORD-00391,CUST-337,2023-09-13,Food & Beverage,Organic Tea,5,151.41,0.00,Shipped
+ORD-00392,CUST-978,2023-10-08,Food & Beverage,Energy Drink,5,75.70,0.00,Pending
+ORD-00393,CUST-555,2023-10-04,Food & Beverage,Energy Drink,2,35.55,0.16,Returned
+ORD-00394,CUST-946,2023-03-21,Food & Beverage,Energy Drink,1,224.85,0.01,Delivered
+ORD-00395,CUST-736,2023-05-16,Books,Fiction Novel,3,49.55,0.00,Returned
+ORD-00396,CUST-837,2023-11-09,Home Goods,Air Fryer,2,284.26,0.03,Returned
+ORD-00397,CUST-145,2023-06-07,Food & Beverage,Coffee Beans,3,206.39,0.00,Cancelled
+ORD-00398,CUST-232,2023-02-14,Electronics,Tablet,1,310.68,0.00,Pending
+ORD-00399,CUST-608,2023-01-11,Books,Biography,1,221.92,0.00,Cancelled
+ORD-00400,CUST-660,2023-11-18,Food & Beverage,Snack Pack,4,26.84,0.00,Shipped
+ORD-00401,CUST-262,2023-05-19,Food & Beverage,Snack Pack,5,240.35,0.00,Delivered
+ORD-00402,CUST-10,2023-01-09,Clothing,Dress,4,168.74,0.00,Delivered
+ORD-00403,CUST-411,2023-12-10,Books,Biography,1,421.39,0.00,Returned
+ORD-00404,CUST-647,2023-04-05,Food & Beverage,Organic Tea,1,160.97,0.00,Pending
+ORD-00405,CUST-197,2023-08-20,Home Goods,Air Fryer,2,56.58,0.00,Pending
+ORD-00406,CUST-973,2023-05-14,Clothing,Jeans,1,171.62,0.00,Delivered
+ORD-00407,CUST-393,2023-11-13,Clothing,Sneakers,5,42.65,0.00,Shipped
+ORD-00408,CUST-253,2023-10-03,Clothing,Jeans,4,386.92,0.00,Shipped
+ORD-00409,CUST-971,2023-07-03,Clothing,Sneakers,4,374.22,0.10,Pending
+ORD-00410,CUST-13,2023-05-05,Food & Beverage,Coffee Beans,2,188.48,0.00,Delivered
+ORD-00411,CUST-746,2023-09-14,Books,History Book,4,262.86,0.06,Delivered
+ORD-00412,CUST-163,2023-12-06,Clothing,Jeans,1,283.73,0.05,Cancelled
+ORD-00413,CUST-828,2023-09-12,Food & Beverage,Protein Bar,2,85.56,0.00,Returned
+ORD-00414,CUST-217,2023-11-01,Food & Beverage,Energy Drink,5,321.55,0.00,Shipped
+ORD-00415,CUST-77,2023-09-04,Food & Beverage,Energy Drink,4,179.16,0.00,Pending
+ORD-00416,CUST-353,2023-09-19,Electronics,Headphones,2,365.40,0.01,Delivered
+ORD-00417,CUST-771,2023-04-22,Books,Biography,4,155.68,0.10,Cancelled
+ORD-00418,CUST-571,2023-10-15,Electronics,Headphones,2,10.05,0.18,Delivered
+ORD-00419,CUST-624,2023-07-20,Home Goods,Blender,1,150.26,0.00,Pending
+ORD-00420,CUST-154,2023-01-10,Food & Beverage,Snack Pack,1,179.17,0.00,Delivered
+ORD-00421,CUST-130,2023-06-27,Books,Biography,3,129.01,0.00,Pending
+ORD-00422,CUST-871,2023-04-18,Food & Beverage,Protein Bar,3,200.63,0.00,Cancelled
+ORD-00423,CUST-297,2023-12-12,Food & Beverage,Organic Tea,4,396.28,0.00,Returned
+ORD-00424,CUST-197,2023-01-19,Food & Beverage,Coffee Beans,1,244.26,0.15,Cancelled
+ORD-00425,CUST-300,2023-03-15,Home Goods,Air Fryer,2,56.84,0.00,Shipped
+ORD-00426,CUST-443,2023-05-10,Food & Beverage,Protein Bar,3,337.66,0.00,Delivered
+ORD-00427,CUST-82,2023-01-03,Books,Cookbook,4,225.63,0.00,Delivered
+ORD-00428,CUST-420,2023-03-26,Books,Science Book,5,338.72,0.00,Cancelled
+ORD-00429,CUST-466,2023-10-08,Books,Science Book,3,440.93,0.00,Pending
+ORD-00430,CUST-966,2023-01-09,Electronics,Tablet,1,418.03,0.00,Returned
+ORD-00431,CUST-716,2023-12-17,Books,Fiction Novel,3,471.27,0.00,Shipped
+ORD-00432,CUST-703,2023-11-06,Electronics,Tablet,5,165.98,0.07,Returned
+ORD-00433,CUST-884,2023-12-15,Food & Beverage,Protein Bar,3,154.31,0.00,Pending
+ORD-00434,CUST-917,2023-01-15,Home Goods,Blender,2,21.97,0.00,Returned
+ORD-00435,CUST-682,2023-03-09,Electronics,Laptop,4,27.52,0.00,Cancelled
+ORD-00436,CUST-740,2023-10-23,Home Goods,Blender,5,313.41,0.00,Returned
+ORD-00437,CUST-296,2023-07-19,Food & Beverage,Coffee Beans,1,466.89,0.12,Returned
+ORD-00438,CUST-632,2023-11-08,Food & Beverage,Snack Pack,1,272.28,0.00,Delivered
+ORD-00439,CUST-18,2023-11-04,Books,Science Book,3,281.39,0.00,Cancelled
+ORD-00440,CUST-355,2023-08-22,Electronics,Smartwatch,5,146.29,0.09,Pending
+ORD-00441,CUST-627,2023-08-04,Home Goods,Air Fryer,2,466.01,0.18,Delivered
+ORD-00442,CUST-33,2023-09-07,Food & Beverage,Snack Pack,4,90.82,0.00,Shipped
+ORD-00443,CUST-985,2023-03-23,Electronics,Smartphone,3,436.03,0.00,Pending
+ORD-00444,CUST-430,2023-03-08,Electronics,Smartwatch,1,349.99,0.11,Cancelled
+ORD-00445,CUST-147,2023-11-01,Home Goods,Coffee Maker,4,65.50,0.00,Delivered
+ORD-00446,CUST-913,2023-05-15,Electronics,Smartwatch,3,323.55,0.14,Delivered
+ORD-00447,CUST-348,2023-09-23,Home Goods,Vacuum Cleaner,2,282.28,0.00,Cancelled
+ORD-00448,CUST-958,2023-08-17,Electronics,Smartwatch,2,109.11,0.13,Shipped
+ORD-00449,CUST-706,2023-11-11,Home Goods,Air Fryer,5,309.21,0.00,Cancelled
+ORD-00450,CUST-174,2023-10-01,Home Goods,Coffee Maker,5,386.90,0.17,Pending
+ORD-00451,CUST-611,2023-10-12,Electronics,Smartwatch,3,453.24,0.08,Delivered
+ORD-00452,CUST-842,2023-07-10,Clothing,Dress,1,141.58,0.00,Pending
+ORD-00453,CUST-89,2023-05-23,Electronics,Tablet,1,18.03,0.00,Cancelled
+ORD-00454,CUST-408,2023-05-17,Clothing,Sneakers,4,38.96,0.00,Delivered
+ORD-00455,CUST-340,2023-06-09,Electronics,Tablet,5,310.59,0.00,Shipped
+ORD-00456,CUST-235,2023-07-04,Food & Beverage,Organic Tea,3,116.87,0.19,Pending
+ORD-00457,CUST-267,2023-01-07,Books,History Book,1,157.20,0.00,Shipped
+ORD-00458,CUST-38,2023-03-20,Books,Science Book,1,375.51,0.02,Cancelled
+ORD-00459,CUST-789,2023-11-30,Books,Science Book,3,199.54,0.00,Pending
+ORD-00460,CUST-160,2023-11-06,Home Goods,Air Fryer,2,335.14,0.11,Cancelled
+ORD-00461,CUST-714,2023-07-31,Clothing,Dress,4,268.86,0.00,Shipped
+ORD-00462,CUST-43,2023-02-28,Food & Beverage,Energy Drink,2,181.27,0.00,Delivered
+ORD-00463,CUST-17,2023-11-14,Home Goods,Coffee Maker,3,161.71,0.00,Delivered
+ORD-00464,CUST-132,2023-01-25,Books,Science Book,3,178.16,0.00,Cancelled
+ORD-00465,CUST-812,2023-03-07,Electronics,Smartphone,1,259.35,0.00,Delivered
+ORD-00466,CUST-318,2023-11-19,Home Goods,Vacuum Cleaner,2,309.90,0.00,Returned
+ORD-00467,CUST-897,2023-07-11,Home Goods,Air Fryer,1,337.65,0.08,Shipped
+ORD-00468,CUST-817,2023-10-15,Clothing,Sneakers,4,124.79,0.00,Pending
+ORD-00469,CUST-93,2023-06-27,Clothing,Dress,2,331.10,0.07,Cancelled
+ORD-00470,CUST-477,2023-09-07,Food & Beverage,Protein Bar,5,223.44,0.00,Pending
+ORD-00471,CUST-900,2023-10-13,Electronics,Headphones,5,483.09,0.00,Cancelled
+ORD-00472,CUST-806,2023-09-09,Books,Fiction Novel,4,78.57,0.00,Pending
+ORD-00473,CUST-579,2023-03-06,Electronics,Smartphone,4,327.37,0.00,Shipped
+ORD-00474,CUST-547,2023-01-12,Food & Beverage,Snack Pack,3,217.82,0.00,Pending
+ORD-00475,CUST-346,2023-06-25,Clothing,Dress,4,41.73,0.01,Shipped
+ORD-00476,CUST-432,2023-03-20,Clothing,Dress,5,105.66,0.00,Returned
+ORD-00477,CUST-764,2023-11-30,Clothing,Jacket,3,48.42,0.00,Returned
+ORD-00478,CUST-856,2023-04-22,Clothing,Dress,2,199.45,0.00,Shipped
+ORD-00479,CUST-513,2023-05-08,Electronics,Headphones,2,34.62,0.00,Shipped
+ORD-00480,CUST-782,2023-08-10,Electronics,Headphones,2,204.69,0.00,Delivered
+ORD-00481,CUST-986,2023-09-22,Electronics,Smartwatch,5,248.43,0.00,Returned
+ORD-00482,CUST-456,2023-02-28,Electronics,Smartphone,2,216.37,0.00,Pending
+ORD-00483,CUST-319,2023-06-18,Electronics,Tablet,4,417.94,0.00,Shipped
+ORD-00484,CUST-23,2023-05-19,Electronics,Headphones,1,162.84,0.00,Returned
+ORD-00485,CUST-744,2023-06-08,Books,History Book,2,311.18,0.00,Pending
+ORD-00486,CUST-441,2023-10-01,Books,Biography,5,86.12,0.00,Delivered
+ORD-00487,CUST-983,2023-12-06,Books,Cookbook,1,107.23,0.00,Shipped
+ORD-00488,CUST-893,2023-04-07,Clothing,Dress,2,461.08,0.18,Delivered
+ORD-00489,CUST-611,2023-11-21,Home Goods,Coffee Maker,2,43.55,0.08,Delivered
+ORD-00490,CUST-764,2023-09-27,Clothing,Jacket,3,148.62,0.11,Pending
+ORD-00491,CUST-621,2023-03-17,Home Goods,Air Fryer,4,127.87,0.11,Cancelled
+ORD-00492,CUST-803,2023-10-01,Books,Science Book,5,224.93,0.00,Cancelled
+ORD-00493,CUST-573,2023-07-10,Electronics,Smartphone,4,293.76,0.00,Pending
+ORD-00494,CUST-258,2023-05-14,Home Goods,Toaster,4,102.28,0.00,Shipped
+ORD-00495,CUST-535,2023-10-18,Food & Beverage,Energy Drink,5,420.76,0.00,Shipped
+ORD-00496,CUST-820,2023-10-02,Books,Science Book,5,335.82,0.00,Pending
+ORD-00497,CUST-459,2023-07-12,Food & Beverage,Organic Tea,2,268.46,0.00,Pending
+ORD-00498,CUST-631,2023-10-21,Clothing,Jeans,5,20.22,0.00,Pending
+ORD-00499,CUST-833,2023-08-21,Home Goods,Blender,4,454.74,0.00,Pending
+ORD-00500,CUST-651,2023-08-13,Food & Beverage,Energy Drink,1,46.46,0.00,Returned
+ORD-00501,CUST-34,2023-08-31,Clothing,Sneakers,5,124.11,0.00,Delivered
+ORD-00502,CUST-935,2023-01-10,Electronics,Tablet,2,323.15,0.03,Pending
+ORD-00503,CUST-253,2023-06-20,Electronics,Laptop,3,111.81,0.12,Returned
+ORD-00504,CUST-714,2023-09-24,Clothing,T-Shirt,1,46.63,0.03,Cancelled
+ORD-00505,CUST-630,2023-01-26,Clothing,Dress,5,246.58,0.01,Shipped
+ORD-00506,CUST-862,2023-05-27,Clothing,Dress,4,394.50,0.00,Pending
+ORD-00507,CUST-160,2023-12-02,Food & Beverage,Energy Drink,5,141.85,0.00,Delivered
+ORD-00508,CUST-270,2023-11-26,Clothing,Jeans,4,61.26,0.00,Returned
+ORD-00509,CUST-266,2023-09-07,Electronics,Smartwatch,3,133.77,0.00,Shipped
+ORD-00510,CUST-648,2023-06-12,Food & Beverage,Coffee Beans,3,460.31,0.00,Shipped
+ORD-00511,CUST-880,2023-11-17,Food & Beverage,Protein Bar,4,496.44,0.00,Delivered
+ORD-00512,CUST-580,2023-10-10,Books,Biography,2,348.66,0.00,Cancelled
+ORD-00513,CUST-829,2023-12-03,Food & Beverage,Organic Tea,3,474.28,0.18,Shipped
+ORD-00514,CUST-743,2023-12-17,Food & Beverage,Coffee Beans,1,287.94,0.17,Returned
+ORD-00515,CUST-263,2023-01-21,Electronics,Smartwatch,5,34.49,0.00,Cancelled
+ORD-00516,CUST-218,2023-05-16,Books,History Book,1,336.51,0.15,Delivered
+ORD-00517,CUST-730,2023-06-12,Home Goods,Coffee Maker,4,24.36,0.00,Returned
+ORD-00518,CUST-425,2023-08-19,Electronics,Tablet,5,184.73,0.00,Pending
+ORD-00519,CUST-283,2023-02-07,Books,Fiction Novel,1,175.82,0.00,Shipped
+ORD-00520,CUST-649,2023-12-12,Home Goods,Air Fryer,2,250.83,0.00,Cancelled
+ORD-00521,CUST-773,2023-07-08,Clothing,Jeans,3,189.93,0.00,Pending
+ORD-00522,CUST-300,2023-03-15,Books,Science Book,1,288.60,0.00,Pending
+ORD-00523,CUST-53,2023-03-26,Clothing,Jeans,3,94.92,0.00,Cancelled
+ORD-00524,CUST-627,2023-09-11,Food & Beverage,Organic Tea,3,410.49,0.15,Cancelled
+ORD-00525,CUST-498,2023-02-21,Food & Beverage,Energy Drink,2,61.82,0.09,Delivered
+ORD-00526,CUST-198,2023-11-13,Books,Science Book,2,424.45,0.00,Pending
+ORD-00527,CUST-892,2023-07-07,Clothing,Dress,2,137.03,0.00,Returned
+ORD-00528,CUST-746,2023-06-22,Clothing,Sneakers,2,398.90,0.00,Cancelled
+ORD-00529,CUST-956,2023-05-18,Electronics,Laptop,2,474.52,0.00,Returned
+ORD-00530,CUST-883,2023-03-01,Home Goods,Vacuum Cleaner,4,354.98,0.00,Returned
+ORD-00531,CUST-980,2023-08-19,Clothing,T-Shirt,3,495.36,0.00,Shipped
+ORD-00532,CUST-293,2023-03-17,Home Goods,Blender,5,276.57,0.00,Cancelled
+ORD-00533,CUST-334,2023-04-09,Home Goods,Blender,3,221.59,0.00,Pending
+ORD-00534,CUST-880,2023-12-07,Clothing,Dress,1,132.17,0.00,Shipped
+ORD-00535,CUST-305,2023-08-27,Clothing,T-Shirt,2,46.50,0.00,Shipped
+ORD-00536,CUST-479,2023-11-27,Books,Fiction Novel,2,122.19,0.00,Pending
+ORD-00537,CUST-529,2023-05-31,Books,Cookbook,3,356.77,0.00,Shipped
+ORD-00538,CUST-486,2023-03-12,Home Goods,Toaster,2,362.25,0.00,Pending
+ORD-00539,CUST-166,2023-04-01,Home Goods,Coffee Maker,2,416.67,0.00,Shipped
+ORD-00540,CUST-234,2023-05-22,Books,Fiction Novel,1,117.32,0.00,Cancelled
+ORD-00541,CUST-268,2023-02-18,Food & Beverage,Energy Drink,5,161.02,0.00,Pending
+ORD-00542,CUST-590,2023-12-22,Food & Beverage,Snack Pack,4,457.67,0.00,Delivered
+ORD-00543,CUST-574,2023-03-08,Books,Cookbook,1,438.72,0.00,Pending
+ORD-00544,CUST-448,2023-12-25,Electronics,Tablet,4,385.11,0.00,Delivered
+ORD-00545,CUST-227,2023-09-24,Food & Beverage,Coffee Beans,4,68.97,0.00,Returned
+ORD-00546,CUST-285,2023-11-30,Books,Cookbook,4,141.42,0.00,Returned
+ORD-00547,CUST-819,2023-08-26,Home Goods,Toaster,2,44.60,0.00,Returned
+ORD-00548,CUST-903,2023-08-19,Electronics,Tablet,3,135.63,0.01,Shipped
+ORD-00549,CUST-319,2023-04-13,Electronics,Laptop,2,361.52,0.00,Shipped
+ORD-00550,CUST-892,2023-04-26,Food & Beverage,Energy Drink,3,195.81,0.00,Shipped
+ORD-00551,CUST-911,2023-05-10,Clothing,T-Shirt,3,315.79,0.00,Returned
+ORD-00552,CUST-181,2023-08-10,Food & Beverage,Energy Drink,3,167.30,0.01,Delivered
+ORD-00553,CUST-420,2023-06-23,Books,Cookbook,4,413.76,0.00,Delivered
+ORD-00554,CUST-468,2023-05-23,Clothing,Jeans,5,313.54,0.00,Cancelled
+ORD-00555,CUST-732,2023-05-19,Books,Biography,4,88.95,0.01,Shipped
+ORD-00556,CUST-843,2023-01-15,Books,History Book,4,426.57,0.00,Delivered
+ORD-00557,CUST-467,2023-03-17,Books,Fiction Novel,3,253.49,0.05,Returned
+ORD-00558,CUST-208,2023-11-12,Electronics,Smartphone,5,47.80,0.00,Delivered
+ORD-00559,CUST-930,2023-02-05,Home Goods,Vacuum Cleaner,3,472.36,0.15,Cancelled
+ORD-00560,CUST-291,2023-02-09,Electronics,Smartphone,3,334.98,0.00,Cancelled
+ORD-00561,CUST-133,2023-02-25,Books,Biography,1,469.02,0.00,Cancelled
+ORD-00562,CUST-815,2023-04-27,Books,Biography,3,418.12,0.00,Cancelled
+ORD-00563,CUST-454,2023-03-25,Home Goods,Air Fryer,5,317.82,0.07,Cancelled
+ORD-00564,CUST-145,2023-05-13,Books,Cookbook,1,485.07,0.00,Delivered
+ORD-00565,CUST-262,2023-02-09,Home Goods,Coffee Maker,3,188.18,0.00,Pending
+ORD-00566,CUST-475,2023-05-23,Home Goods,Air Fryer,4,450.71,0.00,Delivered
+ORD-00567,CUST-695,2023-11-13,Electronics,Smartphone,1,262.51,0.00,Cancelled
+ORD-00568,CUST-202,2023-10-12,Books,Cookbook,5,181.63,0.00,Pending
+ORD-00569,CUST-331,2023-11-05,Home Goods,Coffee Maker,2,486.66,0.00,Shipped
+ORD-00570,CUST-100,2023-07-10,Books,History Book,1,196.06,0.16,Shipped
+ORD-00571,CUST-276,2023-07-11,Home Goods,Toaster,1,442.58,0.15,Shipped
+ORD-00572,CUST-606,2023-10-02,Home Goods,Air Fryer,3,98.12,0.00,Cancelled
+ORD-00573,CUST-260,2023-02-18,Clothing,Jeans,4,47.51,0.10,Delivered
+ORD-00574,CUST-803,2023-09-13,Food & Beverage,Coffee Beans,3,462.62,0.18,Delivered
+ORD-00575,CUST-830,2023-02-21,Electronics,Smartphone,3,329.17,0.00,Pending
+ORD-00576,CUST-890,2023-11-18,Books,Science Book,2,11.82,0.00,Cancelled
+ORD-00577,CUST-81,2023-11-19,Home Goods,Coffee Maker,2,64.50,0.00,Delivered
+ORD-00578,CUST-707,2023-05-26,Electronics,Tablet,2,296.44,0.17,Cancelled
+ORD-00579,CUST-327,2023-04-22,Clothing,Jeans,4,372.18,0.00,Delivered
+ORD-00580,CUST-84,2023-02-09,Clothing,Jeans,3,21.60,0.02,Pending
+ORD-00581,CUST-275,2023-12-16,Books,History Book,3,282.75,0.00,Delivered
+ORD-00582,CUST-672,2023-07-21,Food & Beverage,Snack Pack,3,150.41,0.06,Shipped
+ORD-00583,CUST-951,2023-06-05,Books,Fiction Novel,2,276.05,0.00,Pending
+ORD-00584,CUST-643,2023-05-03,Home Goods,Vacuum Cleaner,2,247.29,0.10,Pending
+ORD-00585,CUST-336,2023-09-07,Home Goods,Toaster,1,226.56,0.00,Shipped
+ORD-00586,CUST-642,2023-02-12,Clothing,Sneakers,1,95.14,0.00,Returned
+ORD-00587,CUST-486,2023-10-18,Home Goods,Toaster,3,382.58,0.09,Shipped
+ORD-00588,CUST-870,2023-08-05,Books,History Book,3,434.40,0.06,Pending
+ORD-00589,CUST-180,2023-04-14,Books,Science Book,4,459.61,0.00,Delivered
+ORD-00590,CUST-415,2023-02-18,Electronics,Tablet,3,300.52,0.00,Returned
+ORD-00591,CUST-426,2023-07-20,Electronics,Headphones,5,98.80,0.00,Cancelled
+ORD-00592,CUST-717,2023-09-08,Food & Beverage,Organic Tea,4,477.88,0.00,Returned
+ORD-00593,CUST-177,2023-02-20,Books,History Book,1,22.41,0.00,Pending
+ORD-00594,CUST-857,2023-09-14,Books,Fiction Novel,4,419.71,0.00,Returned
+ORD-00595,CUST-964,2023-12-15,Books,History Book,5,90.49,0.12,Returned
+ORD-00596,CUST-403,2023-09-24,Clothing,Dress,5,31.95,0.00,Shipped
+ORD-00597,CUST-702,2023-01-15,Food & Beverage,Protein Bar,2,120.30,0.00,Pending
+ORD-00598,CUST-175,2023-05-07,Electronics,Smartphone,3,46.82,0.12,Delivered
+ORD-00599,CUST-685,2023-09-12,Books,Science Book,3,146.56,0.00,Delivered
+ORD-00600,CUST-625,2023-04-06,Books,Fiction Novel,2,104.24,0.00,Cancelled
+ORD-00601,CUST-499,2023-09-23,Books,Biography,5,177.45,0.00,Returned
+ORD-00602,CUST-821,2023-05-19,Food & Beverage,Coffee Beans,3,178.03,0.00,Pending
+ORD-00603,CUST-162,2023-02-21,Home Goods,Vacuum Cleaner,1,84.85,0.18,Returned
+ORD-00604,CUST-198,2023-09-06,Books,Cookbook,2,34.14,0.00,Returned
+ORD-00605,CUST-392,2023-04-18,Books,Fiction Novel,5,153.23,0.00,Returned
+ORD-00606,CUST-583,2023-08-21,Home Goods,Coffee Maker,2,120.35,0.01,Delivered
+ORD-00607,CUST-337,2023-11-18,Electronics,Smartwatch,4,289.27,0.00,Pending
+ORD-00608,CUST-897,2023-07-09,Electronics,Laptop,1,264.91,0.00,Delivered
+ORD-00609,CUST-552,2023-02-23,Clothing,Jacket,5,215.54,0.03,Cancelled
+ORD-00610,CUST-603,2023-02-19,Books,Cookbook,1,267.55,0.11,Returned
+ORD-00611,CUST-713,2023-11-14,Books,Fiction Novel,4,223.65,0.00,Pending
+ORD-00612,CUST-163,2023-12-06,Food & Beverage,Organic Tea,5,83.31,0.00,Shipped
+ORD-00613,CUST-611,2023-03-23,Home Goods,Coffee Maker,2,371.68,0.00,Pending
+ORD-00614,CUST-823,2023-01-23,Food & Beverage,Organic Tea,5,455.02,0.18,Delivered
+ORD-00615,CUST-168,2023-01-23,Clothing,Sneakers,1,271.49,0.00,Pending
+ORD-00616,CUST-858,2023-02-06,Food & Beverage,Coffee Beans,4,141.96,0.10,Returned
+ORD-00617,CUST-158,2023-05-07,Books,Science Book,4,483.81,0.00,Pending
+ORD-00618,CUST-932,2023-04-12,Books,Biography,3,306.74,0.00,Returned
+ORD-00619,CUST-355,2023-07-17,Electronics,Laptop,1,271.33,0.00,Delivered
+ORD-00620,CUST-957,2023-11-15,Food & Beverage,Snack Pack,3,135.33,0.16,Returned
+ORD-00621,CUST-325,2023-11-08,Clothing,Dress,5,255.25,0.00,Returned
+ORD-00622,CUST-856,2023-06-03,Electronics,Headphones,3,272.51,0.06,Shipped
+ORD-00623,CUST-37,2023-05-10,Electronics,Smartwatch,3,171.07,0.00,Returned
+ORD-00624,CUST-199,2023-05-23,Home Goods,Coffee Maker,5,234.52,0.00,Returned
+ORD-00625,CUST-164,2023-09-24,Clothing,Sneakers,3,318.39,0.01,Returned
+ORD-00626,CUST-613,2023-12-14,Electronics,Laptop,1,23.33,0.00,Delivered
+ORD-00627,CUST-166,2023-05-11,Electronics,Smartphone,5,268.87,0.03,Pending
+ORD-00628,CUST-238,2023-02-02,Clothing,Jeans,3,375.58,0.10,Shipped
+ORD-00629,CUST-157,2023-08-08,Home Goods,Air Fryer,4,283.76,0.00,Returned
+ORD-00630,CUST-519,2023-10-22,Electronics,Headphones,1,52.61,0.00,Cancelled
+ORD-00631,CUST-488,2023-11-24,Home Goods,Blender,2,98.66,0.00,Delivered
+ORD-00632,CUST-310,2023-06-12,Food & Beverage,Snack Pack,5,99.73,0.00,Cancelled
+ORD-00633,CUST-826,2023-12-22,Electronics,Headphones,5,49.53,0.06,Shipped
+ORD-00634,CUST-306,2023-11-23,Books,Biography,1,487.44,0.00,Delivered
+ORD-00635,CUST-964,2023-08-04,Clothing,Jeans,3,484.53,0.19,Cancelled
+ORD-00636,CUST-872,2023-08-27,Electronics,Laptop,5,166.14,0.00,Cancelled
+ORD-00637,CUST-508,2023-09-25,Electronics,Headphones,5,41.46,0.01,Delivered
+ORD-00638,CUST-42,2023-04-10,Books,Cookbook,4,432.36,0.00,Pending
+ORD-00639,CUST-309,2023-09-20,Food & Beverage,Organic Tea,1,259.02,0.00,Cancelled
+ORD-00640,CUST-11,2023-08-10,Books,Biography,5,441.10,0.00,Pending
+ORD-00641,CUST-845,2023-02-26,Books,Science Book,2,204.62,0.00,Returned
+ORD-00642,CUST-282,2023-08-16,Electronics,Smartphone,3,486.56,0.17,Returned
+ORD-00643,CUST-549,2023-01-21,Electronics,Laptop,2,301.30,0.05,Delivered
+ORD-00644,CUST-268,2023-04-10,Home Goods,Air Fryer,1,64.78,0.00,Returned
+ORD-00645,CUST-646,2023-04-22,Food & Beverage,Protein Bar,3,439.13,0.00,Delivered
+ORD-00646,CUST-598,2023-07-20,Home Goods,Coffee Maker,4,329.09,0.00,Shipped
+ORD-00647,CUST-442,2023-08-09,Clothing,Jacket,1,304.06,0.20,Returned
+ORD-00648,CUST-267,2023-01-15,Books,Science Book,5,397.82,0.00,Returned
+ORD-00649,CUST-375,2023-01-23,Food & Beverage,Coffee Beans,1,254.56,0.00,Delivered
+ORD-00650,CUST-945,2023-02-07,Food & Beverage,Protein Bar,3,372.03,0.00,Returned
+ORD-00651,CUST-69,2023-06-22,Clothing,Dress,5,426.74,0.00,Cancelled
+ORD-00652,CUST-906,2023-12-19,Clothing,Jacket,2,286.01,0.00,Pending
+ORD-00653,CUST-110,2023-10-05,Home Goods,Blender,1,492.67,0.20,Delivered
+ORD-00654,CUST-966,2023-06-08,Food & Beverage,Organic Tea,2,249.31,0.00,Pending
+ORD-00655,CUST-427,2023-07-22,Electronics,Headphones,3,208.09,0.09,Delivered
+ORD-00656,CUST-997,2023-01-19,Home Goods,Blender,5,382.33,0.00,Shipped
+ORD-00657,CUST-268,2023-05-31,Clothing,Sneakers,4,169.45,0.00,Pending
+ORD-00658,CUST-531,2023-09-09,Clothing,Jeans,1,102.16,0.00,Cancelled
+ORD-00659,CUST-534,2023-03-23,Food & Beverage,Protein Bar,1,456.36,0.00,Cancelled
+ORD-00660,CUST-302,2023-03-20,Electronics,Tablet,4,376.75,0.00,Shipped
+ORD-00661,CUST-814,2023-10-17,Books,Cookbook,3,12.71,0.00,Returned
+ORD-00662,CUST-63,2023-08-24,Clothing,Dress,4,443.36,0.05,Shipped
+ORD-00663,CUST-886,2023-09-25,Food & Beverage,Protein Bar,3,117.58,0.00,Shipped
+ORD-00664,CUST-788,2023-03-13,Home Goods,Coffee Maker,4,384.73,0.00,Shipped
+ORD-00665,CUST-637,2023-08-01,Food & Beverage,Snack Pack,3,258.40,0.10,Returned
+ORD-00666,CUST-207,2023-07-21,Books,History Book,4,444.99,0.01,Delivered
+ORD-00667,CUST-409,2023-12-07,Electronics,Headphones,1,475.76,0.00,Cancelled
+ORD-00668,CUST-648,2023-02-06,Home Goods,Coffee Maker,5,383.68,0.00,Returned
+ORD-00669,CUST-839,2023-02-28,Clothing,Jacket,3,46.92,0.00,Cancelled
+ORD-00670,CUST-786,2023-03-11,Electronics,Tablet,4,175.25,0.00,Returned
+ORD-00671,CUST-987,2023-06-10,Food & Beverage,Snack Pack,5,51.02,0.00,Returned
+ORD-00672,CUST-804,2023-05-01,Books,Cookbook,2,304.93,0.00,Cancelled
+ORD-00673,CUST-405,2023-02-12,Clothing,T-Shirt,4,247.16,0.00,Returned
+ORD-00674,CUST-209,2023-04-24,Clothing,Dress,5,414.53,0.07,Pending
+ORD-00675,CUST-631,2023-11-03,Home Goods,Blender,2,12.36,0.10,Shipped
+ORD-00676,CUST-59,2023-12-20,Electronics,Headphones,3,348.45,0.16,Cancelled
+ORD-00677,CUST-720,2023-05-24,Electronics,Headphones,2,57.14,0.00,Pending
+ORD-00678,CUST-168,2023-12-14,Books,Fiction Novel,4,316.49,0.00,Returned
+ORD-00679,CUST-831,2023-04-15,Home Goods,Air Fryer,4,413.16,0.00,Shipped
+ORD-00680,CUST-126,2023-06-13,Books,History Book,3,315.80,0.00,Cancelled
+ORD-00681,CUST-265,2023-02-11,Clothing,Dress,5,71.99,0.00,Shipped
+ORD-00682,CUST-78,2023-12-26,Electronics,Tablet,3,484.42,0.00,Cancelled
+ORD-00683,CUST-37,2023-12-08,Books,History Book,3,163.37,0.00,Pending
+ORD-00684,CUST-116,2023-12-08,Home Goods,Blender,3,351.20,0.00,Shipped
+ORD-00685,CUST-122,2023-07-19,Clothing,T-Shirt,2,341.56,0.00,Cancelled
+ORD-00686,CUST-957,2023-08-14,Home Goods,Toaster,3,233.94,0.00,Shipped
+ORD-00687,CUST-394,2023-08-16,Home Goods,Air Fryer,2,417.89,0.00,Delivered
+ORD-00688,CUST-771,2023-12-10,Books,History Book,4,293.54,0.02,Returned
+ORD-00689,CUST-483,2023-03-02,Food & Beverage,Energy Drink,3,66.77,0.00,Cancelled
+ORD-00690,CUST-822,2023-09-25,Food & Beverage,Coffee Beans,2,442.03,0.00,Shipped
+ORD-00691,CUST-985,2023-12-06,Clothing,Jacket,2,235.75,0.00,Pending
+ORD-00692,CUST-396,2023-07-14,Electronics,Smartwatch,2,44.22,0.00,Shipped
+ORD-00693,CUST-536,2023-10-11,Home Goods,Vacuum Cleaner,2,281.31,0.20,Pending
+ORD-00694,CUST-584,2023-10-10,Home Goods,Air Fryer,5,421.75,0.00,Delivered
+ORD-00695,CUST-41,2023-06-02,Food & Beverage,Organic Tea,3,19.64,0.00,Cancelled
+ORD-00696,CUST-44,2023-02-07,Home Goods,Air Fryer,1,196.01,0.02,Cancelled
+ORD-00697,CUST-957,2023-02-10,Food & Beverage,Snack Pack,3,159.22,0.00,Shipped
+ORD-00698,CUST-28,2023-09-09,Food & Beverage,Protein Bar,1,308.26,0.00,Pending
+ORD-00699,CUST-574,2023-03-25,Food & Beverage,Coffee Beans,3,468.86,0.00,Returned
+ORD-00700,CUST-428,2023-09-01,Clothing,Dress,4,393.61,0.00,Pending
+ORD-00701,CUST-711,2023-02-05,Clothing,Dress,5,154.30,0.00,Shipped
+ORD-00702,CUST-752,2023-04-18,Electronics,Smartphone,1,379.11,0.11,Cancelled
+ORD-00703,CUST-553,2023-11-13,Books,History Book,5,152.63,0.00,Cancelled
+ORD-00704,CUST-894,2023-02-25,Clothing,Jeans,4,203.49,0.19,Returned
+ORD-00705,CUST-161,2023-01-06,Electronics,Laptop,2,402.60,0.19,Shipped
+ORD-00706,CUST-68,2023-03-27,Electronics,Headphones,1,163.91,0.00,Returned
+ORD-00707,CUST-390,2023-12-20,Electronics,Tablet,4,141.87,0.00,Shipped
+ORD-00708,CUST-907,2023-06-03,Home Goods,Toaster,2,310.48,0.00,Shipped
+ORD-00709,CUST-900,2023-02-07,Clothing,Jacket,5,398.15,0.00,Returned
+ORD-00710,CUST-385,2023-07-24,Electronics,Smartwatch,4,454.77,0.00,Cancelled
+ORD-00711,CUST-436,2023-07-06,Books,History Book,5,290.11,0.00,Cancelled
+ORD-00712,CUST-721,2023-05-13,Books,Biography,4,352.06,0.00,Returned
+ORD-00713,CUST-194,2023-09-02,Food & Beverage,Protein Bar,3,361.83,0.00,Returned
+ORD-00714,CUST-992,2023-08-15,Electronics,Tablet,5,78.93,0.00,Cancelled
+ORD-00715,CUST-215,2023-12-02,Clothing,Jacket,5,126.73,0.00,Shipped
+ORD-00716,CUST-300,2023-02-18,Books,History Book,5,222.52,0.01,Delivered
+ORD-00717,CUST-78,2023-06-22,Clothing,Jeans,3,349.74,0.00,Delivered
+ORD-00718,CUST-213,2023-03-09,Food & Beverage,Protein Bar,3,175.78,0.00,Returned
+ORD-00719,CUST-569,2023-10-15,Food & Beverage,Snack Pack,3,227.65,0.01,Pending
+ORD-00720,CUST-476,2023-09-03,Clothing,T-Shirt,2,420.93,0.00,Returned
+ORD-00721,CUST-534,2023-06-07,Home Goods,Air Fryer,2,130.81,0.00,Shipped
+ORD-00722,CUST-821,2023-08-23,Clothing,T-Shirt,5,78.19,0.00,Returned
+ORD-00723,CUST-405,2023-06-14,Home Goods,Air Fryer,5,291.88,0.00,Pending
+ORD-00724,CUST-395,2023-05-01,Food & Beverage,Energy Drink,5,121.62,0.00,Returned
+ORD-00725,CUST-35,2023-04-12,Books,Science Book,2,472.07,0.00,Returned
+ORD-00726,CUST-848,2023-04-19,Books,Cookbook,3,210.47,0.00,Pending
+ORD-00727,CUST-229,2023-08-05,Food & Beverage,Protein Bar,1,481.71,0.00,Shipped
+ORD-00728,CUST-747,2023-12-09,Clothing,Jacket,5,304.46,0.00,Delivered
+ORD-00729,CUST-707,2023-01-25,Clothing,T-Shirt,3,476.29,0.00,Delivered
+ORD-00730,CUST-152,2023-05-09,Clothing,Jeans,2,301.41,0.00,Cancelled
+ORD-00731,CUST-906,2023-01-06,Food & Beverage,Protein Bar,5,372.21,0.00,Delivered
+ORD-00732,CUST-692,2023-04-30,Food & Beverage,Snack Pack,2,497.01,0.00,Cancelled
+ORD-00733,CUST-352,2023-11-20,Clothing,Sneakers,3,79.98,0.00,Shipped
+ORD-00734,CUST-949,2023-09-23,Electronics,Tablet,5,390.17,0.00,Pending
+ORD-00735,CUST-652,2023-07-17,Food & Beverage,Organic Tea,3,450.71,0.03,Returned
+ORD-00736,CUST-541,2023-08-11,Books,Biography,2,445.16,0.00,Shipped
+ORD-00737,CUST-480,2023-12-21,Electronics,Headphones,3,311.37,0.00,Returned
+ORD-00738,CUST-797,2023-08-04,Clothing,Dress,2,250.81,0.00,Pending
+ORD-00739,CUST-75,2022-12-31,Food & Beverage,Snack Pack,2,462.51,0.00,Shipped
+ORD-00740,CUST-665,2023-11-26,Food & Beverage,Energy Drink,4,321.18,0.00,Delivered
+ORD-00741,CUST-493,2023-06-06,Electronics,Laptop,4,149.17,0.00,Cancelled
+ORD-00742,CUST-446,2023-11-02,Clothing,Jacket,2,194.08,0.19,Shipped
+ORD-00743,CUST-429,2023-04-10,Clothing,Jacket,1,245.75,0.00,Delivered
+ORD-00744,CUST-728,2023-04-26,Clothing,Sneakers,1,309.81,0.00,Shipped
+ORD-00745,CUST-232,2023-07-18,Books,Fiction Novel,1,264.80,0.00,Cancelled
+ORD-00746,CUST-770,2023-12-24,Electronics,Laptop,1,122.88,0.00,Cancelled
+ORD-00747,CUST-460,2023-05-11,Clothing,Jeans,4,444.49,0.00,Shipped
+ORD-00748,CUST-57,2023-08-11,Food & Beverage,Energy Drink,2,345.75,0.13,Delivered
+ORD-00749,CUST-387,2023-04-09,Home Goods,Air Fryer,3,224.70,0.19,Cancelled
+ORD-00750,CUST-598,2023-03-24,Books,Cookbook,3,155.12,0.00,Shipped
+ORD-00751,CUST-449,2023-10-10,Home Goods,Coffee Maker,5,318.31,0.00,Pending
+ORD-00752,CUST-865,2023-11-18,Electronics,Smartphone,2,166.33,0.00,Shipped
+ORD-00753,CUST-528,2023-02-25,Clothing,Sneakers,1,490.67,0.00,Returned
+ORD-00754,CUST-122,2023-01-16,Home Goods,Vacuum Cleaner,3,365.52,0.14,Shipped
+ORD-00755,CUST-741,2023-07-16,Food & Beverage,Coffee Beans,1,345.73,0.00,Cancelled
+ORD-00756,CUST-473,2023-08-20,Books,Cookbook,4,412.22,0.00,Cancelled
+ORD-00757,CUST-406,2023-06-02,Books,Fiction Novel,4,107.26,0.00,Pending
+ORD-00758,CUST-232,2023-04-13,Books,Cookbook,4,271.16,0.07,Pending
+ORD-00759,CUST-666,2023-11-23,Books,Cookbook,1,60.78,0.00,Pending
+ORD-00760,CUST-226,2023-12-25,Electronics,Laptop,3,377.86,0.11,Cancelled
+ORD-00761,CUST-458,2023-05-19,Clothing,Dress,1,456.56,0.00,Shipped
+ORD-00762,CUST-307,2023-04-09,Food & Beverage,Energy Drink,4,382.77,0.00,Returned
+ORD-00763,CUST-732,2023-02-05,Clothing,Dress,1,28.02,0.00,Cancelled
+ORD-00764,CUST-746,2023-12-11,Home Goods,Coffee Maker,4,88.48,0.00,Delivered
+ORD-00765,CUST-294,2023-03-06,Electronics,Smartwatch,1,130.76,0.00,Shipped
+ORD-00766,CUST-586,2023-03-16,Home Goods,Blender,1,275.67,0.00,Cancelled
+ORD-00767,CUST-964,2023-01-16,Electronics,Tablet,3,114.39,0.19,Cancelled
+ORD-00768,CUST-236,2023-01-09,Clothing,Jacket,2,354.33,0.00,Shipped
+ORD-00769,CUST-345,2023-08-08,Books,Cookbook,5,107.43,0.00,Returned
+ORD-00770,CUST-356,2023-03-11,Clothing,Dress,2,200.22,0.00,Delivered
+ORD-00771,CUST-249,2023-12-10,Electronics,Laptop,2,153.69,0.00,Delivered
+ORD-00772,CUST-493,2023-09-19,Food & Beverage,Protein Bar,1,429.78,0.00,Shipped
+ORD-00773,CUST-541,2023-04-10,Electronics,Headphones,4,377.88,0.00,Cancelled
+ORD-00774,CUST-819,2023-04-18,Electronics,Tablet,4,142.60,0.00,Cancelled
+ORD-00775,CUST-453,2023-04-06,Books,History Book,1,271.75,0.09,Shipped
+ORD-00776,CUST-878,2023-05-25,Electronics,Laptop,5,272.73,0.00,Returned
+ORD-00777,CUST-556,2023-02-14,Home Goods,Vacuum Cleaner,3,395.85,0.00,Shipped
+ORD-00778,CUST-910,2023-10-20,Food & Beverage,Snack Pack,2,375.15,0.00,Shipped
+ORD-00779,CUST-24,2023-02-02,Books,Science Book,3,280.75,0.00,Delivered
+ORD-00780,CUST-592,2023-02-15,Food & Beverage,Organic Tea,1,390.10,0.00,Cancelled
+ORD-00781,CUST-752,2023-11-08,Home Goods,Toaster,1,241.85,0.00,Cancelled
+ORD-00782,CUST-490,2023-10-07,Home Goods,Toaster,2,11.47,0.14,Shipped
+ORD-00783,CUST-912,2023-02-06,Food & Beverage,Organic Tea,5,252.98,0.16,Cancelled
+ORD-00784,CUST-562,2023-10-05,Food & Beverage,Organic Tea,5,337.31,0.00,Cancelled
+ORD-00785,CUST-625,2023-01-10,Books,Fiction Novel,3,45.61,0.04,Returned
+ORD-00786,CUST-372,2023-10-31,Books,Fiction Novel,3,160.71,0.00,Cancelled
+ORD-00787,CUST-845,2023-02-27,Books,History Book,4,89.89,0.00,Shipped
+ORD-00788,CUST-854,2023-12-03,Food & Beverage,Protein Bar,4,128.24,0.04,Shipped
+ORD-00789,CUST-21,2023-03-17,Electronics,Tablet,5,192.18,0.00,Returned
+ORD-00790,CUST-446,2023-05-02,Food & Beverage,Snack Pack,3,123.47,0.00,Delivered
+ORD-00791,CUST-161,2023-09-21,Electronics,Headphones,5,127.67,0.00,Shipped
+ORD-00792,CUST-427,2023-08-03,Electronics,Smartwatch,2,379.82,0.01,Cancelled
+ORD-00793,CUST-891,2023-07-05,Books,Science Book,2,81.78,0.19,Returned
+ORD-00794,CUST-410,2023-06-23,Food & Beverage,Snack Pack,3,377.91,0.00,Returned
+ORD-00795,CUST-220,2023-10-14,Books,Science Book,2,38.12,0.00,Returned
+ORD-00796,CUST-222,2023-01-27,Home Goods,Blender,1,449.67,0.00,Cancelled
+ORD-00797,CUST-637,2023-04-22,Electronics,Headphones,4,408.93,0.00,Pending
+ORD-00798,CUST-739,2023-10-07,Clothing,T-Shirt,5,109.19,0.00,Cancelled
+ORD-00799,CUST-560,2023-06-13,Clothing,Jeans,4,123.19,0.01,Delivered
+ORD-00800,CUST-560,2023-08-18,Books,Science Book,2,14.97,0.00,Delivered
+ORD-00801,CUST-309,2023-02-17,Books,Biography,4,244.49,0.08,Delivered
+ORD-00802,CUST-881,2023-01-23,Electronics,Smartwatch,3,235.33,0.00,Pending
+ORD-00803,CUST-257,2023-07-31,Electronics,Smartwatch,5,89.64,0.00,Cancelled
+ORD-00804,CUST-608,2023-05-31,Food & Beverage,Protein Bar,3,381.48,0.00,Pending
+ORD-00805,CUST-584,2023-07-17,Clothing,Jeans,5,332.11,0.00,Returned
+ORD-00806,CUST-658,2023-09-13,Clothing,Jacket,3,446.51,0.00,Cancelled
+ORD-00807,CUST-401,2023-03-03,Home Goods,Coffee Maker,2,171.84,0.00,Delivered
+ORD-00808,CUST-529,2023-01-26,Electronics,Tablet,4,121.95,0.09,Delivered
+ORD-00809,CUST-650,2023-03-25,Clothing,Jacket,2,389.33,0.00,Returned
+ORD-00810,CUST-407,2023-01-17,Books,Biography,5,129.66,0.00,Cancelled
+ORD-00811,CUST-123,2023-05-14,Clothing,Dress,5,433.94,0.14,Returned
+ORD-00812,CUST-337,2023-08-18,Food & Beverage,Protein Bar,4,74.57,0.08,Delivered
+ORD-00813,CUST-155,2023-08-21,Clothing,Jacket,2,44.19,0.00,Delivered
+ORD-00814,CUST-649,2023-09-03,Clothing,Jacket,4,416.87,0.08,Cancelled
+ORD-00815,CUST-129,2023-04-09,Clothing,Jeans,4,438.28,0.08,Delivered
+ORD-00816,CUST-402,2023-12-21,Clothing,Jeans,5,333.20,0.00,Cancelled
+ORD-00817,CUST-586,2023-09-06,Home Goods,Coffee Maker,1,96.27,0.00,Delivered
+ORD-00818,CUST-875,2023-03-10,Food & Beverage,Energy Drink,2,450.04,0.14,Returned
+ORD-00819,CUST-275,2023-01-19,Home Goods,Toaster,4,188.07,0.00,Delivered
+ORD-00820,CUST-408,2023-11-04,Clothing,Jeans,5,377.69,0.00,Pending
+ORD-00821,CUST-269,2023-11-27,Books,Fiction Novel,3,97.85,0.00,Pending
+ORD-00822,CUST-498,2023-08-08,Clothing,Dress,3,149.22,0.00,Shipped
+ORD-00823,CUST-966,2023-03-24,Food & Beverage,Organic Tea,3,183.27,0.08,Delivered
+ORD-00824,CUST-121,2023-01-08,Clothing,Jacket,5,278.05,0.00,Cancelled
+ORD-00825,CUST-416,2023-04-01,Books,Biography,2,131.75,0.00,Returned
+ORD-00826,CUST-217,2023-02-04,Food & Beverage,Protein Bar,1,86.51,0.00,Delivered
+ORD-00827,CUST-893,2023-09-23,Electronics,Headphones,1,232.41,0.00,Shipped
+ORD-00828,CUST-991,2023-05-04,Clothing,Dress,2,183.96,0.00,Cancelled
+ORD-00829,CUST-995,2023-01-07,Food & Beverage,Coffee Beans,4,229.32,0.06,Shipped
+ORD-00830,CUST-903,2023-09-20,Clothing,T-Shirt,1,15.92,0.00,Returned
+ORD-00831,CUST-820,2023-12-24,Clothing,Dress,5,35.04,0.00,Shipped
+ORD-00832,CUST-466,2023-11-15,Food & Beverage,Energy Drink,2,484.84,0.00,Cancelled
+ORD-00833,CUST-9,2023-12-23,Food & Beverage,Energy Drink,2,137.29,0.19,Shipped
+ORD-00834,CUST-153,2023-03-02,Books,Fiction Novel,3,98.54,0.00,Returned
+ORD-00835,CUST-561,2023-06-05,Electronics,Smartwatch,2,336.85,0.04,Cancelled
+ORD-00836,CUST-846,2023-08-04,Food & Beverage,Protein Bar,1,444.59,0.18,Delivered
+ORD-00837,CUST-956,2023-01-26,Home Goods,Vacuum Cleaner,5,414.54,0.08,Shipped
+ORD-00838,CUST-260,2023-05-24,Electronics,Smartwatch,5,267.09,0.00,Pending
+ORD-00839,CUST-887,2023-07-14,Clothing,Sneakers,2,109.95,0.10,Shipped
+ORD-00840,CUST-747,2023-02-06,Home Goods,Air Fryer,2,303.54,0.11,Returned
+ORD-00841,CUST-857,2023-07-07,Food & Beverage,Organic Tea,1,181.35,0.00,Shipped
+ORD-00842,CUST-754,2023-08-12,Electronics,Smartwatch,1,152.29,0.00,Cancelled
+ORD-00843,CUST-386,2023-11-04,Food & Beverage,Energy Drink,3,374.68,0.00,Returned
+ORD-00844,CUST-993,2023-01-03,Home Goods,Blender,4,281.87,0.17,Cancelled
+ORD-00845,CUST-756,2023-04-11,Home Goods,Coffee Maker,3,345.08,0.00,Shipped
+ORD-00846,CUST-731,2023-08-10,Food & Beverage,Protein Bar,3,22.54,0.02,Shipped
+ORD-00847,CUST-889,2023-12-23,Books,Biography,5,31.89,0.00,Delivered
+ORD-00848,CUST-291,2023-08-07,Books,Cookbook,2,242.43,0.00,Pending
+ORD-00849,CUST-143,2023-09-26,Food & Beverage,Protein Bar,3,94.86,0.00,Delivered
+ORD-00850,CUST-66,2023-04-23,Clothing,Jeans,4,245.42,0.00,Cancelled
+ORD-00851,CUST-836,2023-04-04,Electronics,Smartwatch,1,479.14,0.06,Returned
+ORD-00852,CUST-867,2023-03-26,Electronics,Headphones,5,353.58,0.14,Returned
+ORD-00853,CUST-63,2023-12-06,Food & Beverage,Coffee Beans,2,442.19,0.07,Returned
+ORD-00854,CUST-337,2023-02-26,Clothing,Jeans,5,105.25,0.00,Pending
+ORD-00855,CUST-565,2023-11-04,Clothing,T-Shirt,5,75.86,0.00,Shipped
+ORD-00856,CUST-503,2023-01-25,Food & Beverage,Coffee Beans,2,217.38,0.00,Shipped
+ORD-00857,CUST-592,2023-04-25,Clothing,T-Shirt,1,19.76,0.00,Delivered
+ORD-00858,CUST-30,2023-10-31,Books,Fiction Novel,3,224.10,0.04,Shipped
+ORD-00859,CUST-580,2023-10-27,Food & Beverage,Coffee Beans,2,89.71,0.03,Delivered
+ORD-00860,CUST-656,2023-03-31,Food & Beverage,Energy Drink,4,478.17,0.07,Returned
+ORD-00861,CUST-62,2023-05-06,Food & Beverage,Organic Tea,5,368.06,0.15,Cancelled
+ORD-00862,CUST-973,2023-11-06,Food & Beverage,Energy Drink,3,408.73,0.00,Returned
+ORD-00863,CUST-128,2023-08-25,Clothing,Jeans,1,265.71,0.00,Pending
+ORD-00864,CUST-257,2023-08-15,Electronics,Tablet,1,297.68,0.09,Returned
+ORD-00865,CUST-812,2023-10-10,Clothing,Jeans,4,230.80,0.05,Pending
+ORD-00866,CUST-984,2023-05-22,Home Goods,Coffee Maker,1,291.57,0.04,Delivered
+ORD-00867,CUST-964,2023-04-26,Books,Cookbook,4,368.79,0.00,Returned
+ORD-00868,CUST-708,2023-02-27,Books,Fiction Novel,3,380.57,0.00,Returned
+ORD-00869,CUST-802,2023-07-23,Electronics,Tablet,5,181.33,0.04,Returned
+ORD-00870,CUST-285,2023-10-24,Electronics,Tablet,1,167.91,0.00,Delivered
+ORD-00871,CUST-830,2023-12-02,Home Goods,Vacuum Cleaner,3,462.52,0.16,Returned
+ORD-00872,CUST-748,2023-01-25,Food & Beverage,Snack Pack,1,41.90,0.00,Returned
+ORD-00873,CUST-371,2023-04-22,Home Goods,Coffee Maker,3,278.47,0.14,Pending
+ORD-00874,CUST-209,2023-05-22,Books,History Book,5,336.81,0.18,Returned
+ORD-00875,CUST-262,2023-06-18,Home Goods,Vacuum Cleaner,5,445.48,0.00,Shipped
+ORD-00876,CUST-860,2023-03-13,Food & Beverage,Organic Tea,1,405.55,0.00,Delivered
+ORD-00877,CUST-492,2023-06-18,Books,Science Book,2,373.85,0.00,Pending
+ORD-00878,CUST-331,2023-01-26,Home Goods,Toaster,3,282.63,0.00,Pending
+ORD-00879,CUST-226,2023-01-21,Books,History Book,4,237.80,0.00,Delivered
+ORD-00880,CUST-103,2023-02-22,Food & Beverage,Snack Pack,3,391.97,0.00,Pending
+ORD-00881,CUST-648,2023-09-09,Electronics,Smartwatch,3,490.78,0.16,Pending
+ORD-00882,CUST-999,2023-08-07,Home Goods,Coffee Maker,3,159.81,0.00,Delivered
+ORD-00883,CUST-830,2023-05-07,Clothing,Sneakers,4,191.47,0.00,Pending
+ORD-00884,CUST-416,2023-06-01,Electronics,Smartphone,3,15.10,0.00,Pending
+ORD-00885,CUST-45,2023-11-01,Electronics,Smartphone,3,31.23,0.16,Pending
+ORD-00886,CUST-282,2023-08-21,Food & Beverage,Protein Bar,4,88.36,0.00,Pending
+ORD-00887,CUST-439,2023-04-30,Books,Fiction Novel,3,153.15,0.12,Cancelled
+ORD-00888,CUST-896,2023-08-11,Electronics,Headphones,5,251.51,0.00,Pending
+ORD-00889,CUST-77,2022-12-31,Home Goods,Vacuum Cleaner,1,181.60,0.00,Pending
+ORD-00890,CUST-557,2023-09-25,Food & Beverage,Protein Bar,3,322.63,0.00,Shipped
+ORD-00891,CUST-521,2023-04-22,Food & Beverage,Energy Drink,4,66.97,0.00,Shipped
+ORD-00892,CUST-130,2023-06-10,Clothing,Jeans,5,227.58,0.06,Pending
+ORD-00893,CUST-64,2023-09-12,Home Goods,Vacuum Cleaner,1,314.37,0.00,Cancelled
+ORD-00894,CUST-467,2023-12-23,Clothing,Jacket,4,382.56,0.00,Pending
+ORD-00895,CUST-786,2023-06-17,Books,Science Book,1,179.68,0.00,Cancelled
+ORD-00896,CUST-622,2023-11-10,Home Goods,Air Fryer,3,465.04,0.00,Returned
+ORD-00897,CUST-713,2023-02-27,Home Goods,Toaster,5,120.63,0.00,Returned
+ORD-00898,CUST-643,2023-12-17,Food & Beverage,Protein Bar,5,271.31,0.07,Returned
+ORD-00899,CUST-83,2023-11-01,Home Goods,Blender,1,122.37,0.00,Delivered
+ORD-00900,CUST-468,2023-07-18,Clothing,Jacket,3,322.78,0.00,Returned
+ORD-00901,CUST-332,2023-12-01,Food & Beverage,Protein Bar,1,474.65,0.00,Delivered
+ORD-00902,CUST-487,2023-04-30,Clothing,Dress,2,146.15,0.00,Shipped
+ORD-00903,CUST-917,2023-10-12,Food & Beverage,Protein Bar,1,460.95,0.12,Shipped
+ORD-00904,CUST-540,2023-03-04,Clothing,Jeans,3,287.85,0.03,Shipped
+ORD-00905,CUST-521,2023-04-03,Books,Fiction Novel,3,468.56,0.05,Returned
+ORD-00906,CUST-75,2023-06-05,Electronics,Headphones,2,437.86,0.07,Cancelled
+ORD-00907,CUST-288,2023-03-25,Home Goods,Air Fryer,3,458.58,0.15,Cancelled
+ORD-00908,CUST-124,2023-06-20,Home Goods,Air Fryer,4,56.37,0.00,Cancelled
+ORD-00909,CUST-493,2023-01-11,Electronics,Headphones,2,196.33,0.00,Returned
+ORD-00910,CUST-903,2023-03-07,Books,History Book,1,338.78,0.00,Shipped
+ORD-00911,CUST-921,2023-08-16,Electronics,Tablet,2,174.80,0.00,Returned
+ORD-00912,CUST-947,2023-03-17,Books,Science Book,3,258.41,0.01,Cancelled
+ORD-00913,CUST-125,2023-12-02,Books,Biography,3,280.35,0.00,Delivered
+ORD-00914,CUST-361,2023-04-05,Books,History Book,5,174.54,0.00,Returned
+ORD-00915,CUST-288,2023-08-19,Books,Cookbook,1,122.66,0.00,Cancelled
+ORD-00916,CUST-826,2023-03-25,Electronics,Headphones,1,93.82,0.18,Cancelled
+ORD-00917,CUST-376,2023-11-03,Home Goods,Coffee Maker,4,365.74,0.00,Returned
+ORD-00918,CUST-825,2023-01-10,Food & Beverage,Energy Drink,5,270.65,0.07,Pending
+ORD-00919,CUST-200,2023-03-02,Electronics,Tablet,5,109.85,0.02,Pending
+ORD-00920,CUST-3,2023-01-11,Clothing,Jeans,4,303.25,0.00,Cancelled
+ORD-00921,CUST-15,2023-12-09,Electronics,Headphones,5,442.30,0.00,Delivered
+ORD-00922,CUST-272,2023-11-18,Clothing,Dress,1,19.94,0.00,Returned
+ORD-00923,CUST-931,2023-02-17,Home Goods,Blender,1,341.29,0.00,Shipped
+ORD-00924,CUST-195,2023-12-02,Clothing,Dress,3,270.25,0.00,Delivered
+ORD-00925,CUST-810,2023-06-03,Home Goods,Vacuum Cleaner,1,246.80,0.01,Pending
+ORD-00926,CUST-993,2023-05-20,Home Goods,Air Fryer,3,79.73,0.14,Returned
+ORD-00927,CUST-336,2023-07-22,Food & Beverage,Energy Drink,1,441.99,0.00,Pending
+ORD-00928,CUST-413,2023-09-14,Food & Beverage,Organic Tea,1,317.60,0.00,Delivered
+ORD-00929,CUST-577,2023-08-11,Books,History Book,2,394.22,0.20,Returned
+ORD-00930,CUST-660,2023-08-16,Food & Beverage,Protein Bar,4,99.44,0.00,Returned
+ORD-00931,CUST-147,2023-12-06,Home Goods,Toaster,3,395.26,0.15,Returned
+ORD-00932,CUST-639,2023-10-26,Electronics,Smartwatch,5,381.62,0.00,Delivered
+ORD-00933,CUST-822,2023-11-02,Books,Biography,3,374.40,0.00,Returned
+ORD-00934,CUST-13,2023-12-05,Electronics,Headphones,3,439.69,0.00,Delivered
+ORD-00935,CUST-262,2023-02-01,Food & Beverage,Snack Pack,2,423.06,0.00,Shipped
+ORD-00936,CUST-650,2023-02-19,Home Goods,Air Fryer,5,64.31,0.19,Shipped
+ORD-00937,CUST-850,2023-05-20,Food & Beverage,Coffee Beans,1,281.11,0.00,Cancelled
+ORD-00938,CUST-230,2023-02-21,Food & Beverage,Snack Pack,5,173.92,0.05,Shipped
+ORD-00939,CUST-649,2023-08-13,Home Goods,Blender,1,71.23,0.02,Delivered
+ORD-00940,CUST-83,2023-03-12,Electronics,Smartwatch,1,406.10,0.00,Delivered
+ORD-00941,CUST-586,2023-11-12,Electronics,Smartwatch,2,112.87,0.14,Delivered
+ORD-00942,CUST-506,2023-03-04,Home Goods,Air Fryer,4,286.62,0.00,Pending
+ORD-00943,CUST-53,2023-08-10,Food & Beverage,Energy Drink,5,208.18,0.00,Returned
+ORD-00944,CUST-112,2023-05-23,Books,Biography,3,486.64,0.00,Returned
+ORD-00945,CUST-262,2023-03-26,Home Goods,Air Fryer,5,406.31,0.00,Shipped
+ORD-00946,CUST-909,2023-12-24,Home Goods,Air Fryer,4,418.23,0.00,Delivered
+ORD-00947,CUST-972,2023-04-05,Electronics,Laptop,3,280.73,0.00,Delivered
+ORD-00948,CUST-24,2023-07-02,Electronics,Laptop,2,172.12,0.00,Shipped
+ORD-00949,CUST-834,2023-12-15,Clothing,Sneakers,4,280.05,0.00,Pending
+ORD-00950,CUST-992,2023-09-27,Home Goods,Toaster,5,350.49,0.09,Cancelled
+ORD-00951,CUST-288,2023-03-23,Clothing,Sneakers,4,488.30,0.10,Pending
+ORD-00952,CUST-482,2023-05-10,Books,Fiction Novel,2,227.38,0.08,Cancelled
+ORD-00953,CUST-650,2023-11-10,Books,Biography,4,13.55,0.00,Returned
+ORD-00954,CUST-973,2023-03-26,Electronics,Smartwatch,1,19.61,0.00,Shipped
+ORD-00955,CUST-707,2023-07-10,Home Goods,Blender,5,458.32,0.00,Cancelled
+ORD-00956,CUST-812,2023-06-10,Clothing,Dress,5,207.06,0.20,Returned
+ORD-00957,CUST-391,2023-02-08,Home Goods,Air Fryer,4,420.33,0.00,Delivered
+ORD-00958,CUST-870,2023-05-15,Electronics,Headphones,4,155.35,0.00,Cancelled
+ORD-00959,CUST-218,2023-05-10,Clothing,Dress,2,200.71,0.00,Delivered
+ORD-00960,CUST-493,2023-05-02,Food & Beverage,Snack Pack,1,83.56,0.00,Cancelled
+ORD-00961,CUST-641,2023-03-23,Electronics,Headphones,1,122.85,0.00,Delivered
+ORD-00962,CUST-370,2023-09-08,Home Goods,Air Fryer,4,292.49,0.00,Shipped
+ORD-00963,CUST-349,2023-11-07,Books,Fiction Novel,2,82.17,0.00,Delivered
+ORD-00964,CUST-169,2023-01-02,Home Goods,Vacuum Cleaner,1,375.34,0.00,Cancelled
+ORD-00965,CUST-101,2023-05-17,Home Goods,Vacuum Cleaner,1,332.52,0.00,Shipped
+ORD-00966,CUST-30,2023-05-03,Clothing,Sneakers,4,213.34,0.00,Returned
+ORD-00967,CUST-981,2023-03-16,Food & Beverage,Snack Pack,3,268.65,0.00,Shipped
+ORD-00968,CUST-290,2023-01-22,Home Goods,Coffee Maker,5,80.13,0.00,Returned
+ORD-00969,CUST-897,2023-07-15,Electronics,Smartphone,5,246.43,0.14,Cancelled
+ORD-00970,CUST-533,2023-08-18,Books,Fiction Novel,5,423.17,0.00,Delivered
+ORD-00971,CUST-945,2023-07-13,Books,Science Book,5,224.22,0.00,Shipped
+ORD-00972,CUST-275,2023-09-23,Food & Beverage,Energy Drink,3,24.53,0.00,Delivered
+ORD-00973,CUST-713,2023-03-12,Home Goods,Toaster,4,195.23,0.00,Cancelled
+ORD-00974,CUST-20,2023-03-21,Clothing,Sneakers,4,274.54,0.07,Returned
+ORD-00975,CUST-358,2023-05-02,Books,Fiction Novel,5,134.35,0.00,Pending
+ORD-00976,CUST-134,2023-04-11,Food & Beverage,Energy Drink,4,443.37,0.00,Returned
+ORD-00977,CUST-574,2023-08-03,Books,Biography,5,290.29,0.16,Cancelled
+ORD-00978,CUST-123,2023-10-17,Food & Beverage,Protein Bar,5,479.63,0.15,Delivered
+ORD-00979,CUST-808,2023-03-18,Books,Science Book,1,370.79,0.00,Cancelled
+ORD-00980,CUST-352,2023-04-11,Electronics,Tablet,2,487.87,0.00,Delivered
+ORD-00981,CUST-431,2023-10-13,Food & Beverage,Protein Bar,1,155.39,0.00,Shipped
+ORD-00982,CUST-857,2023-06-11,Books,Science Book,1,136.29,0.00,Shipped
+ORD-00983,CUST-957,2023-08-11,Food & Beverage,Organic Tea,4,444.76,0.00,Pending
+ORD-00984,CUST-452,2023-06-16,Food & Beverage,Energy Drink,5,300.32,0.00,Cancelled
+ORD-00985,CUST-379,2023-04-27,Home Goods,Blender,3,238.06,0.00,Shipped
+ORD-00986,CUST-433,2023-11-07,Food & Beverage,Snack Pack,1,107.78,0.00,Shipped
+ORD-00987,CUST-280,2023-04-20,Home Goods,Blender,5,269.86,0.00,Delivered
+ORD-00988,CUST-424,2023-12-23,Books,Science Book,2,298.71,0.00,Delivered
+ORD-00989,CUST-143,2023-09-09,Books,Cookbook,1,292.59,0.08,Cancelled
+ORD-00990,CUST-792,2023-12-27,Clothing,Sneakers,2,25.81,0.00,Delivered
+ORD-00991,CUST-157,2023-10-12,Home Goods,Coffee Maker,5,214.79,0.00,Cancelled
+ORD-00992,CUST-911,2023-09-08,Books,Fiction Novel,4,392.58,0.00,Delivered
+ORD-00993,CUST-822,2023-06-23,Home Goods,Toaster,2,209.71,0.13,Returned
+ORD-00994,CUST-953,2023-12-07,Food & Beverage,Energy Drink,2,268.66,0.00,Shipped
+ORD-00995,CUST-1000,2023-07-05,Books,Cookbook,4,37.40,0.00,Pending
+ORD-00996,CUST-175,2023-10-02,Clothing,Jeans,3,109.77,0.02,Cancelled
+ORD-00997,CUST-666,2023-12-12,Books,Cookbook,5,90.06,0.00,Returned
+ORD-00998,CUST-462,2023-07-09,Home Goods,Vacuum Cleaner,1,364.78,0.13,Delivered
+ORD-00999,CUST-929,2023-11-04,Clothing,Jacket,5,253.81,0.18,Delivered
+ORD-01000,CUST-673,2023-11-21,Home Goods,Coffee Maker,4,252.51,0.06,Pending
+ORD-01001,CUST-976,2023-12-22,Home Goods,Air Fryer,5,55.29,0.00,Pending
+ORD-01002,CUST-567,2023-07-20,Books,History Book,4,217.53,0.00,Pending
+ORD-01003,CUST-902,2023-02-08,Clothing,Jacket,1,190.44,0.00,Returned
+ORD-01004,CUST-432,2023-05-20,Electronics,Smartwatch,3,273.67,0.00,Delivered
+ORD-01005,CUST-845,2023-06-01,Books,Biography,3,68.51,0.12,Shipped
+ORD-01006,CUST-727,2023-10-03,Clothing,Jacket,3,407.67,0.00,Shipped
+ORD-01007,CUST-398,2023-05-08,Clothing,Dress,2,432.59,0.00,Cancelled
+ORD-01008,CUST-147,2023-05-21,Electronics,Headphones,1,285.56,0.00,Cancelled
+ORD-01009,CUST-841,2023-12-25,Home Goods,Toaster,4,445.12,0.07,Pending
+ORD-01010,CUST-236,2023-02-04,Home Goods,Toaster,3,251.95,0.00,Cancelled
+ORD-01011,CUST-460,2023-05-13,Books,Biography,1,262.36,0.01,Shipped
+ORD-01012,CUST-161,2023-01-25,Home Goods,Vacuum Cleaner,5,452.62,0.00,Pending
+ORD-01013,CUST-244,2023-11-25,Food & Beverage,Organic Tea,4,132.52,0.14,Delivered
+ORD-01014,CUST-231,2023-05-08,Food & Beverage,Protein Bar,2,204.98,0.01,Pending
+ORD-01015,CUST-58,2023-07-04,Electronics,Smartwatch,5,52.26,0.00,Pending
+ORD-01016,CUST-812,2023-05-17,Books,Biography,3,217.25,0.00,Delivered
+ORD-01017,CUST-553,2023-10-20,Books,Cookbook,2,140.47,0.00,Pending
+ORD-01018,CUST-316,2023-05-12,Clothing,Dress,4,59.34,0.00,Delivered
+ORD-01019,CUST-833,2023-04-17,Home Goods,Air Fryer,5,390.48,0.00,Returned
+ORD-01020,CUST-840,2023-10-31,Food & Beverage,Coffee Beans,1,252.25,0.00,Delivered
+ORD-01021,CUST-252,2023-01-11,Electronics,Tablet,2,163.33,0.04,Delivered
+ORD-01022,CUST-218,2023-02-18,Food & Beverage,Coffee Beans,1,364.12,0.00,Shipped
+ORD-01023,CUST-433,2023-11-02,Electronics,Smartphone,1,417.29,0.00,Returned
+ORD-01024,CUST-201,2023-07-19,Clothing,Jeans,1,218.52,0.00,Delivered
+ORD-01025,CUST-308,2023-05-03,Clothing,Jacket,1,440.49,0.11,Shipped
+ORD-01026,CUST-78,2023-09-25,Clothing,Dress,3,265.71,0.00,Shipped
+ORD-01027,CUST-728,2023-06-05,Electronics,Smartwatch,5,91.55,0.15,Returned
+ORD-01028,CUST-55,2023-01-16,Home Goods,Air Fryer,2,158.73,0.00,Shipped
+ORD-01029,CUST-580,2023-11-26,Food & Beverage,Organic Tea,2,122.74,0.16,Shipped
+ORD-01030,CUST-807,2023-01-12,Home Goods,Vacuum Cleaner,4,401.70,0.18,Cancelled
+ORD-01031,CUST-57,2023-10-26,Food & Beverage,Organic Tea,2,322.98,0.00,Shipped
+ORD-01032,CUST-296,2023-11-04,Clothing,Jeans,4,212.75,0.10,Returned
+ORD-01033,CUST-392,2023-06-15,Clothing,T-Shirt,3,380.46,0.13,Returned
+ORD-01034,CUST-65,2023-10-04,Books,History Book,5,131.24,0.04,Delivered
+ORD-01035,CUST-377,2023-06-16,Food & Beverage,Energy Drink,5,186.13,0.00,Cancelled
+ORD-01036,CUST-763,2023-07-19,Books,Biography,5,251.10,0.00,Delivered
+ORD-01037,CUST-626,2023-04-25,Food & Beverage,Organic Tea,3,48.05,0.09,Returned
+ORD-01038,CUST-170,2023-12-04,Electronics,Laptop,4,144.34,0.00,Delivered
+ORD-01039,CUST-154,2023-03-05,Food & Beverage,Protein Bar,5,68.40,0.00,Pending
+ORD-01040,CUST-639,2023-09-30,Home Goods,Toaster,4,421.70,0.00,Returned
+ORD-01041,CUST-20,2023-03-01,Clothing,Sneakers,4,145.13,0.00,Returned
+ORD-01042,CUST-848,2023-10-17,Books,Science Book,1,212.93,0.00,Pending
+ORD-01043,CUST-509,2023-07-19,Electronics,Laptop,1,78.41,0.00,Returned
+ORD-01044,CUST-635,2023-11-20,Books,Science Book,5,197.37,0.03,Cancelled
+ORD-01045,CUST-423,2023-03-18,Clothing,Jeans,4,27.04,0.00,Cancelled
+ORD-01046,CUST-846,2023-07-15,Electronics,Headphones,3,173.36,0.13,Cancelled
+ORD-01047,CUST-519,2023-01-11,Home Goods,Blender,1,374.95,0.04,Returned
+ORD-01048,CUST-236,2023-04-26,Electronics,Laptop,3,355.86,0.00,Shipped
+ORD-01049,CUST-383,2023-12-11,Food & Beverage,Protein Bar,3,82.03,0.00,Cancelled
+ORD-01050,CUST-21,2023-11-08,Food & Beverage,Organic Tea,1,351.51,0.00,Cancelled
+ORD-01051,CUST-262,2023-10-01,Home Goods,Vacuum Cleaner,4,248.69,0.00,Pending
+ORD-01052,CUST-36,2023-07-11,Home Goods,Vacuum Cleaner,3,72.41,0.00,Pending
+ORD-01053,CUST-999,2023-02-10,Clothing,Jacket,2,35.02,0.00,Cancelled
+ORD-01054,CUST-260,2023-04-21,Books,Fiction Novel,5,273.40,0.00,Delivered
+ORD-01055,CUST-138,2023-03-15,Home Goods,Coffee Maker,5,432.14,0.05,Shipped
+ORD-01056,CUST-617,2023-12-07,Books,Science Book,4,322.13,0.04,Shipped
+ORD-01057,CUST-742,2023-06-26,Electronics,Smartphone,2,302.83,0.00,Shipped
+ORD-01058,CUST-484,2023-03-20,Home Goods,Blender,5,421.19,0.14,Pending
+ORD-01059,CUST-495,2023-08-26,Clothing,Jacket,2,103.50,0.00,Delivered
+ORD-01060,CUST-366,2023-11-26,Electronics,Headphones,1,262.32,0.00,Pending
+ORD-01061,CUST-165,2023-08-25,Books,Science Book,3,312.46,0.00,Pending
+ORD-01062,CUST-968,2023-12-07,Food & Beverage,Coffee Beans,2,365.24,0.00,Delivered
+ORD-01063,CUST-385,2023-11-13,Food & Beverage,Snack Pack,1,436.39,0.00,Shipped
+ORD-01064,CUST-940,2023-10-22,Clothing,Jacket,5,189.14,0.00,Cancelled
+ORD-01065,CUST-638,2023-01-07,Home Goods,Vacuum Cleaner,1,498.09,0.17,Returned
+ORD-01066,CUST-507,2023-05-31,Home Goods,Coffee Maker,3,65.07,0.00,Pending
+ORD-01067,CUST-294,2023-03-05,Food & Beverage,Snack Pack,1,37.00,0.00,Cancelled
+ORD-01068,CUST-859,2023-11-12,Electronics,Tablet,3,177.04,0.00,Pending
+ORD-01069,CUST-643,2023-08-20,Clothing,Jeans,1,100.42,0.00,Pending
+ORD-01070,CUST-989,2023-12-20,Electronics,Tablet,3,326.82,0.00,Shipped
+ORD-01071,CUST-251,2023-06-24,Electronics,Smartphone,4,68.93,0.20,Pending
+ORD-01072,CUST-583,2023-05-16,Electronics,Tablet,4,416.44,0.02,Shipped
+ORD-01073,CUST-151,2023-02-27,Books,History Book,5,354.77,0.00,Cancelled
+ORD-01074,CUST-283,2023-02-09,Books,Fiction Novel,3,414.84,0.00,Returned
+ORD-01075,CUST-882,2023-05-01,Clothing,Sneakers,4,220.77,0.12,Pending
+ORD-01076,CUST-781,2023-10-04,Clothing,Sneakers,2,72.02,0.00,Returned
+ORD-01077,CUST-485,2023-11-17,Electronics,Tablet,1,143.34,0.15,Shipped
+ORD-01078,CUST-937,2023-04-22,Electronics,Smartphone,3,57.01,0.00,Returned
+ORD-01079,CUST-904,2023-04-05,Electronics,Smartwatch,1,47.63,0.00,Delivered
+ORD-01080,CUST-641,2023-02-19,Food & Beverage,Coffee Beans,4,328.65,0.16,Returned
+ORD-01081,CUST-569,2023-10-20,Books,Biography,4,405.05,0.00,Cancelled
+ORD-01082,CUST-799,2023-05-21,Books,Science Book,2,257.19,0.00,Cancelled
+ORD-01083,CUST-205,2023-08-09,Books,Cookbook,3,198.46,0.00,Delivered
+ORD-01084,CUST-882,2023-09-11,Clothing,Sneakers,4,152.32,0.09,Pending
+ORD-01085,CUST-403,2023-01-13,Electronics,Laptop,3,109.36,0.00,Cancelled
+ORD-01086,CUST-209,2023-02-09,Clothing,Dress,5,24.99,0.00,Cancelled
+ORD-01087,CUST-528,2023-10-05,Home Goods,Blender,2,223.57,0.00,Delivered
+ORD-01088,CUST-113,2023-10-31,Books,Biography,5,372.28,0.00,Returned
+ORD-01089,CUST-946,2023-10-05,Electronics,Laptop,2,247.60,0.00,Shipped
+ORD-01090,CUST-379,2023-09-16,Food & Beverage,Protein Bar,2,216.68,0.05,Pending
+ORD-01091,CUST-53,2023-11-01,Food & Beverage,Coffee Beans,4,57.68,0.00,Returned
+ORD-01092,CUST-77,2023-03-26,Food & Beverage,Coffee Beans,5,379.85,0.00,Cancelled
+ORD-01093,CUST-414,2023-03-25,Home Goods,Coffee Maker,4,327.70,0.00,Pending
+ORD-01094,CUST-594,2023-09-13,Home Goods,Vacuum Cleaner,4,468.54,0.00,Delivered
+ORD-01095,CUST-843,2023-05-11,Clothing,T-Shirt,5,447.39,0.00,Delivered
+ORD-01096,CUST-289,2023-04-13,Electronics,Headphones,1,372.76,0.00,Cancelled
+ORD-01097,CUST-215,2023-09-14,Food & Beverage,Energy Drink,3,165.73,0.00,Shipped
+ORD-01098,CUST-911,2023-06-07,Home Goods,Air Fryer,2,410.86,0.00,Returned
+ORD-01099,CUST-993,2023-07-11,Home Goods,Vacuum Cleaner,5,162.69,0.00,Returned
+ORD-01100,CUST-777,2023-11-19,Electronics,Smartphone,1,200.67,0.00,Pending
+ORD-01101,CUST-756,2023-07-10,Electronics,Tablet,1,59.23,0.00,Shipped
+ORD-01102,CUST-420,2023-07-27,Electronics,Headphones,3,110.78,0.12,Returned
+ORD-01103,CUST-592,2023-03-16,Electronics,Smartwatch,2,421.48,0.00,Pending
+ORD-01104,CUST-202,2023-04-18,Home Goods,Toaster,3,241.79,0.09,Shipped
+ORD-01105,CUST-710,2023-02-24,Electronics,Laptop,5,224.68,0.00,Delivered
+ORD-01106,CUST-677,2023-04-26,Food & Beverage,Energy Drink,4,411.06,0.00,Returned
+ORD-01107,CUST-111,2023-03-11,Home Goods,Coffee Maker,4,10.60,0.00,Cancelled
+ORD-01108,CUST-663,2023-08-09,Clothing,Jeans,5,401.33,0.00,Cancelled
+ORD-01109,CUST-907,2023-01-01,Electronics,Smartwatch,5,390.97,0.00,Pending
+ORD-01110,CUST-663,2023-11-15,Food & Beverage,Organic Tea,4,189.18,0.00,Delivered
+ORD-01111,CUST-790,2023-03-23,Clothing,Jeans,4,497.27,0.01,Delivered
+ORD-01112,CUST-347,2023-11-10,Home Goods,Coffee Maker,2,197.59,0.00,Returned
+ORD-01113,CUST-825,2023-10-25,Books,Science Book,5,40.59,0.00,Cancelled
+ORD-01114,CUST-776,2023-11-21,Clothing,T-Shirt,4,173.25,0.08,Returned
+ORD-01115,CUST-686,2023-12-02,Clothing,Jeans,2,298.84,0.00,Shipped
+ORD-01116,CUST-109,2022-12-31,Home Goods,Blender,4,226.59,0.00,Returned
+ORD-01117,CUST-319,2023-02-22,Home Goods,Vacuum Cleaner,2,499.10,0.04,Pending
+ORD-01118,CUST-293,2023-04-08,Clothing,Sneakers,1,426.28,0.00,Pending
+ORD-01119,CUST-287,2023-08-20,Electronics,Laptop,2,478.75,0.00,Delivered
+ORD-01120,CUST-85,2023-07-03,Food & Beverage,Coffee Beans,4,253.77,0.00,Cancelled
+ORD-01121,CUST-326,2023-03-21,Clothing,Sneakers,2,24.54,0.05,Returned
+ORD-01122,CUST-597,2023-08-21,Home Goods,Blender,3,385.34,0.04,Shipped
+ORD-01123,CUST-961,2023-02-09,Clothing,Dress,1,75.65,0.00,Shipped
+ORD-01124,CUST-925,2023-12-21,Electronics,Smartphone,1,275.26,0.00,Cancelled
+ORD-01125,CUST-911,2023-05-26,Electronics,Laptop,1,201.75,0.00,Shipped
+ORD-01126,CUST-249,2023-07-17,Clothing,Dress,2,455.53,0.00,Delivered
+ORD-01127,CUST-977,2023-04-27,Books,Fiction Novel,5,94.56,0.15,Cancelled
+ORD-01128,CUST-363,2023-01-17,Home Goods,Vacuum Cleaner,4,359.23,0.00,Shipped
+ORD-01129,CUST-955,2023-05-13,Home Goods,Air Fryer,4,462.03,0.00,Cancelled
+ORD-01130,CUST-750,2023-07-14,Home Goods,Air Fryer,4,265.87,0.09,Cancelled
+ORD-01131,CUST-611,2023-03-26,Clothing,Jeans,1,189.41,0.00,Shipped
+ORD-01132,CUST-743,2023-12-05,Food & Beverage,Organic Tea,2,174.33,0.00,Returned
+ORD-01133,CUST-628,2023-06-05,Food & Beverage,Coffee Beans,5,388.02,0.00,Shipped
+ORD-01134,CUST-62,2023-06-18,Electronics,Smartwatch,3,233.02,0.00,Returned
+ORD-01135,CUST-717,2023-10-22,Clothing,T-Shirt,4,269.10,0.00,Delivered
+ORD-01136,CUST-838,2023-10-03,Books,History Book,4,32.09,0.00,Returned
+ORD-01137,CUST-881,2023-07-08,Food & Beverage,Protein Bar,3,379.54,0.00,Cancelled
+ORD-01138,CUST-717,2023-11-05,Clothing,Jacket,2,196.30,0.17,Cancelled
+ORD-01139,CUST-583,2023-06-23,Clothing,Jacket,4,421.43,0.14,Shipped
+ORD-01140,CUST-686,2023-04-25,Clothing,Jacket,1,95.06,0.05,Shipped
+ORD-01141,CUST-726,2023-05-08,Clothing,Sneakers,2,478.22,0.04,Pending
+ORD-01142,CUST-16,2023-06-20,Electronics,Laptop,3,214.31,0.00,Cancelled
+ORD-01143,CUST-38,2023-07-05,Home Goods,Blender,4,195.46,0.00,Returned
+ORD-01144,CUST-963,2023-11-20,Clothing,Sneakers,1,348.78,0.00,Returned
+ORD-01145,CUST-741,2023-04-22,Books,Fiction Novel,1,277.48,0.09,Delivered
+ORD-01146,CUST-552,2023-11-23,Electronics,Smartwatch,3,158.85,0.00,Shipped
+ORD-01147,CUST-80,2023-10-17,Books,Biography,4,71.29,0.00,Pending
+ORD-01148,CUST-819,2023-11-26,Clothing,Dress,2,75.44,0.00,Delivered
+ORD-01149,CUST-972,2023-08-10,Food & Beverage,Coffee Beans,3,179.70,0.00,Cancelled
+ORD-01150,CUST-112,2023-12-19,Food & Beverage,Energy Drink,4,289.46,0.00,Pending
+ORD-01151,CUST-539,2023-06-03,Clothing,Sneakers,3,299.61,0.15,Delivered
+ORD-01152,CUST-264,2023-08-12,Food & Beverage,Coffee Beans,2,211.64,0.00,Shipped
+ORD-01153,CUST-882,2023-11-11,Home Goods,Toaster,2,17.95,0.00,Returned
+ORD-01154,CUST-364,2023-10-21,Home Goods,Air Fryer,1,179.02,0.00,Returned
+ORD-01155,CUST-226,2023-03-21,Books,Science Book,4,395.24,0.00,Pending
+ORD-01156,CUST-181,2023-02-19,Food & Beverage,Coffee Beans,1,486.89,0.08,Returned
+ORD-01157,CUST-148,2023-03-07,Clothing,Jacket,2,341.38,0.17,Delivered
+ORD-01158,CUST-429,2023-07-01,Books,History Book,3,400.43,0.10,Pending
+ORD-01159,CUST-787,2023-02-06,Home Goods,Coffee Maker,1,182.61,0.00,Cancelled
+ORD-01160,CUST-712,2023-08-03,Electronics,Laptop,5,411.05,0.00,Shipped
+ORD-01161,CUST-273,2023-05-07,Clothing,Dress,1,185.57,0.00,Delivered
+ORD-01162,CUST-548,2023-07-11,Books,Science Book,3,397.84,0.00,Pending
+ORD-01163,CUST-729,2023-05-27,Clothing,Jeans,5,288.25,0.00,Returned
+ORD-01164,CUST-335,2023-10-06,Books,Cookbook,5,19.42,0.00,Delivered
+ORD-01165,CUST-987,2023-01-14,Books,Biography,2,169.45,0.16,Pending
+ORD-01166,CUST-205,2023-03-17,Food & Beverage,Protein Bar,3,144.87,0.15,Pending
+ORD-01167,CUST-760,2023-10-09,Food & Beverage,Protein Bar,2,437.35,0.00,Cancelled
+ORD-01168,CUST-821,2023-05-21,Electronics,Smartphone,2,441.27,0.00,Delivered
+ORD-01169,CUST-697,2023-11-22,Food & Beverage,Coffee Beans,3,284.42,0.00,Cancelled
+ORD-01170,CUST-268,2023-02-19,Home Goods,Blender,4,35.77,0.09,Shipped
+ORD-01171,CUST-648,2023-07-24,Home Goods,Toaster,1,465.87,0.02,Cancelled
+ORD-01172,CUST-571,2023-08-18,Food & Beverage,Organic Tea,5,340.24,0.00,Shipped
+ORD-01173,CUST-338,2023-05-01,Books,Fiction Novel,2,30.02,0.00,Delivered
+ORD-01174,CUST-96,2023-03-17,Clothing,Jacket,3,499.09,0.04,Delivered
+ORD-01175,CUST-984,2023-10-27,Clothing,Dress,5,311.30,0.13,Pending
+ORD-01176,CUST-617,2023-10-11,Books,Science Book,1,175.53,0.00,Returned
+ORD-01177,CUST-210,2023-12-03,Electronics,Smartphone,2,379.71,0.00,Cancelled
+ORD-01178,CUST-945,2023-07-14,Clothing,Sneakers,2,454.87,0.00,Cancelled
+ORD-01179,CUST-16,2023-04-03,Books,Fiction Novel,3,40.91,0.00,Shipped
+ORD-01180,CUST-403,2023-07-03,Clothing,Jacket,1,317.31,0.00,Shipped
+ORD-01181,CUST-249,2023-05-10,Clothing,Jeans,5,278.64,0.00,Delivered
+ORD-01182,CUST-629,2023-03-27,Electronics,Headphones,5,256.57,0.00,Shipped
+ORD-01183,CUST-949,2023-07-22,Books,Fiction Novel,5,479.21,0.00,Delivered
+ORD-01184,CUST-793,2023-10-16,Clothing,Jeans,3,403.96,0.00,Pending
+ORD-01185,CUST-829,2023-06-15,Food & Beverage,Organic Tea,2,171.69,0.00,Pending
+ORD-01186,CUST-677,2023-06-01,Home Goods,Blender,3,26.25,0.00,Delivered
+ORD-01187,CUST-929,2023-11-13,Home Goods,Toaster,1,57.74,0.04,Shipped
+ORD-01188,CUST-725,2023-05-07,Food & Beverage,Energy Drink,5,304.80,0.11,Shipped
+ORD-01189,CUST-439,2023-04-17,Home Goods,Air Fryer,2,31.03,0.00,Delivered
+ORD-01190,CUST-760,2023-12-16,Home Goods,Toaster,1,462.23,0.00,Pending
+ORD-01191,CUST-622,2023-01-15,Electronics,Smartphone,3,337.84,0.00,Cancelled
+ORD-01192,CUST-97,2023-12-13,Books,Fiction Novel,1,247.67,0.08,Shipped
+ORD-01193,CUST-848,2023-01-25,Home Goods,Coffee Maker,5,58.14,0.18,Returned
+ORD-01194,CUST-787,2023-06-05,Home Goods,Coffee Maker,1,175.67,0.00,Shipped
+ORD-01195,CUST-398,2023-09-12,Clothing,Dress,2,219.30,0.07,Delivered
+ORD-01196,CUST-200,2023-10-02,Home Goods,Vacuum Cleaner,3,370.93,0.00,Shipped
+ORD-01197,CUST-636,2023-05-25,Clothing,Dress,1,157.38,0.12,Shipped
+ORD-01198,CUST-139,2023-01-08,Food & Beverage,Organic Tea,1,275.66,0.18,Returned
+ORD-01199,CUST-86,2023-05-27,Food & Beverage,Coffee Beans,2,254.22,0.15,Returned
+ORD-01200,CUST-640,2023-06-03,Food & Beverage,Organic Tea,3,334.20,0.00,Delivered
+ORD-01201,CUST-906,2023-10-31,Food & Beverage,Coffee Beans,2,171.39,0.00,Returned
+ORD-01202,CUST-379,2023-05-12,Clothing,Dress,3,188.87,0.00,Shipped
+ORD-01203,CUST-324,2023-04-19,Food & Beverage,Organic Tea,1,425.17,0.00,Pending
+ORD-01204,CUST-540,2023-11-09,Clothing,Jeans,2,239.69,0.00,Delivered
+ORD-01205,CUST-326,2023-03-19,Electronics,Tablet,2,69.62,0.16,Pending
+ORD-01206,CUST-107,2023-09-08,Clothing,Jeans,3,306.24,0.00,Cancelled
+ORD-01207,CUST-394,2023-03-27,Home Goods,Air Fryer,2,344.35,0.12,Delivered
+ORD-01208,CUST-861,2023-12-14,Electronics,Smartphone,3,34.12,0.13,Returned
+ORD-01209,CUST-345,2023-11-23,Food & Beverage,Coffee Beans,5,354.47,0.00,Shipped
+ORD-01210,CUST-341,2023-11-09,Books,History Book,4,365.21,0.00,Pending
+ORD-01211,CUST-605,2023-02-02,Food & Beverage,Snack Pack,2,171.63,0.02,Shipped
+ORD-01212,CUST-600,2023-11-02,Clothing,Jeans,2,255.69,0.00,Returned
+ORD-01213,CUST-970,2023-12-17,Books,Cookbook,1,311.60,0.00,Delivered
+ORD-01214,CUST-510,2023-10-09,Home Goods,Air Fryer,1,319.84,0.17,Returned
+ORD-01215,CUST-579,2023-01-24,Clothing,Jacket,4,413.07,0.09,Returned
+ORD-01216,CUST-957,2023-07-17,Home Goods,Coffee Maker,4,123.75,0.00,Cancelled
+ORD-01217,CUST-887,2023-01-18,Home Goods,Coffee Maker,1,480.54,0.00,Shipped
+ORD-01218,CUST-715,2023-03-09,Food & Beverage,Organic Tea,4,217.00,0.00,Cancelled
+ORD-01219,CUST-859,2023-09-23,Books,Fiction Novel,1,316.74,0.13,Cancelled
+ORD-01220,CUST-485,2023-08-25,Books,History Book,1,96.21,0.05,Returned
+ORD-01221,CUST-425,2023-04-09,Electronics,Smartwatch,3,412.01,0.00,Shipped
+ORD-01222,CUST-549,2023-02-04,Electronics,Laptop,3,128.40,0.07,Pending
+ORD-01223,CUST-705,2023-01-17,Clothing,Sneakers,2,310.26,0.00,Returned
+ORD-01224,CUST-202,2023-01-01,Clothing,Dress,3,31.06,0.00,Shipped
+ORD-01225,CUST-698,2023-09-12,Food & Beverage,Snack Pack,3,161.94,0.02,Shipped
+ORD-01226,CUST-865,2023-11-01,Books,Biography,1,188.34,0.00,Cancelled
+ORD-01227,CUST-220,2023-05-22,Home Goods,Toaster,3,129.08,0.10,Shipped
+ORD-01228,CUST-723,2023-02-13,Food & Beverage,Protein Bar,2,288.02,0.00,Delivered
+ORD-01229,CUST-228,2023-12-25,Home Goods,Coffee Maker,5,224.93,0.00,Returned
+ORD-01230,CUST-976,2023-01-13,Electronics,Tablet,2,14.22,0.00,Shipped
+ORD-01231,CUST-398,2023-09-15,Food & Beverage,Snack Pack,5,453.06,0.00,Shipped
+ORD-01232,CUST-811,2023-03-03,Clothing,Sneakers,2,470.39,0.00,Shipped
+ORD-01233,CUST-546,2023-09-21,Electronics,Laptop,1,167.33,0.00,Delivered
+ORD-01234,CUST-937,2023-06-01,Home Goods,Blender,1,133.58,0.06,Delivered
+ORD-01235,CUST-706,2023-10-03,Food & Beverage,Snack Pack,4,202.20,0.00,Delivered
+ORD-01236,CUST-719,2023-02-14,Food & Beverage,Organic Tea,4,364.45,0.03,Pending
+ORD-01237,CUST-905,2023-06-06,Books,Cookbook,5,75.28,0.00,Shipped
+ORD-01238,CUST-386,2023-10-25,Food & Beverage,Energy Drink,4,117.68,0.00,Delivered
+ORD-01239,CUST-99,2023-05-19,Home Goods,Toaster,2,52.81,0.03,Returned
+ORD-01240,CUST-699,2023-06-15,Home Goods,Coffee Maker,5,113.86,0.00,Pending
+ORD-01241,CUST-642,2023-05-08,Home Goods,Toaster,3,37.70,0.00,Shipped
+ORD-01242,CUST-204,2023-07-18,Electronics,Smartphone,2,150.25,0.19,Pending
+ORD-01243,CUST-300,2023-06-27,Clothing,T-Shirt,4,439.05,0.00,Returned
+ORD-01244,CUST-541,2023-06-09,Electronics,Headphones,5,234.15,0.00,Returned
+ORD-01245,CUST-702,2023-09-05,Food & Beverage,Protein Bar,2,335.81,0.00,Shipped
+ORD-01246,CUST-246,2023-04-19,Electronics,Smartphone,1,449.03,0.00,Returned
+ORD-01247,CUST-823,2023-11-02,Clothing,T-Shirt,4,192.38,0.00,Returned
+ORD-01248,CUST-159,2023-03-02,Food & Beverage,Coffee Beans,3,336.24,0.04,Shipped
+ORD-01249,CUST-656,2023-03-18,Clothing,T-Shirt,1,160.52,0.20,Delivered
+ORD-01250,CUST-799,2023-03-16,Food & Beverage,Snack Pack,1,28.23,0.00,Pending
+ORD-01251,CUST-152,2023-04-13,Clothing,Dress,4,447.27,0.11,Cancelled
+ORD-01252,CUST-748,2023-01-14,Food & Beverage,Organic Tea,1,296.17,0.00,Returned
+ORD-01253,CUST-25,2023-11-08,Home Goods,Vacuum Cleaner,4,77.40,0.06,Returned
+ORD-01254,CUST-422,2023-01-09,Electronics,Smartwatch,1,447.78,0.00,Delivered
+ORD-01255,CUST-464,2023-05-02,Clothing,Sneakers,1,38.91,0.02,Delivered
+ORD-01256,CUST-207,2023-12-27,Books,History Book,3,274.78,0.00,Cancelled
+ORD-01257,CUST-531,2023-03-15,Books,History Book,1,451.25,0.16,Pending
+ORD-01258,CUST-980,2023-04-11,Books,Science Book,4,231.67,0.00,Delivered
+ORD-01259,CUST-369,2023-09-12,Books,Biography,3,450.07,0.00,Shipped
+ORD-01260,CUST-27,2023-07-16,Electronics,Smartwatch,2,241.51,0.00,Returned
+ORD-01261,CUST-181,2023-05-17,Home Goods,Coffee Maker,5,425.61,0.00,Returned
+ORD-01262,CUST-42,2023-06-27,Clothing,Jeans,2,261.35,0.00,Shipped
+ORD-01263,CUST-523,2023-06-08,Food & Beverage,Energy Drink,2,215.32,0.00,Pending
+ORD-01264,CUST-662,2023-06-14,Food & Beverage,Coffee Beans,3,496.99,0.00,Cancelled
+ORD-01265,CUST-47,2023-08-05,Electronics,Headphones,1,486.36,0.00,Shipped
+ORD-01266,CUST-419,2023-05-11,Books,Biography,1,220.00,0.04,Delivered
+ORD-01267,CUST-116,2023-10-20,Books,Science Book,4,47.65,0.05,Cancelled
+ORD-01268,CUST-491,2023-04-05,Home Goods,Toaster,3,248.27,0.00,Cancelled
+ORD-01269,CUST-98,2023-04-21,Food & Beverage,Protein Bar,4,207.57,0.14,Pending
+ORD-01270,CUST-760,2023-06-26,Home Goods,Air Fryer,4,408.01,0.00,Delivered
+ORD-01271,CUST-838,2023-09-12,Home Goods,Toaster,2,457.63,0.00,Pending
+ORD-01272,CUST-53,2023-05-01,Books,Cookbook,1,99.86,0.00,Delivered
+ORD-01273,CUST-883,2022-12-31,Clothing,T-Shirt,5,215.16,0.00,Cancelled
+ORD-01274,CUST-883,2023-09-05,Clothing,Sneakers,5,201.14,0.00,Returned
+ORD-01275,CUST-39,2023-12-02,Home Goods,Coffee Maker,3,257.10,0.12,Returned
+ORD-01276,CUST-728,2023-10-12,Food & Beverage,Snack Pack,2,299.87,0.00,Returned
+ORD-01277,CUST-855,2023-01-05,Clothing,Dress,2,393.43,0.14,Cancelled
+ORD-01278,CUST-377,2023-10-08,Electronics,Smartwatch,4,127.00,0.00,Delivered
+ORD-01279,CUST-912,2023-12-23,Clothing,Jacket,2,371.78,0.00,Pending
+ORD-01280,CUST-518,2023-03-09,Home Goods,Coffee Maker,1,99.97,0.13,Pending
+ORD-01281,CUST-527,2023-03-18,Food & Beverage,Energy Drink,1,125.90,0.13,Cancelled
+ORD-01282,CUST-762,2023-08-21,Books,Biography,4,348.33,0.09,Returned
+ORD-01283,CUST-502,2023-07-26,Home Goods,Toaster,2,167.51,0.20,Shipped
+ORD-01284,CUST-66,2023-11-17,Home Goods,Air Fryer,5,323.52,0.00,Cancelled
+ORD-01285,CUST-130,2023-10-08,Books,History Book,4,493.65,0.00,Shipped
+ORD-01286,CUST-894,2023-11-04,Home Goods,Toaster,1,488.58,0.19,Returned
+ORD-01287,CUST-70,2023-10-31,Electronics,Laptop,5,296.33,0.00,Returned
+ORD-01288,CUST-140,2023-05-05,Home Goods,Toaster,1,227.78,0.00,Delivered
+ORD-01289,CUST-794,2023-10-31,Food & Beverage,Energy Drink,4,442.83,0.00,Delivered
+ORD-01290,CUST-859,2023-07-31,Clothing,T-Shirt,1,143.99,0.00,Pending
+ORD-01291,CUST-26,2023-01-06,Books,History Book,3,286.18,0.00,Returned
+ORD-01292,CUST-325,2023-07-03,Home Goods,Air Fryer,5,195.54,0.00,Pending
+ORD-01293,CUST-966,2023-05-26,Clothing,Jacket,2,71.98,0.00,Delivered
+ORD-01294,CUST-20,2023-05-07,Books,Fiction Novel,2,321.09,0.20,Shipped
+ORD-01295,CUST-829,2023-07-10,Home Goods,Coffee Maker,4,382.77,0.04,Returned
+ORD-01296,CUST-21,2023-07-02,Clothing,Jeans,5,55.20,0.00,Cancelled
+ORD-01297,CUST-733,2023-11-30,Clothing,Jacket,4,108.67,0.00,Delivered
+ORD-01298,CUST-147,2023-05-16,Food & Beverage,Snack Pack,2,231.17,0.00,Shipped
+ORD-01299,CUST-736,2023-12-03,Books,Fiction Novel,3,380.47,0.00,Pending
+ORD-01300,CUST-936,2023-02-19,Electronics,Smartwatch,5,33.72,0.00,Pending
+ORD-01301,CUST-306,2023-10-20,Home Goods,Toaster,4,472.17,0.00,Cancelled
+ORD-01302,CUST-177,2023-10-20,Clothing,Dress,2,122.09,0.00,Cancelled
+ORD-01303,CUST-398,2023-10-22,Food & Beverage,Organic Tea,3,223.60,0.07,Delivered
+ORD-01304,CUST-475,2023-05-20,Home Goods,Blender,2,144.27,0.14,Pending
+ORD-01305,CUST-806,2023-04-26,Food & Beverage,Protein Bar,4,319.15,0.00,Delivered
+ORD-01306,CUST-358,2023-12-15,Home Goods,Vacuum Cleaner,5,225.11,0.00,Delivered
+ORD-01307,CUST-520,2023-04-26,Home Goods,Vacuum Cleaner,3,317.04,0.00,Pending
+ORD-01308,CUST-34,2023-02-18,Books,Science Book,3,232.73,0.10,Pending
+ORD-01309,CUST-842,2023-03-24,Home Goods,Vacuum Cleaner,5,322.10,0.00,Shipped
+ORD-01310,CUST-763,2023-12-20,Food & Beverage,Organic Tea,2,130.66,0.00,Shipped
+ORD-01311,CUST-258,2023-02-06,Home Goods,Vacuum Cleaner,3,259.56,0.00,Pending
+ORD-01312,CUST-395,2023-06-27,Clothing,T-Shirt,1,373.30,0.18,Pending
+ORD-01313,CUST-253,2023-02-16,Clothing,Jeans,2,201.00,0.05,Pending
+ORD-01314,CUST-248,2023-01-01,Books,History Book,3,364.52,0.00,Cancelled
+ORD-01315,CUST-77,2023-11-19,Electronics,Tablet,4,453.48,0.00,Pending
+ORD-01316,CUST-629,2023-02-11,Books,Biography,3,373.40,0.12,Returned
+ORD-01317,CUST-418,2023-10-05,Clothing,Jeans,4,223.99,0.20,Delivered
+ORD-01318,CUST-969,2023-03-04,Clothing,Dress,3,21.08,0.00,Returned
+ORD-01319,CUST-571,2023-03-20,Books,Cookbook,5,485.80,0.00,Returned
+ORD-01320,CUST-83,2023-03-21,Electronics,Laptop,3,51.84,0.00,Cancelled
+ORD-01321,CUST-796,2023-07-20,Home Goods,Vacuum Cleaner,3,96.04,0.00,Returned
+ORD-01322,CUST-443,2023-02-26,Clothing,T-Shirt,5,265.20,0.00,Pending
+ORD-01323,CUST-580,2023-05-15,Home Goods,Toaster,3,188.14,0.14,Cancelled
+ORD-01324,CUST-636,2023-04-21,Home Goods,Coffee Maker,4,318.09,0.00,Returned
+ORD-01325,CUST-743,2023-09-15,Books,Fiction Novel,3,310.47,0.00,Pending
+ORD-01326,CUST-629,2023-05-06,Books,Fiction Novel,3,130.29,0.01,Shipped
+ORD-01327,CUST-935,2023-06-17,Clothing,Sneakers,1,279.10,0.00,Delivered
+ORD-01328,CUST-638,2023-06-27,Home Goods,Vacuum Cleaner,2,447.52,0.10,Shipped
+ORD-01329,CUST-9,2023-02-11,Electronics,Headphones,2,151.49,0.00,Shipped
+ORD-01330,CUST-859,2023-09-23,Home Goods,Blender,4,418.41,0.00,Delivered
+ORD-01331,CUST-920,2023-11-20,Electronics,Smartwatch,5,82.47,0.00,Cancelled
+ORD-01332,CUST-122,2023-08-10,Clothing,Sneakers,1,313.63,0.00,Cancelled
+ORD-01333,CUST-930,2023-12-02,Electronics,Headphones,3,494.37,0.00,Shipped
+ORD-01334,CUST-7,2023-11-16,Electronics,Headphones,4,317.07,0.00,Cancelled
+ORD-01335,CUST-106,2023-03-26,Clothing,Jeans,5,308.38,0.00,Delivered
+ORD-01336,CUST-268,2023-11-03,Clothing,Sneakers,5,449.37,0.15,Cancelled
+ORD-01337,CUST-844,2023-10-21,Books,Science Book,5,63.64,0.00,Pending
+ORD-01338,CUST-420,2023-06-20,Electronics,Smartwatch,1,34.26,0.00,Returned
+ORD-01339,CUST-829,2023-02-26,Home Goods,Blender,3,334.30,0.00,Pending
+ORD-01340,CUST-156,2023-07-02,Home Goods,Coffee Maker,4,186.50,0.00,Returned
+ORD-01341,CUST-588,2023-05-02,Food & Beverage,Coffee Beans,3,241.82,0.00,Delivered
+ORD-01342,CUST-955,2023-06-16,Books,History Book,5,51.98,0.05,Delivered
+ORD-01343,CUST-8,2023-12-24,Food & Beverage,Protein Bar,1,153.49,0.00,Delivered
+ORD-01344,CUST-534,2023-11-13,Electronics,Smartphone,1,447.50,0.00,Returned
+ORD-01345,CUST-251,2023-09-09,Books,Science Book,4,210.35,0.00,Pending
+ORD-01346,CUST-876,2023-11-06,Electronics,Tablet,5,411.03,0.19,Pending
+ORD-01347,CUST-611,2023-08-11,Home Goods,Air Fryer,5,256.45,0.00,Returned
+ORD-01348,CUST-696,2023-05-31,Books,Biography,4,146.01,0.07,Pending
+ORD-01349,CUST-556,2023-04-15,Home Goods,Vacuum Cleaner,3,406.93,0.00,Returned
+ORD-01350,CUST-888,2023-08-17,Books,Science Book,2,278.32,0.00,Returned
+ORD-01351,CUST-759,2023-07-27,Clothing,Jacket,1,121.31,0.00,Pending
+ORD-01352,CUST-873,2023-08-22,Home Goods,Blender,1,290.99,0.00,Delivered
+ORD-01353,CUST-954,2023-05-05,Books,Science Book,4,82.30,0.00,Returned
+ORD-01354,CUST-825,2023-09-01,Books,Cookbook,2,419.47,0.05,Returned
+ORD-01355,CUST-123,2023-08-15,Food & Beverage,Protein Bar,3,241.74,0.00,Delivered
+ORD-01356,CUST-809,2023-11-09,Books,Science Book,5,450.67,0.17,Returned
+ORD-01357,CUST-302,2023-12-22,Books,Biography,2,154.95,0.03,Pending
+ORD-01358,CUST-753,2023-12-15,Electronics,Laptop,3,498.51,0.00,Pending
+ORD-01359,CUST-973,2023-11-01,Home Goods,Toaster,3,210.47,0.00,Pending
+ORD-01360,CUST-537,2023-06-10,Clothing,Jacket,1,269.22,0.00,Cancelled
+ORD-01361,CUST-878,2023-12-12,Electronics,Laptop,2,173.31,0.00,Cancelled
+ORD-01362,CUST-776,2023-01-26,Food & Beverage,Snack Pack,3,455.63,0.00,Shipped
+ORD-01363,CUST-601,2023-10-23,Books,Fiction Novel,3,302.45,0.00,Pending
+ORD-01364,CUST-393,2023-04-12,Food & Beverage,Snack Pack,5,35.79,0.00,Pending
+ORD-01365,CUST-400,2023-06-04,Books,Cookbook,1,23.35,0.00,Returned
+ORD-01366,CUST-30,2023-07-09,Clothing,Dress,3,177.07,0.00,Delivered
+ORD-01367,CUST-837,2023-02-19,Home Goods,Toaster,1,18.11,0.00,Delivered
+ORD-01368,CUST-151,2023-05-05,Electronics,Headphones,3,410.04,0.00,Shipped
+ORD-01369,CUST-482,2023-05-23,Food & Beverage,Protein Bar,4,211.38,0.00,Shipped
+ORD-01370,CUST-873,2023-10-22,Home Goods,Air Fryer,5,240.57,0.10,Cancelled
+ORD-01371,CUST-941,2023-10-08,Clothing,Jeans,5,17.28,0.01,Shipped
+ORD-01372,CUST-814,2023-11-05,Electronics,Smartphone,3,24.30,0.10,Returned
+ORD-01373,CUST-90,2023-11-09,Food & Beverage,Organic Tea,4,201.53,0.00,Shipped
+ORD-01374,CUST-392,2023-03-18,Food & Beverage,Snack Pack,4,433.11,0.00,Delivered
+ORD-01375,CUST-507,2023-02-05,Clothing,Jeans,5,100.82,0.00,Pending
+ORD-01376,CUST-501,2023-06-23,Electronics,Headphones,4,499.27,0.00,Delivered
+ORD-01377,CUST-207,2023-09-26,Home Goods,Coffee Maker,1,380.37,0.00,Cancelled
+ORD-01378,CUST-432,2023-05-26,Home Goods,Air Fryer,5,42.28,0.00,Shipped
+ORD-01379,CUST-789,2023-05-23,Home Goods,Air Fryer,2,345.80,0.16,Shipped
+ORD-01380,CUST-428,2023-10-10,Books,Biography,1,479.72,0.00,Cancelled
+ORD-01381,CUST-45,2023-08-31,Books,Science Book,3,270.22,0.00,Pending
+ORD-01382,CUST-164,2023-06-27,Books,Biography,3,130.86,0.00,Delivered
+ORD-01383,CUST-338,2023-07-07,Clothing,Sneakers,3,174.69,0.00,Pending
+ORD-01384,CUST-91,2023-09-30,Clothing,Jeans,4,243.54,0.20,Shipped
+ORD-01385,CUST-212,2023-06-10,Food & Beverage,Energy Drink,5,387.25,0.00,Delivered
+ORD-01386,CUST-578,2023-07-11,Home Goods,Vacuum Cleaner,4,404.70,0.00,Shipped
+ORD-01387,CUST-401,2023-10-13,Food & Beverage,Energy Drink,4,26.94,0.00,Delivered
+ORD-01388,CUST-726,2023-08-19,Books,Science Book,5,395.06,0.00,Cancelled
+ORD-01389,CUST-984,2023-02-05,Home Goods,Coffee Maker,4,267.79,0.00,Shipped
+ORD-01390,CUST-661,2023-11-03,Clothing,T-Shirt,5,264.39,0.00,Shipped
+ORD-01391,CUST-175,2023-04-23,Electronics,Headphones,3,122.82,0.00,Pending
+ORD-01392,CUST-702,2023-10-16,Home Goods,Coffee Maker,5,442.75,0.00,Delivered
+ORD-01393,CUST-105,2023-01-02,Food & Beverage,Coffee Beans,5,337.87,0.15,Shipped
+ORD-01394,CUST-642,2023-01-01,Electronics,Tablet,1,279.03,0.13,Returned
+ORD-01395,CUST-512,2023-07-22,Clothing,Dress,5,498.04,0.00,Returned
+ORD-01396,CUST-97,2023-03-16,Electronics,Laptop,5,107.60,0.08,Cancelled
+ORD-01397,CUST-323,2023-01-25,Food & Beverage,Protein Bar,2,483.47,0.05,Cancelled
+ORD-01398,CUST-544,2023-12-23,Food & Beverage,Coffee Beans,1,393.80,0.00,Shipped
+ORD-01399,CUST-95,2023-08-20,Electronics,Smartphone,4,47.61,0.00,Delivered
+ORD-01400,CUST-873,2023-06-21,Electronics,Laptop,5,96.21,0.01,Delivered
+ORD-01401,CUST-343,2023-05-08,Food & Beverage,Organic Tea,4,349.17,0.00,Returned
+ORD-01402,CUST-198,2023-07-08,Home Goods,Toaster,3,328.76,0.00,Shipped
+ORD-01403,CUST-615,2023-05-14,Clothing,Dress,5,290.65,0.00,Returned
+ORD-01404,CUST-555,2023-03-07,Food & Beverage,Protein Bar,3,449.73,0.00,Pending
+ORD-01405,CUST-768,2023-02-23,Home Goods,Vacuum Cleaner,1,88.50,0.19,Cancelled
+ORD-01406,CUST-15,2023-03-08,Books,Cookbook,1,184.41,0.00,Pending
+ORD-01407,CUST-161,2023-11-18,Food & Beverage,Snack Pack,1,39.93,0.00,Cancelled
+ORD-01408,CUST-981,2023-02-09,Books,Cookbook,3,195.68,0.00,Shipped
+ORD-01409,CUST-371,2023-08-19,Home Goods,Air Fryer,4,155.92,0.00,Delivered
+ORD-01410,CUST-495,2023-05-10,Home Goods,Vacuum Cleaner,5,137.68,0.12,Returned
+ORD-01411,CUST-982,2023-07-20,Food & Beverage,Snack Pack,2,342.80,0.17,Delivered
+ORD-01412,CUST-22,2023-11-02,Clothing,Sneakers,5,33.82,0.00,Shipped
+ORD-01413,CUST-726,2023-08-26,Home Goods,Blender,3,443.75,0.00,Returned
+ORD-01414,CUST-407,2023-01-03,Food & Beverage,Energy Drink,2,113.10,0.00,Returned
+ORD-01415,CUST-668,2023-03-22,Food & Beverage,Snack Pack,4,351.67,0.18,Shipped
+ORD-01416,CUST-857,2023-01-24,Home Goods,Air Fryer,1,250.29,0.13,Pending
+ORD-01417,CUST-10,2023-12-25,Books,Cookbook,1,476.44,0.00,Pending
+ORD-01418,CUST-750,2023-02-11,Electronics,Tablet,2,458.94,0.00,Pending
+ORD-01419,CUST-344,2023-04-30,Home Goods,Vacuum Cleaner,1,125.09,0.10,Returned
+ORD-01420,CUST-832,2023-10-14,Home Goods,Blender,4,468.69,0.00,Shipped
+ORD-01421,CUST-932,2023-02-05,Electronics,Laptop,3,326.11,0.00,Shipped
+ORD-01422,CUST-420,2023-11-03,Electronics,Smartwatch,1,336.27,0.00,Cancelled
+ORD-01423,CUST-476,2023-12-10,Electronics,Headphones,5,352.02,0.00,Returned
+ORD-01424,CUST-403,2023-08-10,Home Goods,Air Fryer,3,183.01,0.00,Returned
+ORD-01425,CUST-557,2023-07-24,Food & Beverage,Snack Pack,3,321.95,0.17,Pending
+ORD-01426,CUST-594,2023-12-11,Food & Beverage,Coffee Beans,1,49.95,0.16,Pending
+ORD-01427,CUST-848,2023-10-02,Books,Biography,3,121.80,0.00,Cancelled
+ORD-01428,CUST-388,2023-02-10,Clothing,Dress,5,98.60,0.17,Pending
+ORD-01429,CUST-973,2023-08-31,Books,Biography,5,222.35,0.12,Returned
+ORD-01430,CUST-397,2023-04-11,Home Goods,Blender,4,436.36,0.12,Cancelled
+ORD-01431,CUST-791,2023-03-03,Clothing,Jacket,1,288.18,0.00,Returned
+ORD-01432,CUST-176,2023-04-04,Food & Beverage,Energy Drink,3,64.13,0.00,Shipped
+ORD-01433,CUST-277,2023-04-16,Books,History Book,4,370.28,0.00,Returned
+ORD-01434,CUST-996,2023-02-09,Home Goods,Toaster,4,140.47,0.00,Returned
+ORD-01435,CUST-879,2023-09-20,Food & Beverage,Organic Tea,5,11.04,0.00,Cancelled
+ORD-01436,CUST-796,2023-10-22,Home Goods,Toaster,5,409.96,0.00,Delivered
+ORD-01437,CUST-411,2023-12-17,Clothing,Dress,4,274.82,0.00,Pending
+ORD-01438,CUST-939,2023-08-27,Electronics,Tablet,3,401.84,0.00,Pending
+ORD-01439,CUST-899,2023-12-22,Home Goods,Toaster,2,402.87,0.10,Cancelled
+ORD-01440,CUST-274,2023-01-20,Food & Beverage,Protein Bar,1,236.59,0.00,Pending
+ORD-01441,CUST-388,2023-10-14,Electronics,Smartwatch,5,21.66,0.00,Returned
+ORD-01442,CUST-753,2023-08-27,Electronics,Tablet,1,211.07,0.00,Shipped
+ORD-01443,CUST-599,2023-12-07,Electronics,Tablet,5,397.78,0.08,Shipped
+ORD-01444,CUST-105,2023-01-16,Home Goods,Vacuum Cleaner,4,360.74,0.18,Pending
+ORD-01445,CUST-219,2023-09-12,Clothing,Dress,4,392.41,0.00,Delivered
+ORD-01446,CUST-471,2023-01-10,Food & Beverage,Protein Bar,5,195.27,0.00,Shipped
+ORD-01447,CUST-475,2023-10-02,Electronics,Tablet,4,130.53,0.00,Cancelled
+ORD-01448,CUST-387,2023-07-14,Home Goods,Toaster,4,207.72,0.00,Shipped
+ORD-01449,CUST-723,2023-12-01,Food & Beverage,Organic Tea,2,98.22,0.06,Pending
+ORD-01450,CUST-796,2023-06-24,Clothing,T-Shirt,2,382.12,0.00,Delivered
+ORD-01451,CUST-638,2023-07-12,Food & Beverage,Organic Tea,4,469.28,0.00,Returned
+ORD-01452,CUST-950,2023-08-07,Home Goods,Coffee Maker,5,96.97,0.00,Shipped
+ORD-01453,CUST-281,2023-04-23,Books,Biography,2,292.29,0.05,Pending
+ORD-01454,CUST-671,2023-06-03,Books,Biography,3,340.87,0.00,Pending
+ORD-01455,CUST-520,2023-08-13,Books,History Book,2,352.91,0.18,Delivered
+ORD-01456,CUST-975,2023-03-31,Clothing,Jacket,5,72.40,0.00,Pending
+ORD-01457,CUST-179,2023-02-12,Electronics,Smartwatch,2,197.17,0.00,Shipped
+ORD-01458,CUST-832,2023-07-21,Electronics,Laptop,4,331.85,0.02,Delivered
+ORD-01459,CUST-824,2023-09-10,Books,Cookbook,4,117.08,0.00,Shipped
+ORD-01460,CUST-816,2023-08-09,Clothing,Sneakers,5,87.55,0.10,Returned
+ORD-01461,CUST-369,2023-09-21,Books,Science Book,2,479.66,0.19,Shipped
+ORD-01462,CUST-420,2023-08-03,Food & Beverage,Snack Pack,3,188.26,0.00,Shipped
+ORD-01463,CUST-815,2023-11-13,Electronics,Headphones,3,284.60,0.08,Delivered
+ORD-01464,CUST-620,2023-02-03,Home Goods,Toaster,1,442.07,0.10,Pending
+ORD-01465,CUST-553,2023-12-23,Books,Fiction Novel,1,105.34,0.00,Returned
+ORD-01466,CUST-723,2023-08-10,Clothing,Jacket,5,310.13,0.10,Delivered
+ORD-01467,CUST-266,2023-08-19,Electronics,Smartphone,2,313.88,0.00,Cancelled
+ORD-01468,CUST-944,2023-09-15,Clothing,T-Shirt,5,122.62,0.14,Pending
+ORD-01469,CUST-761,2023-08-20,Books,Biography,1,358.75,0.00,Pending
+ORD-01470,CUST-783,2023-08-17,Books,Science Book,3,475.40,0.00,Pending
+ORD-01471,CUST-95,2023-04-02,Books,Fiction Novel,4,113.60,0.10,Shipped
+ORD-01472,CUST-647,2023-12-07,Electronics,Laptop,2,159.74,0.00,Returned
+ORD-01473,CUST-996,2023-12-22,Electronics,Smartwatch,5,442.50,0.00,Cancelled
+ORD-01474,CUST-395,2023-04-19,Clothing,Jeans,2,201.90,0.08,Returned
+ORD-01475,CUST-443,2023-11-05,Books,Biography,5,131.76,0.00,Returned
+ORD-01476,CUST-14,2023-11-05,Clothing,Dress,4,87.44,0.00,Pending
+ORD-01477,CUST-76,2023-05-01,Home Goods,Air Fryer,2,143.26,0.06,Returned
+ORD-01478,CUST-235,2023-12-13,Clothing,Dress,4,134.54,0.00,Delivered
+ORD-01479,CUST-498,2023-02-22,Food & Beverage,Coffee Beans,4,49.97,0.00,Cancelled
+ORD-01480,CUST-80,2023-02-02,Electronics,Tablet,5,439.82,0.02,Cancelled
+ORD-01481,CUST-177,2023-09-08,Electronics,Smartwatch,4,284.74,0.00,Cancelled
+ORD-01482,CUST-106,2023-12-12,Food & Beverage,Protein Bar,4,364.22,0.19,Delivered
+ORD-01483,CUST-531,2023-12-14,Food & Beverage,Organic Tea,4,373.95,0.09,Returned
+ORD-01484,CUST-467,2023-12-20,Food & Beverage,Energy Drink,1,476.16,0.00,Returned
+ORD-01485,CUST-132,2023-04-25,Books,Science Book,3,107.97,0.00,Shipped
+ORD-01486,CUST-20,2023-11-05,Books,Science Book,3,131.92,0.02,Delivered
+ORD-01487,CUST-372,2023-06-30,Electronics,Headphones,4,391.76,0.07,Pending
+ORD-01488,CUST-415,2023-06-18,Electronics,Smartphone,4,55.67,0.10,Pending
+ORD-01489,CUST-541,2023-06-14,Electronics,Smartwatch,3,419.91,0.00,Pending
+ORD-01490,CUST-311,2023-03-20,Home Goods,Coffee Maker,1,469.38,0.00,Delivered
+ORD-01491,CUST-623,2023-10-05,Clothing,Sneakers,1,256.81,0.00,Shipped
+ORD-01492,CUST-904,2023-10-26,Electronics,Smartwatch,5,163.88,0.00,Returned
+ORD-01493,CUST-455,2023-06-22,Electronics,Smartwatch,3,398.06,0.00,Cancelled
+ORD-01494,CUST-106,2023-10-20,Books,Fiction Novel,5,324.70,0.00,Returned
+ORD-01495,CUST-287,2023-09-26,Electronics,Laptop,2,95.28,0.00,Cancelled
+ORD-01496,CUST-198,2023-07-10,Books,Science Book,1,108.38,0.00,Shipped
+ORD-01497,CUST-943,2023-08-26,Food & Beverage,Energy Drink,4,441.89,0.00,Returned
+ORD-01498,CUST-514,2023-06-12,Food & Beverage,Energy Drink,2,216.26,0.00,Shipped
+ORD-01499,CUST-650,2023-09-18,Food & Beverage,Snack Pack,5,422.57,0.00,Returned
+ORD-01500,CUST-740,2023-09-21,Clothing,Sneakers,4,276.85,0.00,Shipped
+ORD-01501,CUST-641,2023-07-16,Clothing,Jeans,1,349.73,0.00,Shipped
+ORD-01502,CUST-428,2023-10-13,Clothing,T-Shirt,4,221.58,0.00,Cancelled
+ORD-01503,CUST-152,2023-03-25,Food & Beverage,Snack Pack,3,305.22,0.01,Delivered
+ORD-01504,CUST-989,2023-01-11,Home Goods,Air Fryer,3,196.68,0.00,Delivered
+ORD-01505,CUST-701,2023-01-26,Clothing,Jeans,1,65.62,0.10,Delivered
+ORD-01506,CUST-297,2023-07-15,Clothing,T-Shirt,2,118.01,0.13,Returned
+ORD-01507,CUST-380,2023-07-25,Clothing,Sneakers,2,56.42,0.00,Pending
+ORD-01508,CUST-707,2023-05-01,Food & Beverage,Protein Bar,5,59.96,0.07,Cancelled
+ORD-01509,CUST-622,2023-07-27,Clothing,Dress,5,447.66,0.00,Returned
+ORD-01510,CUST-335,2023-07-06,Clothing,T-Shirt,2,136.44,0.04,Shipped
+ORD-01511,CUST-479,2023-04-25,Home Goods,Toaster,3,214.83,0.00,Returned
+ORD-01512,CUST-35,2023-04-10,Clothing,Sneakers,1,282.45,0.00,Returned
+ORD-01513,CUST-558,2023-12-20,Electronics,Laptop,4,205.28,0.00,Delivered
+ORD-01514,CUST-581,2023-10-31,Books,Cookbook,2,391.03,0.00,Returned
+ORD-01515,CUST-712,2023-11-08,Books,Science Book,5,313.57,0.15,Delivered
+ORD-01516,CUST-504,2023-04-26,Books,Science Book,5,463.23,0.00,Pending
+ORD-01517,CUST-714,2023-11-21,Food & Beverage,Protein Bar,3,66.70,0.02,Pending
+ORD-01518,CUST-639,2023-07-27,Food & Beverage,Protein Bar,4,38.27,0.00,Cancelled
+ORD-01519,CUST-235,2023-12-21,Books,History Book,4,365.20,0.05,Pending
+ORD-01520,CUST-359,2023-07-12,Electronics,Smartphone,4,248.81,0.00,Shipped
+ORD-01521,CUST-505,2023-05-14,Clothing,Jacket,3,291.90,0.00,Returned
+ORD-01522,CUST-640,2023-12-21,Clothing,T-Shirt,5,303.68,0.16,Shipped
+ORD-01523,CUST-245,2023-09-26,Clothing,Jeans,2,84.74,0.00,Pending
+ORD-01524,CUST-552,2023-11-04,Clothing,Jacket,3,139.96,0.00,Pending
+ORD-01525,CUST-321,2023-03-02,Home Goods,Toaster,4,462.08,0.00,Returned
+ORD-01526,CUST-540,2023-08-01,Home Goods,Coffee Maker,2,59.68,0.00,Delivered
+ORD-01527,CUST-385,2023-02-21,Books,Science Book,1,11.39,0.03,Delivered
+ORD-01528,CUST-406,2023-10-22,Food & Beverage,Coffee Beans,1,353.78,0.00,Shipped
+ORD-01529,CUST-289,2023-05-22,Home Goods,Toaster,3,325.31,0.00,Cancelled
+ORD-01530,CUST-469,2023-03-15,Clothing,Jacket,5,116.47,0.00,Returned
+ORD-01531,CUST-744,2023-12-07,Books,Biography,1,326.36,0.11,Delivered
+ORD-01532,CUST-972,2023-09-22,Clothing,Jacket,4,404.23,0.00,Shipped
+ORD-01533,CUST-664,2023-10-20,Clothing,Sneakers,3,124.99,0.00,Returned
+ORD-01534,CUST-694,2023-05-09,Books,Fiction Novel,1,313.93,0.00,Returned
+ORD-01535,CUST-380,2023-09-20,Home Goods,Air Fryer,2,459.72,0.00,Delivered
+ORD-01536,CUST-538,2023-11-11,Clothing,T-Shirt,4,251.18,0.00,Returned
+ORD-01537,CUST-336,2023-09-11,Home Goods,Vacuum Cleaner,1,133.35,0.00,Shipped
+ORD-01538,CUST-437,2023-06-22,Clothing,Dress,1,473.61,0.00,Cancelled
+ORD-01539,CUST-826,2023-02-04,Food & Beverage,Energy Drink,1,282.40,0.00,Returned
+ORD-01540,CUST-516,2023-03-31,Electronics,Tablet,5,338.85,0.00,Cancelled
+ORD-01541,CUST-337,2023-08-12,Electronics,Smartphone,4,333.65,0.18,Pending
+ORD-01542,CUST-203,2023-03-21,Books,Cookbook,3,484.14,0.00,Pending
+ORD-01543,CUST-584,2023-09-17,Food & Beverage,Energy Drink,4,219.39,0.00,Cancelled
+ORD-01544,CUST-253,2023-07-13,Food & Beverage,Organic Tea,3,33.56,0.00,Cancelled
+ORD-01545,CUST-162,2023-06-01,Food & Beverage,Coffee Beans,5,207.14,0.00,Pending
+ORD-01546,CUST-927,2023-12-16,Food & Beverage,Coffee Beans,3,202.69,0.00,Delivered
+ORD-01547,CUST-718,2023-09-08,Books,Science Book,4,442.82,0.00,Cancelled
+ORD-01548,CUST-959,2023-06-20,Food & Beverage,Organic Tea,5,67.54,0.00,Shipped
+ORD-01549,CUST-432,2023-05-18,Home Goods,Air Fryer,5,439.16,0.10,Shipped
+ORD-01550,CUST-505,2023-02-20,Home Goods,Blender,2,476.55,0.00,Delivered
+ORD-01551,CUST-307,2023-11-08,Food & Beverage,Protein Bar,2,240.22,0.00,Delivered
+ORD-01552,CUST-661,2023-06-19,Home Goods,Toaster,3,205.18,0.13,Shipped
+ORD-01553,CUST-545,2023-10-02,Electronics,Laptop,4,489.22,0.00,Shipped
+ORD-01554,CUST-313,2023-05-22,Electronics,Smartphone,4,288.43,0.02,Shipped
+ORD-01555,CUST-729,2023-11-30,Home Goods,Vacuum Cleaner,2,395.67,0.00,Delivered
+ORD-01556,CUST-660,2023-06-11,Clothing,T-Shirt,1,469.87,0.00,Delivered
+ORD-01557,CUST-985,2023-04-26,Electronics,Tablet,2,28.05,0.00,Cancelled
+ORD-01558,CUST-153,2023-09-08,Food & Beverage,Coffee Beans,2,231.28,0.08,Delivered
+ORD-01559,CUST-872,2023-08-13,Clothing,Dress,4,480.88,0.15,Cancelled
+ORD-01560,CUST-987,2023-06-06,Food & Beverage,Coffee Beans,3,25.04,0.00,Delivered
+ORD-01561,CUST-25,2023-09-07,Electronics,Tablet,2,146.05,0.12,Returned
+ORD-01562,CUST-773,2023-09-05,Books,History Book,4,171.38,0.00,Returned
+ORD-01563,CUST-40,2023-05-03,Home Goods,Coffee Maker,3,302.81,0.00,Returned
+ORD-01564,CUST-577,2023-12-22,Clothing,T-Shirt,5,181.17,0.00,Cancelled
+ORD-01565,CUST-570,2023-08-22,Electronics,Smartwatch,5,20.21,0.00,Pending
+ORD-01566,CUST-717,2023-07-21,Clothing,Jacket,1,60.64,0.14,Shipped
+ORD-01567,CUST-826,2023-09-05,Books,Fiction Novel,1,77.07,0.00,Shipped
+ORD-01568,CUST-554,2023-09-23,Home Goods,Blender,5,42.60,0.18,Shipped
+ORD-01569,CUST-150,2023-06-30,Home Goods,Toaster,4,66.07,0.16,Shipped
+ORD-01570,CUST-785,2023-12-02,Electronics,Laptop,2,38.03,0.00,Cancelled
+ORD-01571,CUST-9,2023-05-12,Home Goods,Air Fryer,4,372.03,0.00,Shipped
+ORD-01572,CUST-820,2023-10-05,Home Goods,Blender,4,378.56,0.00,Delivered
+ORD-01573,CUST-737,2023-01-22,Home Goods,Toaster,5,309.40,0.00,Cancelled
+ORD-01574,CUST-716,2023-09-09,Home Goods,Vacuum Cleaner,4,113.94,0.00,Pending
+ORD-01575,CUST-174,2023-10-01,Clothing,Jacket,5,136.73,0.00,Returned
+ORD-01576,CUST-8,2023-08-13,Food & Beverage,Snack Pack,5,342.11,0.00,Returned
+ORD-01577,CUST-802,2023-08-10,Home Goods,Coffee Maker,3,408.41,0.06,Delivered
+ORD-01578,CUST-769,2023-04-11,Clothing,T-Shirt,4,68.52,0.15,Delivered
+ORD-01579,CUST-375,2023-05-23,Clothing,Dress,1,382.62,0.00,Delivered
+ORD-01580,CUST-521,2023-05-08,Books,History Book,3,155.38,0.00,Returned
+ORD-01581,CUST-597,2023-07-24,Food & Beverage,Energy Drink,1,332.12,0.00,Shipped
+ORD-01582,CUST-218,2023-05-12,Food & Beverage,Energy Drink,5,24.42,0.00,Pending
+ORD-01583,CUST-862,2023-09-10,Electronics,Tablet,5,276.40,0.00,Cancelled
+ORD-01584,CUST-172,2023-08-21,Home Goods,Vacuum Cleaner,5,307.78,0.00,Shipped
+ORD-01585,CUST-744,2023-01-07,Electronics,Tablet,2,401.37,0.00,Cancelled
+ORD-01586,CUST-511,2023-02-21,Clothing,T-Shirt,4,348.73,0.00,Pending
+ORD-01587,CUST-362,2023-10-12,Electronics,Tablet,5,253.05,0.00,Returned
+ORD-01588,CUST-452,2023-08-07,Clothing,Jacket,2,246.44,0.00,Delivered
+ORD-01589,CUST-330,2023-03-21,Food & Beverage,Coffee Beans,4,337.90,0.00,Delivered
+ORD-01590,CUST-790,2023-10-19,Home Goods,Blender,1,289.94,0.00,Delivered
+ORD-01591,CUST-10,2023-02-18,Books,Biography,5,462.35,0.00,Delivered
+ORD-01592,CUST-280,2023-04-24,Books,Biography,3,101.39,0.00,Shipped
+ORD-01593,CUST-877,2023-08-09,Home Goods,Air Fryer,2,419.66,0.00,Shipped
+ORD-01594,CUST-368,2023-07-05,Clothing,Jeans,3,138.14,0.10,Cancelled
+ORD-01595,CUST-286,2023-06-20,Electronics,Smartphone,2,16.62,0.00,Shipped
+ORD-01596,CUST-700,2023-08-03,Food & Beverage,Organic Tea,3,451.37,0.00,Returned
+ORD-01597,CUST-468,2023-11-24,Home Goods,Toaster,5,111.10,0.00,Shipped
+ORD-01598,CUST-809,2023-06-22,Clothing,Jacket,1,16.22,0.00,Returned
+ORD-01599,CUST-162,2023-02-07,Home Goods,Coffee Maker,4,249.92,0.00,Returned
+ORD-01600,CUST-629,2023-08-16,Electronics,Tablet,5,428.52,0.00,Pending
+ORD-01601,CUST-746,2023-12-07,Clothing,Jacket,2,294.96,0.00,Pending
+ORD-01602,CUST-704,2023-01-08,Food & Beverage,Coffee Beans,3,470.34,0.00,Returned
+ORD-01603,CUST-85,2023-10-07,Electronics,Smartphone,2,290.98,0.00,Shipped
+ORD-01604,CUST-386,2023-02-06,Home Goods,Coffee Maker,1,131.01,0.00,Cancelled
+ORD-01605,CUST-715,2023-05-26,Home Goods,Toaster,3,183.18,0.10,Shipped
+ORD-01606,CUST-695,2023-05-24,Food & Beverage,Organic Tea,2,175.59,0.05,Pending
+ORD-01607,CUST-391,2023-07-23,Books,Cookbook,1,267.39,0.00,Cancelled
+ORD-01608,CUST-9,2023-09-04,Electronics,Headphones,4,299.00,0.15,Cancelled
+ORD-01609,CUST-975,2023-08-26,Clothing,Dress,3,444.07,0.00,Cancelled
+ORD-01610,CUST-46,2023-07-08,Books,Cookbook,3,19.70,0.00,Shipped
+ORD-01611,CUST-10,2023-08-16,Books,Fiction Novel,5,142.24,0.01,Cancelled
+ORD-01612,CUST-149,2023-06-09,Electronics,Tablet,2,496.81,0.17,Cancelled
+ORD-01613,CUST-774,2023-05-26,Home Goods,Blender,3,250.24,0.00,Pending
+ORD-01614,CUST-194,2023-08-03,Home Goods,Toaster,2,238.63,0.17,Shipped
+ORD-01615,CUST-154,2023-11-12,Clothing,Sneakers,3,143.42,0.07,Cancelled
+ORD-01616,CUST-648,2023-09-02,Clothing,T-Shirt,5,21.78,0.00,Shipped
+ORD-01617,CUST-627,2023-04-12,Clothing,Sneakers,3,307.57,0.00,Pending
+ORD-01618,CUST-581,2023-01-22,Books,Biography,2,25.56,0.00,Pending
+ORD-01619,CUST-43,2023-06-26,Books,History Book,4,69.72,0.04,Returned
+ORD-01620,CUST-697,2023-06-22,Electronics,Smartphone,3,139.29,0.12,Cancelled
+ORD-01621,CUST-389,2023-06-11,Electronics,Smartwatch,2,104.82,0.00,Pending
+ORD-01622,CUST-482,2023-12-16,Clothing,Jeans,2,55.55,0.09,Cancelled
+ORD-01623,CUST-992,2023-01-23,Electronics,Smartwatch,4,325.46,0.18,Pending
+ORD-01624,CUST-907,2023-10-15,Clothing,Jeans,1,285.78,0.00,Cancelled
+ORD-01625,CUST-118,2023-03-31,Clothing,Jacket,5,12.93,0.15,Shipped
+ORD-01626,CUST-699,2023-03-25,Clothing,Jacket,3,406.33,0.00,Delivered
+ORD-01627,CUST-860,2023-07-24,Books,Fiction Novel,2,100.09,0.09,Shipped
+ORD-01628,CUST-386,2023-03-26,Food & Beverage,Coffee Beans,4,393.11,0.15,Delivered
+ORD-01629,CUST-848,2023-02-28,Clothing,Dress,3,240.07,0.00,Delivered
+ORD-01630,CUST-321,2023-10-09,Electronics,Smartphone,2,202.81,0.00,Delivered
+ORD-01631,CUST-405,2023-01-22,Food & Beverage,Snack Pack,4,496.84,0.10,Returned
+ORD-01632,CUST-940,2023-12-25,Home Goods,Blender,5,105.64,0.00,Cancelled
+ORD-01633,CUST-644,2023-09-26,Food & Beverage,Protein Bar,1,103.36,0.00,Returned
+ORD-01634,CUST-332,2023-07-06,Books,Cookbook,3,389.00,0.00,Shipped
+ORD-01635,CUST-146,2023-09-27,Books,History Book,2,107.74,0.00,Pending
+ORD-01636,CUST-64,2023-08-07,Electronics,Smartwatch,1,222.88,0.07,Delivered
+ORD-01637,CUST-363,2023-03-23,Books,History Book,1,166.57,0.00,Pending
+ORD-01638,CUST-547,2023-03-24,Home Goods,Air Fryer,4,285.78,0.00,Returned
+ORD-01639,CUST-457,2023-07-22,Clothing,Dress,3,112.69,0.15,Returned
+ORD-01640,CUST-938,2023-07-17,Food & Beverage,Energy Drink,1,269.85,0.00,Returned
+ORD-01641,CUST-144,2023-01-23,Clothing,Jeans,1,225.33,0.00,Shipped
+ORD-01642,CUST-478,2023-09-23,Food & Beverage,Organic Tea,4,421.20,0.00,Returned
+ORD-01643,CUST-496,2023-11-12,Books,Fiction Novel,4,14.94,0.11,Returned
+ORD-01644,CUST-988,2023-05-31,Clothing,T-Shirt,1,148.47,0.00,Pending
+ORD-01645,CUST-327,2023-12-22,Electronics,Laptop,1,236.77,0.00,Delivered
+ORD-01646,CUST-451,2023-06-20,Food & Beverage,Snack Pack,5,410.42,0.07,Pending
+ORD-01647,CUST-817,2023-06-05,Home Goods,Air Fryer,3,32.45,0.00,Delivered
+ORD-01648,CUST-347,2023-10-27,Books,Biography,2,124.97,0.00,Cancelled
+ORD-01649,CUST-824,2023-02-09,Electronics,Smartwatch,1,264.58,0.14,Pending
+ORD-01650,CUST-39,2023-07-05,Food & Beverage,Energy Drink,2,190.66,0.00,Delivered
+ORD-01651,CUST-206,2023-10-04,Food & Beverage,Energy Drink,2,395.68,0.19,Pending
+ORD-01652,CUST-453,2023-11-14,Clothing,Dress,5,166.93,0.16,Cancelled
+ORD-01653,CUST-49,2023-08-05,Books,History Book,3,414.52,0.02,Returned
+ORD-01654,CUST-155,2023-11-14,Food & Beverage,Coffee Beans,2,71.06,0.00,Cancelled
+ORD-01655,CUST-588,2023-04-18,Electronics,Laptop,4,376.53,0.11,Shipped
+ORD-01656,CUST-156,2023-01-05,Books,Cookbook,3,61.69,0.00,Delivered
+ORD-01657,CUST-903,2023-07-20,Books,History Book,4,220.15,0.00,Returned
+ORD-01658,CUST-759,2023-06-07,Books,Cookbook,3,221.09,0.04,Shipped
+ORD-01659,CUST-333,2023-11-30,Home Goods,Vacuum Cleaner,1,92.99,0.00,Shipped
+ORD-01660,CUST-190,2023-05-19,Food & Beverage,Protein Bar,5,222.53,0.00,Shipped
+ORD-01661,CUST-691,2023-12-03,Clothing,Jacket,3,467.64,0.13,Pending
+ORD-01662,CUST-635,2023-10-11,Books,Science Book,4,370.82,0.00,Pending
+ORD-01663,CUST-441,2023-06-09,Books,Cookbook,1,23.26,0.00,Pending
+ORD-01664,CUST-718,2023-12-21,Books,History Book,2,433.66,0.00,Cancelled
+ORD-01665,CUST-998,2023-10-06,Food & Beverage,Organic Tea,4,62.42,0.00,Pending
+ORD-01666,CUST-183,2023-05-08,Clothing,Sneakers,1,71.48,0.00,Delivered
+ORD-01667,CUST-65,2023-01-17,Clothing,Dress,2,204.67,0.07,Returned
+ORD-01668,CUST-178,2023-03-19,Clothing,T-Shirt,4,215.89,0.19,Delivered
+ORD-01669,CUST-896,2023-09-18,Electronics,Smartwatch,3,59.52,0.00,Returned
+ORD-01670,CUST-997,2023-03-13,Books,Cookbook,2,412.27,0.00,Shipped
+ORD-01671,CUST-524,2023-05-14,Food & Beverage,Organic Tea,3,69.78,0.18,Pending
+ORD-01672,CUST-340,2023-08-08,Books,Biography,1,251.03,0.00,Returned
+ORD-01673,CUST-52,2023-09-01,Home Goods,Blender,5,154.98,0.00,Returned
+ORD-01674,CUST-948,2023-07-15,Home Goods,Coffee Maker,1,461.32,0.01,Cancelled
+ORD-01675,CUST-66,2023-08-02,Food & Beverage,Protein Bar,1,176.74,0.00,Shipped
+ORD-01676,CUST-813,2023-11-06,Food & Beverage,Coffee Beans,2,474.97,0.00,Delivered
+ORD-01677,CUST-163,2023-08-04,Books,Cookbook,3,50.82,0.10,Pending
+ORD-01678,CUST-894,2023-01-01,Clothing,T-Shirt,3,16.96,0.00,Shipped
+ORD-01679,CUST-793,2023-09-27,Home Goods,Toaster,2,242.03,0.11,Cancelled
+ORD-01680,CUST-349,2023-01-27,Clothing,Jeans,5,481.48,0.00,Returned
+ORD-01681,CUST-2,2023-05-09,Clothing,Jacket,5,333.82,0.00,Pending
+ORD-01682,CUST-790,2023-01-05,Electronics,Smartphone,4,429.32,0.00,Delivered
+ORD-01683,CUST-131,2023-01-15,Clothing,Jacket,2,370.17,0.00,Cancelled
+ORD-01684,CUST-819,2023-08-20,Books,Biography,3,159.88,0.00,Pending
+ORD-01685,CUST-880,2023-11-22,Food & Beverage,Organic Tea,3,475.27,0.03,Cancelled
+ORD-01686,CUST-241,2023-08-13,Electronics,Tablet,3,124.76,0.00,Pending
+ORD-01687,CUST-220,2023-04-03,Books,History Book,3,24.84,0.00,Shipped
+ORD-01688,CUST-112,2023-05-04,Clothing,Sneakers,5,173.17,0.14,Returned
+ORD-01689,CUST-873,2023-10-25,Books,History Book,1,174.78,0.17,Pending
+ORD-01690,CUST-502,2023-12-17,Food & Beverage,Snack Pack,4,270.40,0.10,Pending
+ORD-01691,CUST-736,2023-11-08,Food & Beverage,Organic Tea,5,128.01,0.03,Shipped
+ORD-01692,CUST-879,2023-05-10,Clothing,Dress,2,368.68,0.05,Cancelled
+ORD-01693,CUST-584,2023-06-12,Books,Cookbook,3,160.68,0.00,Cancelled
+ORD-01694,CUST-302,2023-04-04,Clothing,Jeans,4,290.52,0.13,Cancelled
+ORD-01695,CUST-984,2023-09-03,Home Goods,Blender,1,458.53,0.03,Pending
+ORD-01696,CUST-125,2023-12-24,Books,History Book,4,50.91,0.20,Pending
+ORD-01697,CUST-746,2023-10-19,Clothing,T-Shirt,1,152.54,0.18,Pending
+ORD-01698,CUST-928,2023-01-17,Home Goods,Vacuum Cleaner,4,64.85,0.11,Delivered
+ORD-01699,CUST-808,2023-09-12,Home Goods,Coffee Maker,4,461.81,0.00,Delivered
+ORD-01700,CUST-919,2023-12-01,Clothing,Jacket,2,189.46,0.11,Returned
+ORD-01701,CUST-91,2023-03-08,Books,Cookbook,4,133.93,0.00,Shipped
+ORD-01702,CUST-144,2023-04-18,Clothing,Jeans,4,53.72,0.00,Pending
+ORD-01703,CUST-367,2023-01-27,Food & Beverage,Snack Pack,3,434.26,0.00,Delivered
+ORD-01704,CUST-79,2023-11-07,Home Goods,Coffee Maker,1,383.09,0.05,Returned
+ORD-01705,CUST-212,2023-09-05,Books,Fiction Novel,5,95.08,0.00,Pending
+ORD-01706,CUST-427,2023-07-16,Clothing,Jacket,4,42.67,0.00,Shipped
+ORD-01707,CUST-144,2023-11-05,Food & Beverage,Protein Bar,5,376.26,0.00,Delivered
+ORD-01708,CUST-781,2023-10-21,Food & Beverage,Protein Bar,2,280.64,0.00,Delivered
+ORD-01709,CUST-150,2023-05-01,Books,Cookbook,3,35.38,0.00,Shipped
+ORD-01710,CUST-979,2023-11-27,Home Goods,Blender,5,131.41,0.10,Delivered
+ORD-01711,CUST-15,2023-06-18,Home Goods,Coffee Maker,5,346.97,0.00,Cancelled
+ORD-01712,CUST-72,2023-11-26,Clothing,Dress,3,444.80,0.00,Cancelled
+ORD-01713,CUST-611,2023-03-14,Home Goods,Vacuum Cleaner,4,347.94,0.00,Cancelled
+ORD-01714,CUST-597,2023-08-15,Home Goods,Toaster,1,76.60,0.00,Shipped
+ORD-01715,CUST-70,2023-12-24,Home Goods,Toaster,5,150.08,0.00,Returned
+ORD-01716,CUST-132,2023-12-21,Books,History Book,5,390.38,0.14,Shipped
+ORD-01717,CUST-808,2023-05-03,Food & Beverage,Organic Tea,1,252.89,0.17,Cancelled
+ORD-01718,CUST-283,2023-04-09,Home Goods,Toaster,4,255.97,0.00,Cancelled
+ORD-01719,CUST-495,2023-10-16,Books,Cookbook,1,494.16,0.13,Cancelled
+ORD-01720,CUST-23,2023-05-13,Clothing,T-Shirt,3,327.99,0.00,Delivered
+ORD-01721,CUST-111,2023-02-16,Electronics,Tablet,2,462.02,0.09,Pending
+ORD-01722,CUST-687,2023-06-03,Books,Cookbook,1,395.99,0.00,Returned
+ORD-01723,CUST-214,2023-10-15,Clothing,Sneakers,2,292.14,0.00,Delivered
+ORD-01724,CUST-496,2023-09-23,Books,Fiction Novel,5,98.08,0.00,Shipped
+ORD-01725,CUST-474,2023-12-12,Electronics,Laptop,3,193.12,0.00,Returned
+ORD-01726,CUST-798,2023-04-11,Electronics,Headphones,2,256.20,0.00,Pending
+ORD-01727,CUST-716,2023-04-05,Electronics,Tablet,1,319.44,0.07,Returned
+ORD-01728,CUST-940,2023-05-09,Food & Beverage,Snack Pack,1,14.73,0.00,Cancelled
+ORD-01729,CUST-502,2023-08-04,Home Goods,Blender,5,485.63,0.00,Shipped
+ORD-01730,CUST-904,2023-10-24,Home Goods,Air Fryer,4,216.98,0.16,Delivered
+ORD-01731,CUST-271,2023-12-05,Electronics,Smartphone,3,226.04,0.00,Delivered
+ORD-01732,CUST-574,2023-11-16,Electronics,Tablet,5,154.20,0.00,Pending
+ORD-01733,CUST-397,2023-05-14,Electronics,Smartphone,4,390.03,0.00,Cancelled
+ORD-01734,CUST-561,2023-06-10,Electronics,Laptop,1,329.07,0.09,Returned
+ORD-01735,CUST-901,2023-11-01,Food & Beverage,Organic Tea,3,364.05,0.00,Shipped
+ORD-01736,CUST-114,2023-07-02,Books,History Book,5,221.95,0.00,Shipped
+ORD-01737,CUST-547,2023-11-30,Home Goods,Air Fryer,5,363.20,0.00,Shipped
+ORD-01738,CUST-977,2023-02-03,Books,History Book,1,36.78,0.00,Cancelled
+ORD-01739,CUST-943,2023-08-19,Food & Beverage,Snack Pack,5,426.49,0.00,Returned
+ORD-01740,CUST-907,2023-11-12,Clothing,Sneakers,2,358.71,0.00,Shipped
+ORD-01741,CUST-554,2023-04-07,Home Goods,Blender,2,452.29,0.08,Delivered
+ORD-01742,CUST-413,2023-10-23,Electronics,Smartphone,5,279.31,0.00,Shipped
+ORD-01743,CUST-330,2023-11-21,Food & Beverage,Protein Bar,5,311.49,0.00,Shipped
+ORD-01744,CUST-363,2023-10-03,Home Goods,Vacuum Cleaner,1,91.28,0.00,Returned
+ORD-01745,CUST-692,2023-09-05,Books,Cookbook,2,97.49,0.00,Pending
+ORD-01746,CUST-34,2023-06-04,Electronics,Headphones,1,54.69,0.16,Returned
+ORD-01747,CUST-14,2023-02-03,Food & Beverage,Protein Bar,1,353.30,0.00,Pending
+ORD-01748,CUST-929,2023-11-07,Electronics,Laptop,1,392.80,0.14,Cancelled
+ORD-01749,CUST-603,2023-02-03,Food & Beverage,Snack Pack,3,261.86,0.00,Delivered
+ORD-01750,CUST-343,2023-04-10,Home Goods,Toaster,5,198.79,0.00,Shipped
+ORD-01751,CUST-692,2023-04-05,Electronics,Smartwatch,1,120.34,0.13,Cancelled
+ORD-01752,CUST-601,2023-02-12,Books,Fiction Novel,1,431.40,0.00,Returned
+ORD-01753,CUST-19,2023-04-25,Electronics,Tablet,1,475.70,0.00,Returned
+ORD-01754,CUST-818,2023-01-05,Home Goods,Toaster,3,255.35,0.00,Pending
+ORD-01755,CUST-404,2023-05-17,Food & Beverage,Protein Bar,1,295.32,0.00,Returned
+ORD-01756,CUST-760,2023-10-10,Food & Beverage,Protein Bar,2,168.41,0.00,Delivered
+ORD-01757,CUST-691,2023-04-06,Home Goods,Coffee Maker,4,490.16,0.00,Cancelled
+ORD-01758,CUST-78,2023-01-26,Food & Beverage,Protein Bar,4,402.06,0.00,Shipped
+ORD-01759,CUST-777,2023-11-10,Clothing,Jacket,3,388.37,0.00,Shipped
+ORD-01760,CUST-313,2023-12-08,Clothing,Jeans,3,218.38,0.00,Returned
+ORD-01761,CUST-516,2023-11-15,Food & Beverage,Coffee Beans,4,423.79,0.02,Shipped
+ORD-01762,CUST-325,2023-11-16,Books,Science Book,2,495.93,0.01,Shipped
+ORD-01763,CUST-437,2023-03-08,Clothing,Jeans,4,332.87,0.00,Cancelled
+ORD-01764,CUST-662,2023-11-11,Food & Beverage,Organic Tea,3,408.75,0.00,Delivered
+ORD-01765,CUST-251,2023-09-24,Books,Fiction Novel,3,133.95,0.00,Shipped
+ORD-01766,CUST-366,2023-01-02,Clothing,Jacket,1,490.21,0.07,Returned
+ORD-01767,CUST-231,2023-03-03,Home Goods,Coffee Maker,5,201.78,0.00,Returned
+ORD-01768,CUST-607,2023-12-08,Books,Fiction Novel,1,413.10,0.18,Returned
+ORD-01769,CUST-89,2023-04-18,Food & Beverage,Coffee Beans,1,394.39,0.00,Shipped
+ORD-01770,CUST-724,2023-05-08,Electronics,Tablet,1,342.42,0.20,Delivered
+ORD-01771,CUST-515,2023-09-09,Home Goods,Toaster,2,381.49,0.00,Pending
+ORD-01772,CUST-906,2023-03-16,Food & Beverage,Coffee Beans,1,223.47,0.01,Pending
+ORD-01773,CUST-152,2023-03-09,Clothing,Jeans,4,145.90,0.00,Returned
+ORD-01774,CUST-631,2023-06-16,Electronics,Tablet,3,451.95,0.13,Shipped
+ORD-01775,CUST-275,2023-01-03,Books,Science Book,3,319.18,0.00,Returned
+ORD-01776,CUST-279,2023-01-22,Books,Cookbook,4,497.53,0.13,Cancelled
+ORD-01777,CUST-513,2023-03-14,Clothing,Jeans,1,387.24,0.00,Returned
+ORD-01778,CUST-515,2023-11-25,Electronics,Headphones,2,93.89,0.09,Shipped
+ORD-01779,CUST-70,2023-08-15,Books,Science Book,3,168.71,0.00,Shipped
+ORD-01780,CUST-818,2023-02-27,Electronics,Smartwatch,3,230.36,0.00,Delivered
+ORD-01781,CUST-264,2023-06-13,Books,Fiction Novel,2,469.74,0.14,Returned
+ORD-01782,CUST-800,2023-11-08,Books,Science Book,1,191.90,0.00,Cancelled
+ORD-01783,CUST-988,2023-02-28,Food & Beverage,Organic Tea,4,466.04,0.00,Returned
+ORD-01784,CUST-988,2023-05-07,Clothing,Jacket,5,320.15,0.00,Delivered
+ORD-01785,CUST-940,2023-09-30,Food & Beverage,Snack Pack,1,109.32,0.00,Delivered
+ORD-01786,CUST-992,2023-06-03,Home Goods,Coffee Maker,1,445.34,0.08,Shipped
+ORD-01787,CUST-520,2023-09-21,Clothing,Sneakers,2,401.76,0.00,Delivered
+ORD-01788,CUST-345,2023-06-03,Food & Beverage,Coffee Beans,5,426.65,0.17,Returned
+ORD-01789,CUST-139,2023-01-23,Home Goods,Coffee Maker,4,86.82,0.09,Delivered
+ORD-01790,CUST-718,2023-08-14,Home Goods,Blender,2,54.67,0.00,Shipped
+ORD-01791,CUST-470,2023-02-11,Home Goods,Toaster,3,203.36,0.00,Pending
+ORD-01792,CUST-762,2023-08-22,Clothing,Dress,1,444.29,0.00,Delivered
+ORD-01793,CUST-991,2023-10-16,Home Goods,Air Fryer,2,316.89,0.00,Shipped
+ORD-01794,CUST-799,2023-04-26,Books,Cookbook,1,293.93,0.02,Pending
+ORD-01795,CUST-886,2023-10-15,Electronics,Laptop,3,63.86,0.00,Delivered
+ORD-01796,CUST-51,2023-01-07,Books,Fiction Novel,2,428.92,0.00,Delivered
+ORD-01797,CUST-50,2023-03-31,Food & Beverage,Protein Bar,1,479.57,0.00,Pending
+ORD-01798,CUST-758,2023-08-02,Food & Beverage,Coffee Beans,3,164.26,0.00,Delivered
+ORD-01799,CUST-533,2023-02-28,Home Goods,Blender,4,302.55,0.00,Delivered
+ORD-01800,CUST-645,2023-02-12,Food & Beverage,Snack Pack,3,128.14,0.00,Delivered
+ORD-01801,CUST-671,2023-04-02,Electronics,Tablet,1,250.66,0.00,Cancelled
+ORD-01802,CUST-160,2023-07-08,Food & Beverage,Organic Tea,1,198.34,0.00,Cancelled
+ORD-01803,CUST-264,2023-07-24,Clothing,Jacket,5,104.52,0.00,Pending
+ORD-01804,CUST-335,2023-11-13,Electronics,Laptop,3,254.80,0.16,Cancelled
+ORD-01805,CUST-329,2023-09-01,Food & Beverage,Organic Tea,5,72.98,0.00,Shipped
+ORD-01806,CUST-104,2023-12-24,Books,Science Book,4,235.63,0.07,Pending
+ORD-01807,CUST-961,2023-05-27,Clothing,Sneakers,5,265.09,0.00,Shipped
+ORD-01808,CUST-326,2023-08-05,Books,Science Book,3,254.34,0.00,Pending
+ORD-01809,CUST-474,2023-07-19,Clothing,Sneakers,3,66.17,0.00,Returned
+ORD-01810,CUST-28,2023-08-14,Books,History Book,2,208.09,0.12,Pending
+ORD-01811,CUST-674,2023-02-13,Home Goods,Toaster,5,254.38,0.00,Delivered
+ORD-01812,CUST-428,2023-04-24,Clothing,Jeans,4,193.62,0.00,Cancelled
+ORD-01813,CUST-561,2023-06-19,Books,Cookbook,1,274.67,0.11,Shipped
+ORD-01814,CUST-557,2023-01-22,Food & Beverage,Energy Drink,4,409.66,0.00,Shipped
+ORD-01815,CUST-746,2023-12-15,Books,Science Book,5,15.39,0.17,Returned
+ORD-01816,CUST-669,2023-10-17,Electronics,Laptop,3,402.23,0.00,Shipped
+ORD-01817,CUST-503,2023-01-11,Home Goods,Vacuum Cleaner,1,255.28,0.00,Delivered
+ORD-01818,CUST-673,2023-06-16,Food & Beverage,Coffee Beans,5,26.91,0.00,Pending
+ORD-01819,CUST-404,2023-10-25,Home Goods,Vacuum Cleaner,1,314.92,0.02,Delivered
+ORD-01820,CUST-937,2023-10-06,Food & Beverage,Coffee Beans,3,408.84,0.09,Delivered
+ORD-01821,CUST-400,2023-12-16,Food & Beverage,Snack Pack,1,130.15,0.00,Shipped
+ORD-01822,CUST-556,2023-04-15,Electronics,Headphones,3,464.47,0.00,Cancelled
+ORD-01823,CUST-171,2023-07-22,Food & Beverage,Protein Bar,2,236.61,0.05,Cancelled
+ORD-01824,CUST-618,2023-04-18,Food & Beverage,Protein Bar,5,401.70,0.00,Returned
+ORD-01825,CUST-404,2023-12-18,Electronics,Smartwatch,5,371.52,0.00,Delivered
+ORD-01826,CUST-26,2023-02-01,Home Goods,Blender,1,108.75,0.00,Cancelled
+ORD-01827,CUST-964,2023-07-09,Clothing,T-Shirt,4,214.35,0.02,Delivered
+ORD-01828,CUST-38,2023-10-10,Food & Beverage,Energy Drink,5,261.07,0.00,Pending
+ORD-01829,CUST-463,2023-06-13,Books,Fiction Novel,1,94.10,0.00,Pending
+ORD-01830,CUST-640,2023-05-17,Home Goods,Coffee Maker,2,123.92,0.06,Cancelled
+ORD-01831,CUST-9,2023-10-22,Food & Beverage,Energy Drink,1,277.06,0.00,Delivered
+ORD-01832,CUST-880,2023-10-02,Food & Beverage,Snack Pack,5,410.32,0.00,Pending
+ORD-01833,CUST-367,2023-10-04,Home Goods,Toaster,2,373.51,0.00,Delivered
+ORD-01834,CUST-351,2023-03-21,Home Goods,Air Fryer,3,336.00,0.00,Returned
+ORD-01835,CUST-805,2023-01-31,Electronics,Headphones,3,304.38,0.08,Cancelled
+ORD-01836,CUST-894,2023-02-04,Clothing,Jeans,3,318.30,0.14,Pending
+ORD-01837,CUST-376,2023-04-02,Electronics,Smartphone,1,83.90,0.00,Shipped
+ORD-01838,CUST-146,2023-05-09,Home Goods,Air Fryer,5,409.38,0.00,Shipped
+ORD-01839,CUST-943,2023-06-07,Food & Beverage,Organic Tea,1,338.65,0.00,Cancelled
+ORD-01840,CUST-312,2023-11-04,Clothing,Sneakers,2,294.22,0.00,Shipped
+ORD-01841,CUST-981,2023-11-01,Food & Beverage,Snack Pack,4,217.90,0.00,Cancelled
+ORD-01842,CUST-937,2023-02-16,Food & Beverage,Energy Drink,2,478.83,0.00,Cancelled
+ORD-01843,CUST-5,2023-10-13,Books,History Book,3,406.14,0.00,Shipped
+ORD-01844,CUST-268,2023-10-07,Clothing,Sneakers,4,338.38,0.04,Shipped
+ORD-01845,CUST-726,2023-09-03,Food & Beverage,Snack Pack,3,254.25,0.03,Delivered
+ORD-01846,CUST-612,2023-05-08,Food & Beverage,Protein Bar,3,54.69,0.00,Delivered
+ORD-01847,CUST-471,2023-12-23,Clothing,Sneakers,1,294.74,0.18,Delivered
+ORD-01848,CUST-303,2023-07-18,Clothing,T-Shirt,3,174.65,0.00,Delivered
+ORD-01849,CUST-869,2023-09-17,Food & Beverage,Organic Tea,2,474.67,0.00,Cancelled
+ORD-01850,CUST-842,2023-09-01,Electronics,Headphones,5,193.74,0.05,Delivered
+ORD-01851,CUST-142,2023-03-17,Clothing,Jeans,4,126.93,0.17,Shipped
+ORD-01852,CUST-426,2023-05-17,Clothing,Sneakers,2,227.61,0.00,Cancelled
+ORD-01853,CUST-835,2023-06-25,Books,History Book,3,382.71,0.00,Pending
+ORD-01854,CUST-21,2023-07-13,Books,Fiction Novel,4,314.69,0.00,Delivered
+ORD-01855,CUST-130,2023-11-12,Food & Beverage,Organic Tea,2,96.39,0.00,Returned
+ORD-01856,CUST-913,2023-02-14,Home Goods,Toaster,2,286.33,0.00,Pending
+ORD-01857,CUST-736,2023-08-06,Clothing,Sneakers,1,232.88,0.00,Cancelled
+ORD-01858,CUST-835,2023-12-04,Books,Cookbook,3,331.10,0.00,Shipped
+ORD-01859,CUST-952,2023-12-22,Books,Science Book,1,479.00,0.00,Cancelled
+ORD-01860,CUST-502,2023-04-12,Electronics,Tablet,1,370.76,0.10,Shipped
+ORD-01861,CUST-579,2023-02-22,Books,Biography,4,482.51,0.00,Pending
+ORD-01862,CUST-51,2023-02-27,Clothing,Jacket,2,494.04,0.10,Shipped
+ORD-01863,CUST-674,2023-01-04,Home Goods,Vacuum Cleaner,1,418.53,0.09,Shipped
+ORD-01864,CUST-89,2023-08-06,Home Goods,Vacuum Cleaner,5,404.64,0.00,Pending
+ORD-01865,CUST-363,2023-10-25,Food & Beverage,Energy Drink,1,294.37,0.00,Pending
+ORD-01866,CUST-4,2023-06-16,Home Goods,Vacuum Cleaner,3,204.72,0.00,Shipped
+ORD-01867,CUST-967,2023-06-05,Home Goods,Vacuum Cleaner,1,161.21,0.00,Delivered
+ORD-01868,CUST-527,2023-04-22,Clothing,Sneakers,1,166.45,0.00,Delivered
+ORD-01869,CUST-926,2023-06-10,Home Goods,Toaster,5,377.79,0.00,Delivered
+ORD-01870,CUST-346,2023-02-26,Books,Cookbook,3,396.27,0.06,Shipped
+ORD-01871,CUST-713,2023-11-10,Clothing,T-Shirt,5,318.11,0.10,Shipped
+ORD-01872,CUST-561,2023-08-19,Books,Science Book,1,271.19,0.00,Pending
+ORD-01873,CUST-508,2023-09-30,Clothing,Jeans,2,252.25,0.01,Delivered
+ORD-01874,CUST-337,2023-07-12,Food & Beverage,Protein Bar,3,280.49,0.00,Delivered
+ORD-01875,CUST-38,2023-11-20,Clothing,T-Shirt,1,337.59,0.06,Delivered
+ORD-01876,CUST-955,2023-04-12,Home Goods,Blender,1,226.40,0.03,Pending
+ORD-01877,CUST-848,2023-08-08,Food & Beverage,Snack Pack,1,293.18,0.00,Delivered
+ORD-01878,CUST-621,2023-06-07,Home Goods,Air Fryer,1,250.44,0.05,Pending
+ORD-01879,CUST-504,2023-10-09,Food & Beverage,Snack Pack,5,79.96,0.00,Pending
+ORD-01880,CUST-121,2023-07-12,Food & Beverage,Coffee Beans,1,87.26,0.00,Cancelled
+ORD-01881,CUST-209,2023-11-17,Clothing,Jacket,1,243.95,0.00,Shipped
+ORD-01882,CUST-497,2023-05-23,Food & Beverage,Protein Bar,3,336.46,0.00,Shipped
+ORD-01883,CUST-237,2023-02-17,Food & Beverage,Organic Tea,1,206.51,0.00,Pending
+ORD-01884,CUST-236,2023-07-27,Food & Beverage,Snack Pack,4,448.91,0.00,Delivered
+ORD-01885,CUST-914,2023-10-04,Books,Fiction Novel,5,394.15,0.00,Shipped
+ORD-01886,CUST-467,2023-09-09,Electronics,Tablet,4,385.61,0.00,Returned
+ORD-01887,CUST-870,2023-11-09,Food & Beverage,Coffee Beans,1,287.09,0.00,Returned
+ORD-01888,CUST-741,2023-05-18,Food & Beverage,Protein Bar,3,71.01,0.00,Shipped
+ORD-01889,CUST-935,2023-04-12,Food & Beverage,Energy Drink,4,91.75,0.00,Cancelled
+ORD-01890,CUST-870,2023-04-19,Books,History Book,2,408.78,0.00,Cancelled
+ORD-01891,CUST-34,2023-11-07,Food & Beverage,Snack Pack,4,403.74,0.00,Delivered
+ORD-01892,CUST-607,2023-04-04,Electronics,Laptop,4,267.99,0.00,Cancelled
+ORD-01893,CUST-186,2023-09-13,Books,Fiction Novel,1,161.51,0.16,Pending
+ORD-01894,CUST-922,2023-05-12,Books,Fiction Novel,4,432.02,0.12,Pending
+ORD-01895,CUST-766,2023-07-10,Books,Biography,3,358.01,0.00,Cancelled
+ORD-01896,CUST-972,2023-02-02,Electronics,Smartphone,5,143.28,0.16,Pending
+ORD-01897,CUST-426,2023-10-07,Clothing,Jeans,4,452.59,0.00,Shipped
+ORD-01898,CUST-202,2023-11-05,Clothing,Sneakers,3,90.18,0.09,Cancelled
+ORD-01899,CUST-12,2023-07-23,Home Goods,Air Fryer,4,134.43,0.00,Pending
+ORD-01900,CUST-373,2023-01-03,Home Goods,Blender,4,264.60,0.00,Cancelled
+ORD-01901,CUST-847,2023-06-25,Clothing,Jacket,2,171.22,0.00,Shipped
+ORD-01902,CUST-218,2023-05-31,Books,Fiction Novel,3,102.62,0.00,Returned
+ORD-01903,CUST-524,2023-01-24,Electronics,Smartwatch,1,237.90,0.16,Returned
+ORD-01904,CUST-918,2023-05-10,Home Goods,Vacuum Cleaner,2,36.27,0.04,Delivered
+ORD-01905,CUST-538,2023-10-03,Clothing,Sneakers,1,491.69,0.00,Returned
+ORD-01906,CUST-212,2023-08-14,Books,Fiction Novel,5,52.52,0.00,Cancelled
+ORD-01907,CUST-704,2023-06-27,Home Goods,Air Fryer,4,186.53,0.00,Cancelled
+ORD-01908,CUST-114,2023-08-09,Electronics,Smartphone,2,138.67,0.00,Pending
+ORD-01909,CUST-111,2023-12-06,Clothing,T-Shirt,4,21.28,0.00,Shipped
+ORD-01910,CUST-70,2023-11-20,Home Goods,Air Fryer,5,120.17,0.07,Cancelled
+ORD-01911,CUST-531,2023-12-14,Food & Beverage,Organic Tea,5,487.94,0.00,Pending
+ORD-01912,CUST-899,2023-08-18,Electronics,Tablet,2,412.57,0.00,Delivered
+ORD-01913,CUST-601,2023-02-04,Books,History Book,2,211.89,0.00,Delivered
+ORD-01914,CUST-772,2023-01-25,Food & Beverage,Coffee Beans,3,140.26,0.00,Pending
+ORD-01915,CUST-435,2023-09-07,Books,Science Book,5,112.47,0.00,Returned
+ORD-01916,CUST-807,2023-11-14,Books,Science Book,4,187.25,0.00,Cancelled
+ORD-01917,CUST-227,2023-04-23,Clothing,T-Shirt,1,40.81,0.00,Pending
+ORD-01918,CUST-974,2023-12-20,Food & Beverage,Protein Bar,3,86.63,0.00,Pending
+ORD-01919,CUST-632,2023-06-03,Food & Beverage,Organic Tea,1,101.04,0.00,Delivered
+ORD-01920,CUST-959,2023-01-11,Books,Cookbook,1,400.23,0.04,Shipped
+ORD-01921,CUST-109,2023-02-11,Clothing,Dress,1,473.11,0.00,Cancelled
+ORD-01922,CUST-486,2023-10-02,Electronics,Laptop,1,366.36,0.00,Pending
+ORD-01923,CUST-522,2023-02-08,Electronics,Tablet,2,490.84,0.00,Pending
+ORD-01924,CUST-154,2023-10-19,Home Goods,Toaster,1,207.28,0.00,Returned
+ORD-01925,CUST-469,2023-08-03,Clothing,Dress,4,103.64,0.19,Shipped
+ORD-01926,CUST-46,2023-09-19,Clothing,Jeans,5,445.31,0.00,Pending
+ORD-01927,CUST-615,2023-12-20,Food & Beverage,Coffee Beans,2,306.64,0.03,Pending
+ORD-01928,CUST-67,2023-04-23,Home Goods,Toaster,2,55.98,0.00,Cancelled
+ORD-01929,CUST-386,2023-09-24,Food & Beverage,Snack Pack,3,197.92,0.00,Shipped
+ORD-01930,CUST-493,2023-05-24,Home Goods,Vacuum Cleaner,3,96.14,0.00,Shipped
+ORD-01931,CUST-171,2023-08-23,Food & Beverage,Coffee Beans,3,401.87,0.05,Cancelled
+ORD-01932,CUST-973,2023-06-02,Clothing,Dress,4,328.09,0.00,Pending
+ORD-01933,CUST-356,2023-06-07,Food & Beverage,Coffee Beans,3,93.31,0.00,Returned
+ORD-01934,CUST-49,2023-04-19,Books,Science Book,2,168.60,0.00,Returned
+ORD-01935,CUST-501,2023-10-26,Electronics,Smartphone,4,170.10,0.07,Pending
+ORD-01936,CUST-444,2023-10-07,Electronics,Smartwatch,1,228.42,0.00,Cancelled
+ORD-01937,CUST-265,2023-05-04,Food & Beverage,Snack Pack,3,241.37,0.00,Cancelled
+ORD-01938,CUST-814,2023-11-15,Food & Beverage,Protein Bar,3,414.71,0.00,Returned
+ORD-01939,CUST-452,2023-05-20,Electronics,Smartphone,2,239.54,0.00,Shipped
+ORD-01940,CUST-54,2023-09-07,Home Goods,Air Fryer,4,449.91,0.18,Delivered
+ORD-01941,CUST-26,2023-09-11,Electronics,Smartwatch,4,90.73,0.00,Pending
+ORD-01942,CUST-959,2023-04-20,Food & Beverage,Protein Bar,1,171.21,0.00,Pending
+ORD-01943,CUST-845,2023-08-24,Electronics,Headphones,5,258.03,0.00,Pending
+ORD-01944,CUST-587,2023-07-31,Food & Beverage,Energy Drink,2,304.86,0.00,Delivered
+ORD-01945,CUST-375,2023-07-22,Home Goods,Toaster,4,87.38,0.00,Returned
+ORD-01946,CUST-629,2023-07-10,Clothing,Dress,2,48.52,0.00,Pending
+ORD-01947,CUST-699,2023-12-01,Electronics,Tablet,3,117.98,0.00,Shipped
+ORD-01948,CUST-897,2023-10-27,Electronics,Headphones,2,31.72,0.10,Pending
+ORD-01949,CUST-366,2023-03-18,Food & Beverage,Organic Tea,4,174.07,0.00,Cancelled
+ORD-01950,CUST-596,2023-11-15,Clothing,Dress,2,477.15,0.00,Cancelled
+ORD-01951,CUST-748,2023-05-17,Electronics,Laptop,3,34.41,0.03,Returned
+ORD-01952,CUST-828,2023-01-22,Food & Beverage,Snack Pack,3,399.34,0.17,Shipped
+ORD-01953,CUST-846,2023-04-25,Electronics,Smartphone,2,316.14,0.00,Shipped
+ORD-01954,CUST-96,2023-10-04,Electronics,Tablet,5,137.31,0.00,Shipped
+ORD-01955,CUST-791,2023-10-10,Food & Beverage,Protein Bar,5,367.49,0.12,Delivered
+ORD-01956,CUST-782,2023-04-19,Home Goods,Vacuum Cleaner,2,225.47,0.00,Cancelled
+ORD-01957,CUST-790,2023-01-24,Electronics,Laptop,1,83.93,0.00,Cancelled
+ORD-01958,CUST-847,2023-10-18,Electronics,Tablet,3,470.80,0.00,Cancelled
+ORD-01959,CUST-472,2023-02-01,Food & Beverage,Organic Tea,2,364.82,0.00,Pending
+ORD-01960,CUST-375,2023-08-21,Books,Biography,2,223.16,0.00,Cancelled
+ORD-01961,CUST-236,2023-10-02,Clothing,Dress,5,231.67,0.02,Pending
+ORD-01962,CUST-111,2023-02-25,Food & Beverage,Snack Pack,2,121.28,0.03,Shipped
+ORD-01963,CUST-1000,2023-09-10,Books,Biography,5,298.05,0.00,Delivered
+ORD-01964,CUST-8,2023-01-10,Food & Beverage,Coffee Beans,1,244.51,0.00,Cancelled
+ORD-01965,CUST-663,2023-07-11,Clothing,Jeans,4,422.46,0.00,Returned
+ORD-01966,CUST-901,2023-07-02,Food & Beverage,Snack Pack,2,121.46,0.00,Cancelled
+ORD-01967,CUST-377,2023-10-17,Home Goods,Blender,2,59.39,0.11,Cancelled
+ORD-01968,CUST-396,2023-09-15,Books,Fiction Novel,1,50.78,0.00,Delivered
+ORD-01969,CUST-42,2023-12-24,Books,Science Book,3,201.32,0.16,Delivered
+ORD-01970,CUST-992,2023-02-03,Food & Beverage,Coffee Beans,1,239.04,0.00,Cancelled
+ORD-01971,CUST-495,2023-05-23,Food & Beverage,Snack Pack,1,269.35,0.00,Shipped
+ORD-01972,CUST-415,2023-08-26,Electronics,Laptop,1,226.46,0.00,Returned
+ORD-01973,CUST-171,2023-09-22,Clothing,T-Shirt,1,398.34,0.00,Returned
+ORD-01974,CUST-163,2023-02-27,Home Goods,Blender,5,240.69,0.14,Returned
+ORD-01975,CUST-549,2023-10-21,Home Goods,Toaster,4,108.74,0.00,Pending
+ORD-01976,CUST-926,2023-01-22,Electronics,Laptop,5,249.21,0.00,Returned
+ORD-01977,CUST-541,2023-03-16,Books,Fiction Novel,5,135.08,0.00,Shipped
+ORD-01978,CUST-972,2023-12-02,Electronics,Tablet,3,20.89,0.00,Shipped
+ORD-01979,CUST-4,2023-10-31,Home Goods,Vacuum Cleaner,2,57.38,0.00,Cancelled
+ORD-01980,CUST-131,2023-06-23,Home Goods,Blender,2,81.92,0.00,Delivered
+ORD-01981,CUST-614,2023-07-02,Electronics,Smartphone,4,146.66,0.00,Delivered
+ORD-01982,CUST-995,2023-01-14,Books,Biography,3,191.92,0.14,Pending
+ORD-01983,CUST-98,2023-06-09,Home Goods,Toaster,5,486.37,0.00,Pending
+ORD-01984,CUST-820,2023-12-06,Home Goods,Toaster,4,421.32,0.00,Delivered
+ORD-01985,CUST-282,2023-02-16,Electronics,Smartphone,1,455.36,0.00,Returned
+ORD-01986,CUST-95,2023-08-15,Home Goods,Toaster,5,89.18,0.10,Shipped
+ORD-01987,CUST-293,2023-01-18,Books,Fiction Novel,3,136.33,0.08,Cancelled
+ORD-01988,CUST-258,2023-01-22,Clothing,T-Shirt,3,458.52,0.11,Returned
+ORD-01989,CUST-424,2023-08-23,Clothing,Dress,5,385.50,0.00,Pending
+ORD-01990,CUST-651,2023-05-12,Home Goods,Coffee Maker,4,121.04,0.00,Delivered
+ORD-01991,CUST-882,2023-03-02,Food & Beverage,Energy Drink,3,457.34,0.00,Delivered
+ORD-01992,CUST-394,2023-01-14,Home Goods,Toaster,4,339.49,0.03,Returned
+ORD-01993,CUST-865,2023-06-15,Clothing,T-Shirt,3,113.23,0.16,Shipped
+ORD-01994,CUST-990,2023-12-02,Books,Cookbook,4,387.28,0.00,Cancelled
+ORD-01995,CUST-611,2023-07-26,Food & Beverage,Coffee Beans,3,424.27,0.00,Returned
+ORD-01996,CUST-876,2023-11-20,Electronics,Headphones,1,217.09,0.00,Returned
+ORD-01997,CUST-962,2023-03-10,Clothing,T-Shirt,5,448.37,0.18,Cancelled
+ORD-01998,CUST-323,2023-11-01,Home Goods,Coffee Maker,3,90.24,0.00,Delivered
+ORD-01999,CUST-343,2023-05-18,Electronics,Laptop,2,303.59,0.00,Pending
+ORD-02000,CUST-730,2023-07-06,Clothing,Jacket,2,254.62,0.00,Returned
