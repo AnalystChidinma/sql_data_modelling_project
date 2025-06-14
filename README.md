@@ -19,10 +19,14 @@ Each model represents a different approach to organizing data for analytics desi
  1. Star Schema  
 The go-to structure for reporting and dashboards. Easy joins, fast queries, and perfect for tools like Power BI or Tableau.
 
-2.  Snowflake Schema  
+important link
+
+draw.io : ![image](https://github.com/user-attachments/assets/f1a60e58-7bd2-4051-b17b-39f47907c34a)
+
+3.  Snowflake Schema  
 A normalized version of the star. Cleaner, more maintainable, and often used in large-scale enterprise DW environments.
 
- 3. One Big Table (OBT)  
+ 4. One Big Table (OBT)  
 Everything in one flat table. Great for ad hoc analysis, data export, or machine learning inputs.
 
 ---
